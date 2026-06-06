@@ -3,7 +3,7 @@ CREATE TABLE customers (
     first_name VARCHAR(50) NOT NULL,
     last_name VARCHAR(50) NOT NULL,
     email VARCHAR(100) UNIQUE NOT NULL,
-    phone VARCHAR(20),
+    phone VARCHAR(30),
     city VARCHAR(50),
     created_at TIMESTAMP DEFAULT CURRENT_TIMESTAMP
 );
@@ -122,4 +122,3 @@ CREATE TABLE shipping (
     FOREIGN KEY (order_id)
         REFERENCES orders(order_id)
 );
-
