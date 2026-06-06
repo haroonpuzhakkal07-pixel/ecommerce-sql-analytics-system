@@ -45,6 +45,8 @@ CREATE TABLE orders (
 
     order_date TIMESTAMP DEFAULT CURRENT_TIMESTAMP,
 
+    total_amount DECIMAL(10,2) NOT NULL CHECK (total_amount >= 0),
+
     status VARCHAR(20)
         CHECK (
             status IN (
