@@ -159,3 +159,36 @@ VALUES
 """
 
         file.write(sql)
+
+# ------------------
+# Order Items
+# ------------------
+
+with open("database/order_items.sql", "w", encoding="utf-8") as file:
+
+    for _ in range(1500):
+
+        order_id = random.randint(1, 500)
+
+        product_id = random.randint(1, 200)
+
+        quantity = random.randint(1, 5)
+
+        price = round(
+            random.uniform(100, 50000),
+            2
+        )
+
+        sql = f"""
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+{order_id},
+{product_id},
+{quantity},
+{price}
+);
+"""
+
+        file.write(sql)
