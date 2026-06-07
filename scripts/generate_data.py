@@ -116,3 +116,46 @@ VALUES
 
         file.write(sql)
 
+from datetime import timedelta
+
+# ------------------
+# Orders
+# ------------------
+
+with open("database/orders.sql", "w", encoding="utf-8") as file:
+
+    statuses = [
+        "Pending",
+        "Completed",
+        "Cancelled"
+    ]
+
+    for _ in range(500):
+
+        customer_id = random.randint(1, 100)
+
+        order_date = fake.date_time_between(
+            start_date="-2y",
+            end_date="now"
+        )
+
+        status = random.choice(statuses)
+
+        total_amount = round(
+            random.uniform(500, 100000),
+            2
+        )
+
+        sql = f"""
+INSERT INTO orders
+(customer_id, order_date, status, total_amount)
+VALUES
+(
+{customer_id},
+'{order_date}',
+'{status}',
+{total_amount}
+);
+"""
+
+        file.write(sql)

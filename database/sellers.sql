@@ -2,99 +2,99 @@
 INSERT INTO sellers
 (seller_name,email,rating)
 VALUES
-('Thompson, Johnson and Nunez','rodriguezerin@seller.com',3.3);
+('Martinez Group','vcross@seller.com',4.5);
 
 INSERT INTO sellers
 (seller_name,email,rating)
 VALUES
-('Gallagher, Robinson and Wood','tylerlyons@seller.com',4.6);
+('Sanchez LLC','tonywhitaker@seller.com',3.2);
 
 INSERT INTO sellers
 (seller_name,email,rating)
 VALUES
-('Coleman, Landry and Daniels','dawncarrillo@seller.com',4.2);
+('Mejia Group','dorothy46@seller.com',3.3);
 
 INSERT INTO sellers
 (seller_name,email,rating)
 VALUES
-('Wells, Miles and Estrada','berrytony@seller.com',3.6);
+('Mckenzie LLC','bthomas@seller.com',3.1);
 
 INSERT INTO sellers
 (seller_name,email,rating)
 VALUES
-('Hawkins, Marshall and Jones','morganscott@seller.com',4.4);
+('Sosa PLC','snyderamanda@seller.com',4.5);
 
 INSERT INTO sellers
 (seller_name,email,rating)
 VALUES
-('Khan PLC','patriciastein@seller.com',3.0);
+('Farmer, Brown and Anderson','gjones@seller.com',4.1);
 
 INSERT INTO sellers
 (seller_name,email,rating)
 VALUES
-('Dunn-Willis','jtorres@seller.com',3.8);
+('Wagner-Smith','alexalozano@seller.com',3.1);
 
 INSERT INTO sellers
 (seller_name,email,rating)
 VALUES
-('Adams-Webster','yquinn@seller.com',4.8);
+('Griffith and Sons','daisy98@seller.com',5.0);
 
 INSERT INTO sellers
 (seller_name,email,rating)
 VALUES
-('Hubbard, Cole and Nguyen','michelegreen@seller.com',3.5);
+('Pearson-Payne','gabriel43@seller.com',3.7);
 
 INSERT INTO sellers
 (seller_name,email,rating)
 VALUES
-('Hernandez Group','oliviaconner@seller.com',4.8);
+('Medina, Johnson and Lang','jacob09@seller.com',3.5);
 
 INSERT INTO sellers
 (seller_name,email,rating)
 VALUES
-('Schwartz, Rojas and Rodriguez','jeffreyking@seller.com',3.3);
+('Bennett-Ramos','ninaanderson@seller.com',3.1);
 
 INSERT INTO sellers
 (seller_name,email,rating)
 VALUES
-('Cook LLC','charlesross@seller.com',3.1);
+('Patterson Group','danielshannah@seller.com',4.9);
 
 INSERT INTO sellers
 (seller_name,email,rating)
 VALUES
-('Sullivan-Leblanc','melissa01@seller.com',3.8);
+('Owen, Gonzalez and Espinoza','hudsonjohn@seller.com',4.9);
 
 INSERT INTO sellers
 (seller_name,email,rating)
 VALUES
-('Macias-Allen','reyesnancy@seller.com',4.3);
+('Smith-Morgan','cobbdonna@seller.com',3.2);
 
 INSERT INTO sellers
 (seller_name,email,rating)
 VALUES
-('Glover LLC','sandrajohnson@seller.com',4.4);
+('Larson LLC','dduran@seller.com',3.7);
 
 INSERT INTO sellers
 (seller_name,email,rating)
 VALUES
-('Hurst, Garcia and Burns','lyang@seller.com',4.4);
+('Frazier Group','brian72@seller.com',4.7);
 
 INSERT INTO sellers
 (seller_name,email,rating)
 VALUES
-('Crane-Haynes','catherinesmith@seller.com',4.4);
+('Burton PLC','mjones@seller.com',4.5);
 
 INSERT INTO sellers
 (seller_name,email,rating)
 VALUES
-('Chen-Rios','tanyathomas@seller.com',4.2);
+('Harrison Group','mcgeedavid@seller.com',3.7);
 
 INSERT INTO sellers
 (seller_name,email,rating)
 VALUES
-('Goodwin-Jacobs','andredawson@seller.com',3.0);
+('Williams, Allen and Klein','davidsmith@seller.com',3.9);
 
 INSERT INTO sellers
 (seller_name,email,rating)
 VALUES
-('Perez, Benson and Olsen','kwilson@seller.com',3.4);
+('Young LLC','enguyen@seller.com',3.9);
