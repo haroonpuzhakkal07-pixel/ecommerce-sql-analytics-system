@@ -3,22 +3,33 @@ INSERT INTO products
 (product_name,category_id,seller_id,price,stock_quantity)
 VALUES
 (
-'Portable Headphones',
-3,
-10,
-43597.58,
-165
+'Portable Chair',
+4,
+7,
+46933.25,
+330
 );
 
 INSERT INTO products
 (product_name,category_id,seller_id,price,stock_quantity)
 VALUES
 (
-'Ultra Keyboard',
-1,
-10,
-10925.34,
-155
+'Portable Camera',
+7,
+15,
+17592.44,
+108
+);
+
+INSERT INTO products
+(product_name,category_id,seller_id,price,stock_quantity)
+VALUES
+(
+'Professional Keyboard',
+9,
+14,
+37090.69,
+108
 );
 
 INSERT INTO products
@@ -26,76 +37,32 @@ INSERT INTO products
 VALUES
 (
 'Wireless Speaker',
-10,
-16,
-25686.2,
-364
-);
-
-INSERT INTO products
-(product_name,category_id,seller_id,price,stock_quantity)
-VALUES
-(
-'Professional Monitor',
-2,
-4,
-28511.77,
-278
-);
-
-INSERT INTO products
-(product_name,category_id,seller_id,price,stock_quantity)
-VALUES
-(
-'Advanced Phone',
-8,
 9,
-38889.47,
-197
+20,
+33743.91,
+432
 );
 
 INSERT INTO products
 (product_name,category_id,seller_id,price,stock_quantity)
 VALUES
 (
-'Ultra Keyboard',
-4,
-10,
-38489.84,
-359
+'Professional Mouse',
+2,
+19,
+18195.09,
+271
 );
 
 INSERT INTO products
 (product_name,category_id,seller_id,price,stock_quantity)
 VALUES
 (
-'Wireless Mouse',
-1,
-11,
-49338.32,
-50
-);
-
-INSERT INTO products
-(product_name,category_id,seller_id,price,stock_quantity)
-VALUES
-(
-'Wireless Headphones',
-3,
-12,
-41674.06,
-419
-);
-
-INSERT INTO products
-(product_name,category_id,seller_id,price,stock_quantity)
-VALUES
-(
-'Premium Monitor',
-7,
-17,
-43647.37,
-297
+'Ultra Book',
+9,
+18,
+5581.31,
+77
 );
 
 INSERT INTO products
@@ -103,131 +70,76 @@ INSERT INTO products
 VALUES
 (
 'Smart Monitor',
-10,
+3,
+6,
+2511.51,
+34
+);
+
+INSERT INTO products
+(product_name,category_id,seller_id,price,stock_quantity)
+VALUES
+(
+'Portable Laptop',
+9,
+6,
+49460.62,
+287
+);
+
+INSERT INTO products
+(product_name,category_id,seller_id,price,stock_quantity)
+VALUES
+(
+'Premium Monitor',
+5,
+1,
+47557.51,
+404
+);
+
+INSERT INTO products
+(product_name,category_id,seller_id,price,stock_quantity)
+VALUES
+(
+'Smart Headphones',
+6,
 4,
-2307.07,
-352
+34295.56,
+276
 );
 
 INSERT INTO products
 (product_name,category_id,seller_id,price,stock_quantity)
 VALUES
 (
-'Ultra Camera',
-3,
-1,
-42364.29,
-474
-);
-
-INSERT INTO products
-(product_name,category_id,seller_id,price,stock_quantity)
-VALUES
-(
-'Wireless Monitor',
-3,
-6,
-38677.53,
-19
-);
-
-INSERT INTO products
-(product_name,category_id,seller_id,price,stock_quantity)
-VALUES
-(
-'Portable Headphones',
-8,
-7,
-7907.37,
-392
-);
-
-INSERT INTO products
-(product_name,category_id,seller_id,price,stock_quantity)
-VALUES
-(
-'Premium Laptop',
-7,
-16,
-49737.39,
-43
-);
-
-INSERT INTO products
-(product_name,category_id,seller_id,price,stock_quantity)
-VALUES
-(
-'Premium Keyboard',
-8,
-1,
-39927.08,
-39
-);
-
-INSERT INTO products
-(product_name,category_id,seller_id,price,stock_quantity)
-VALUES
-(
-'Premium Headphones',
-7,
-1,
-11067.93,
-109
-);
-
-INSERT INTO products
-(product_name,category_id,seller_id,price,stock_quantity)
-VALUES
-(
-'Professional Speaker',
-3,
+'Professional Phone',
+2,
 18,
-32984.23,
-213
+43247.77,
+336
 );
 
 INSERT INTO products
 (product_name,category_id,seller_id,price,stock_quantity)
 VALUES
 (
-'Ultra Monitor',
-5,
-5,
-39289.17,
-40
-);
-
-INSERT INTO products
-(product_name,category_id,seller_id,price,stock_quantity)
-VALUES
-(
-'Smart Chair',
-6,
-18,
-45474.67,
-457
-);
-
-INSERT INTO products
-(product_name,category_id,seller_id,price,stock_quantity)
-VALUES
-(
-'Digital Laptop',
+'Wireless Mouse',
 3,
-1,
-30972.49,
-178
+4,
+7745.43,
+167
 );
 
 INSERT INTO products
 (product_name,category_id,seller_id,price,stock_quantity)
 VALUES
 (
-'Smart Book',
-8,
-12,
-45429.92,
-394
+'Portable Keyboard',
+3,
+3,
+10127.74,
+199
 );
 
 INSERT INTO products
@@ -235,53 +147,31 @@ INSERT INTO products
 VALUES
 (
 'Premium Book',
-6,
-20,
-33066.42,
-291
-);
-
-INSERT INTO products
-(product_name,category_id,seller_id,price,stock_quantity)
-VALUES
-(
-'Advanced Mouse',
-3,
+1,
 19,
-43488.52,
-439
+7039.56,
+411
 );
 
 INSERT INTO products
 (product_name,category_id,seller_id,price,stock_quantity)
 VALUES
 (
-'Smart Phone',
-3,
-10,
-41973.53,
-42
-);
-
-INSERT INTO products
-(product_name,category_id,seller_id,price,stock_quantity)
-VALUES
-(
-'Ultra Keyboard',
-5,
+'Premium Headphones',
 8,
-45205.94,
-98
+10,
+47130.77,
+354
 );
 
 INSERT INTO products
 (product_name,category_id,seller_id,price,stock_quantity)
 VALUES
 (
-'Wireless Speaker',
-2,
-5,
-17324.2,
+'Ultra Monitor',
+4,
+12,
+26668.27,
 355
 );
 
@@ -289,66 +179,99 @@ INSERT INTO products
 (product_name,category_id,seller_id,price,stock_quantity)
 VALUES
 (
-'Professional Book',
-4,
-1,
-27935.6,
-62
-);
-
-INSERT INTO products
-(product_name,category_id,seller_id,price,stock_quantity)
-VALUES
-(
-'Professional Monitor',
-10,
-8,
-36664.81,
-79
-);
-
-INSERT INTO products
-(product_name,category_id,seller_id,price,stock_quantity)
-VALUES
-(
-'Wireless Chair',
-3,
-2,
-40395.96,
-184
-);
-
-INSERT INTO products
-(product_name,category_id,seller_id,price,stock_quantity)
-VALUES
-(
-'Ultra Phone',
-4,
-8,
-32680.93,
-446
-);
-
-INSERT INTO products
-(product_name,category_id,seller_id,price,stock_quantity)
-VALUES
-(
-'Advanced Speaker',
-1,
+'Digital Mouse',
+6,
 18,
-9625.97,
-362
+25410.69,
+302
 );
 
 INSERT INTO products
 (product_name,category_id,seller_id,price,stock_quantity)
 VALUES
 (
-'Portable Headphones',
-4,
-13,
-2357.53,
-444
+'Professional Camera',
+8,
+2,
+20425.56,
+422
+);
+
+INSERT INTO products
+(product_name,category_id,seller_id,price,stock_quantity)
+VALUES
+(
+'Advanced Book',
+9,
+1,
+33918.59,
+313
+);
+
+INSERT INTO products
+(product_name,category_id,seller_id,price,stock_quantity)
+VALUES
+(
+'Digital Keyboard',
+6,
+19,
+17750.95,
+386
+);
+
+INSERT INTO products
+(product_name,category_id,seller_id,price,stock_quantity)
+VALUES
+(
+'Digital Headphones',
+6,
+16,
+24253.23,
+139
+);
+
+INSERT INTO products
+(product_name,category_id,seller_id,price,stock_quantity)
+VALUES
+(
+'Smart Keyboard',
+1,
+12,
+40170.77,
+238
+);
+
+INSERT INTO products
+(product_name,category_id,seller_id,price,stock_quantity)
+VALUES
+(
+'Digital Book',
+6,
+2,
+9009.36,
+97
+);
+
+INSERT INTO products
+(product_name,category_id,seller_id,price,stock_quantity)
+VALUES
+(
+'Ultra Headphones',
+6,
+19,
+13270.27,
+413
+);
+
+INSERT INTO products
+(product_name,category_id,seller_id,price,stock_quantity)
+VALUES
+(
+'Ultra Monitor',
+10,
+14,
+43329.66,
+423
 );
 
 INSERT INTO products
@@ -356,10 +279,10 @@ INSERT INTO products
 VALUES
 (
 'Professional Monitor',
-4,
-10,
-31799.41,
-104
+5,
+5,
+33779.42,
+330
 );
 
 INSERT INTO products
@@ -369,40 +292,73 @@ VALUES
 'Professional Chair',
 10,
 15,
-39421.7,
-100
+10453.26,
+479
 );
 
 INSERT INTO products
 (product_name,category_id,seller_id,price,stock_quantity)
 VALUES
 (
-'Advanced Speaker',
-3,
-8,
-34713.19,
-229
+'Portable Monitor',
+2,
+11,
+23527.08,
+200
 );
 
 INSERT INTO products
 (product_name,category_id,seller_id,price,stock_quantity)
 VALUES
 (
-'Premium Book',
-4,
-10,
-5427.79,
-121
-);
-
-INSERT INTO products
-(product_name,category_id,seller_id,price,stock_quantity)
-VALUES
-(
-'Wireless Speaker',
+'Wireless Headphones',
 7,
-4,
-28776.95,
+18,
+38233.0,
+60
+);
+
+INSERT INTO products
+(product_name,category_id,seller_id,price,stock_quantity)
+VALUES
+(
+'Portable Speaker',
+3,
+2,
+38464.76,
+262
+);
+
+INSERT INTO products
+(product_name,category_id,seller_id,price,stock_quantity)
+VALUES
+(
+'Wireless Mouse',
+1,
+8,
+11045.22,
+307
+);
+
+INSERT INTO products
+(product_name,category_id,seller_id,price,stock_quantity)
+VALUES
+(
+'Digital Mouse',
+7,
+11,
+36426.69,
+390
+);
+
+INSERT INTO products
+(product_name,category_id,seller_id,price,stock_quantity)
+VALUES
+(
+'Wireless Camera',
+3,
+2,
+1862.26,
 287
 );
 
@@ -411,1120 +367,9 @@ INSERT INTO products
 VALUES
 (
 'Professional Laptop',
-6,
-4,
-22177.68,
-155
-);
-
-INSERT INTO products
-(product_name,category_id,seller_id,price,stock_quantity)
-VALUES
-(
-'Smart Monitor',
-2,
-6,
-44350.94,
-491
-);
-
-INSERT INTO products
-(product_name,category_id,seller_id,price,stock_quantity)
-VALUES
-(
-'Advanced Phone',
-10,
-9,
-26776.76,
-494
-);
-
-INSERT INTO products
-(product_name,category_id,seller_id,price,stock_quantity)
-VALUES
-(
-'Portable Book',
-10,
-16,
-23021.53,
-158
-);
-
-INSERT INTO products
-(product_name,category_id,seller_id,price,stock_quantity)
-VALUES
-(
-'Smart Speaker',
-7,
-12,
-40055.02,
-483
-);
-
-INSERT INTO products
-(product_name,category_id,seller_id,price,stock_quantity)
-VALUES
-(
-'Advanced Camera',
-2,
-13,
-35146.52,
-107
-);
-
-INSERT INTO products
-(product_name,category_id,seller_id,price,stock_quantity)
-VALUES
-(
-'Ultra Book',
-3,
-9,
-21579.05,
-178
-);
-
-INSERT INTO products
-(product_name,category_id,seller_id,price,stock_quantity)
-VALUES
-(
-'Advanced Book',
-6,
-1,
-5051.48,
-326
-);
-
-INSERT INTO products
-(product_name,category_id,seller_id,price,stock_quantity)
-VALUES
-(
-'Advanced Camera',
-6,
-6,
-29650.08,
-153
-);
-
-INSERT INTO products
-(product_name,category_id,seller_id,price,stock_quantity)
-VALUES
-(
-'Digital Speaker',
-9,
-11,
-148.91,
-110
-);
-
-INSERT INTO products
-(product_name,category_id,seller_id,price,stock_quantity)
-VALUES
-(
-'Portable Headphones',
-5,
-1,
-42711.87,
-61
-);
-
-INSERT INTO products
-(product_name,category_id,seller_id,price,stock_quantity)
-VALUES
-(
-'Professional Laptop',
-6,
-10,
-8852.52,
-454
-);
-
-INSERT INTO products
-(product_name,category_id,seller_id,price,stock_quantity)
-VALUES
-(
-'Premium Headphones',
-2,
-7,
-39062.13,
-92
-);
-
-INSERT INTO products
-(product_name,category_id,seller_id,price,stock_quantity)
-VALUES
-(
-'Portable Monitor',
-10,
-9,
-30236.35,
-289
-);
-
-INSERT INTO products
-(product_name,category_id,seller_id,price,stock_quantity)
-VALUES
-(
-'Portable Speaker',
-6,
-12,
-19951.75,
-397
-);
-
-INSERT INTO products
-(product_name,category_id,seller_id,price,stock_quantity)
-VALUES
-(
-'Ultra Mouse',
-8,
-1,
-2327.16,
-311
-);
-
-INSERT INTO products
-(product_name,category_id,seller_id,price,stock_quantity)
-VALUES
-(
-'Professional Headphones',
-6,
-4,
-21487.95,
-135
-);
-
-INSERT INTO products
-(product_name,category_id,seller_id,price,stock_quantity)
-VALUES
-(
-'Premium Camera',
-7,
-19,
-14894.55,
-136
-);
-
-INSERT INTO products
-(product_name,category_id,seller_id,price,stock_quantity)
-VALUES
-(
-'Professional Speaker',
-5,
-11,
-45714.76,
-188
-);
-
-INSERT INTO products
-(product_name,category_id,seller_id,price,stock_quantity)
-VALUES
-(
-'Smart Headphones',
-8,
-14,
-21225.95,
-139
-);
-
-INSERT INTO products
-(product_name,category_id,seller_id,price,stock_quantity)
-VALUES
-(
-'Smart Laptop',
-1,
-18,
-12293.38,
-143
-);
-
-INSERT INTO products
-(product_name,category_id,seller_id,price,stock_quantity)
-VALUES
-(
-'Smart Camera',
-8,
-14,
-45997.98,
-122
-);
-
-INSERT INTO products
-(product_name,category_id,seller_id,price,stock_quantity)
-VALUES
-(
-'Premium Book',
-4,
-8,
-17722.86,
-49
-);
-
-INSERT INTO products
-(product_name,category_id,seller_id,price,stock_quantity)
-VALUES
-(
-'Portable Book',
-3,
-3,
-44589.74,
-44
-);
-
-INSERT INTO products
-(product_name,category_id,seller_id,price,stock_quantity)
-VALUES
-(
-'Premium Book',
-1,
-4,
-7708.72,
-366
-);
-
-INSERT INTO products
-(product_name,category_id,seller_id,price,stock_quantity)
-VALUES
-(
-'Advanced Laptop',
-10,
-6,
-11889.59,
-272
-);
-
-INSERT INTO products
-(product_name,category_id,seller_id,price,stock_quantity)
-VALUES
-(
-'Digital Headphones',
-5,
-17,
-45637.75,
-453
-);
-
-INSERT INTO products
-(product_name,category_id,seller_id,price,stock_quantity)
-VALUES
-(
-'Professional Monitor',
-6,
-17,
-13785.56,
-286
-);
-
-INSERT INTO products
-(product_name,category_id,seller_id,price,stock_quantity)
-VALUES
-(
-'Digital Phone',
-5,
-1,
-34967.43,
-16
-);
-
-INSERT INTO products
-(product_name,category_id,seller_id,price,stock_quantity)
-VALUES
-(
-'Professional Laptop',
-5,
-9,
-9731.19,
-399
-);
-
-INSERT INTO products
-(product_name,category_id,seller_id,price,stock_quantity)
-VALUES
-(
-'Advanced Keyboard',
-1,
-19,
-38317.38,
-240
-);
-
-INSERT INTO products
-(product_name,category_id,seller_id,price,stock_quantity)
-VALUES
-(
-'Smart Chair',
-1,
-8,
-7164.54,
-126
-);
-
-INSERT INTO products
-(product_name,category_id,seller_id,price,stock_quantity)
-VALUES
-(
-'Advanced Laptop',
-8,
-6,
-21421.23,
-373
-);
-
-INSERT INTO products
-(product_name,category_id,seller_id,price,stock_quantity)
-VALUES
-(
-'Smart Chair',
-10,
-1,
-20689.26,
-343
-);
-
-INSERT INTO products
-(product_name,category_id,seller_id,price,stock_quantity)
-VALUES
-(
-'Ultra Monitor',
-3,
-5,
-10988.27,
-274
-);
-
-INSERT INTO products
-(product_name,category_id,seller_id,price,stock_quantity)
-VALUES
-(
-'Portable Book',
-3,
-14,
-22758.3,
-172
-);
-
-INSERT INTO products
-(product_name,category_id,seller_id,price,stock_quantity)
-VALUES
-(
-'Professional Speaker',
-9,
-9,
-2559.46,
-204
-);
-
-INSERT INTO products
-(product_name,category_id,seller_id,price,stock_quantity)
-VALUES
-(
-'Wireless Speaker',
-8,
-15,
-13741.41,
-34
-);
-
-INSERT INTO products
-(product_name,category_id,seller_id,price,stock_quantity)
-VALUES
-(
-'Advanced Keyboard',
-2,
-13,
-13093.19,
-299
-);
-
-INSERT INTO products
-(product_name,category_id,seller_id,price,stock_quantity)
-VALUES
-(
-'Ultra Camera',
-10,
-11,
-22522.35,
-293
-);
-
-INSERT INTO products
-(product_name,category_id,seller_id,price,stock_quantity)
-VALUES
-(
-'Ultra Headphones',
 10,
 14,
-10216.27,
-445
-);
-
-INSERT INTO products
-(product_name,category_id,seller_id,price,stock_quantity)
-VALUES
-(
-'Advanced Keyboard',
-9,
-11,
-27278.39,
-47
-);
-
-INSERT INTO products
-(product_name,category_id,seller_id,price,stock_quantity)
-VALUES
-(
-'Smart Monitor',
-10,
-17,
-43159.23,
-368
-);
-
-INSERT INTO products
-(product_name,category_id,seller_id,price,stock_quantity)
-VALUES
-(
-'Wireless Keyboard',
-3,
-9,
-29262.87,
-303
-);
-
-INSERT INTO products
-(product_name,category_id,seller_id,price,stock_quantity)
-VALUES
-(
-'Professional Camera',
-10,
-19,
-30161.96,
-84
-);
-
-INSERT INTO products
-(product_name,category_id,seller_id,price,stock_quantity)
-VALUES
-(
-'Advanced Book',
-10,
-8,
-15759.06,
-15
-);
-
-INSERT INTO products
-(product_name,category_id,seller_id,price,stock_quantity)
-VALUES
-(
-'Advanced Book',
-8,
-16,
-7287.56,
-213
-);
-
-INSERT INTO products
-(product_name,category_id,seller_id,price,stock_quantity)
-VALUES
-(
-'Premium Phone',
-2,
-10,
-29713.36,
-481
-);
-
-INSERT INTO products
-(product_name,category_id,seller_id,price,stock_quantity)
-VALUES
-(
-'Smart Speaker',
-1,
-9,
-30732.7,
-459
-);
-
-INSERT INTO products
-(product_name,category_id,seller_id,price,stock_quantity)
-VALUES
-(
-'Professional Monitor',
-7,
-9,
-40426.37,
-50
-);
-
-INSERT INTO products
-(product_name,category_id,seller_id,price,stock_quantity)
-VALUES
-(
-'Advanced Headphones',
-9,
-8,
-4287.55,
-244
-);
-
-INSERT INTO products
-(product_name,category_id,seller_id,price,stock_quantity)
-VALUES
-(
-'Professional Phone',
-10,
-19,
-38732.78,
-496
-);
-
-INSERT INTO products
-(product_name,category_id,seller_id,price,stock_quantity)
-VALUES
-(
-'Premium Book',
-2,
-6,
-39029.04,
-221
-);
-
-INSERT INTO products
-(product_name,category_id,seller_id,price,stock_quantity)
-VALUES
-(
-'Professional Phone',
-4,
-15,
-34068.49,
-145
-);
-
-INSERT INTO products
-(product_name,category_id,seller_id,price,stock_quantity)
-VALUES
-(
-'Smart Chair',
-5,
-8,
-34899.11,
-118
-);
-
-INSERT INTO products
-(product_name,category_id,seller_id,price,stock_quantity)
-VALUES
-(
-'Ultra Speaker',
-2,
-15,
-3708.83,
-407
-);
-
-INSERT INTO products
-(product_name,category_id,seller_id,price,stock_quantity)
-VALUES
-(
-'Professional Laptop',
-2,
-10,
-23513.13,
-123
-);
-
-INSERT INTO products
-(product_name,category_id,seller_id,price,stock_quantity)
-VALUES
-(
-'Smart Headphones',
-1,
-17,
-36466.11,
-479
-);
-
-INSERT INTO products
-(product_name,category_id,seller_id,price,stock_quantity)
-VALUES
-(
-'Wireless Speaker',
-6,
-8,
-38960.37,
-176
-);
-
-INSERT INTO products
-(product_name,category_id,seller_id,price,stock_quantity)
-VALUES
-(
-'Wireless Laptop',
-6,
-3,
-26603.32,
-482
-);
-
-INSERT INTO products
-(product_name,category_id,seller_id,price,stock_quantity)
-VALUES
-(
-'Professional Monitor',
-7,
-2,
-46012.48,
-189
-);
-
-INSERT INTO products
-(product_name,category_id,seller_id,price,stock_quantity)
-VALUES
-(
-'Portable Book',
-5,
-1,
-27224.16,
-374
-);
-
-INSERT INTO products
-(product_name,category_id,seller_id,price,stock_quantity)
-VALUES
-(
-'Ultra Laptop',
-10,
-14,
-10497.56,
-236
-);
-
-INSERT INTO products
-(product_name,category_id,seller_id,price,stock_quantity)
-VALUES
-(
-'Advanced Headphones',
-10,
-19,
-7562.94,
-172
-);
-
-INSERT INTO products
-(product_name,category_id,seller_id,price,stock_quantity)
-VALUES
-(
-'Professional Headphones',
-2,
-17,
-8156.16,
-106
-);
-
-INSERT INTO products
-(product_name,category_id,seller_id,price,stock_quantity)
-VALUES
-(
-'Ultra Phone',
-3,
-17,
-14286.52,
-487
-);
-
-INSERT INTO products
-(product_name,category_id,seller_id,price,stock_quantity)
-VALUES
-(
-'Portable Phone',
-6,
-3,
-31606.77,
-438
-);
-
-INSERT INTO products
-(product_name,category_id,seller_id,price,stock_quantity)
-VALUES
-(
-'Portable Book',
-6,
-2,
-48768.81,
-388
-);
-
-INSERT INTO products
-(product_name,category_id,seller_id,price,stock_quantity)
-VALUES
-(
-'Ultra Speaker',
-2,
-15,
-11388.32,
-498
-);
-
-INSERT INTO products
-(product_name,category_id,seller_id,price,stock_quantity)
-VALUES
-(
-'Advanced Laptop',
-2,
-6,
-46780.59,
-488
-);
-
-INSERT INTO products
-(product_name,category_id,seller_id,price,stock_quantity)
-VALUES
-(
-'Smart Laptop',
-10,
-6,
-49712.31,
-192
-);
-
-INSERT INTO products
-(product_name,category_id,seller_id,price,stock_quantity)
-VALUES
-(
-'Ultra Camera',
-2,
-17,
-31285.08,
-367
-);
-
-INSERT INTO products
-(product_name,category_id,seller_id,price,stock_quantity)
-VALUES
-(
-'Portable Speaker',
-6,
-10,
-12784.14,
-431
-);
-
-INSERT INTO products
-(product_name,category_id,seller_id,price,stock_quantity)
-VALUES
-(
-'Professional Mouse',
-7,
-11,
-15610.91,
-381
-);
-
-INSERT INTO products
-(product_name,category_id,seller_id,price,stock_quantity)
-VALUES
-(
-'Premium Laptop',
-10,
-7,
-42139.79,
-336
-);
-
-INSERT INTO products
-(product_name,category_id,seller_id,price,stock_quantity)
-VALUES
-(
-'Smart Mouse',
-6,
-18,
-19671.84,
-241
-);
-
-INSERT INTO products
-(product_name,category_id,seller_id,price,stock_quantity)
-VALUES
-(
-'Wireless Headphones',
-6,
-20,
-12429.91,
-242
-);
-
-INSERT INTO products
-(product_name,category_id,seller_id,price,stock_quantity)
-VALUES
-(
-'Professional Laptop',
-9,
-19,
-38088.87,
-52
-);
-
-INSERT INTO products
-(product_name,category_id,seller_id,price,stock_quantity)
-VALUES
-(
-'Professional Speaker',
-9,
-9,
-44374.36,
-459
-);
-
-INSERT INTO products
-(product_name,category_id,seller_id,price,stock_quantity)
-VALUES
-(
-'Wireless Phone',
-8,
-14,
-28997.84,
-139
-);
-
-INSERT INTO products
-(product_name,category_id,seller_id,price,stock_quantity)
-VALUES
-(
-'Premium Phone',
-7,
-3,
-31229.38,
-191
-);
-
-INSERT INTO products
-(product_name,category_id,seller_id,price,stock_quantity)
-VALUES
-(
-'Smart Keyboard',
-7,
-15,
-23989.63,
-288
-);
-
-INSERT INTO products
-(product_name,category_id,seller_id,price,stock_quantity)
-VALUES
-(
-'Digital Speaker',
-2,
-9,
-40661.68,
-341
-);
-
-INSERT INTO products
-(product_name,category_id,seller_id,price,stock_quantity)
-VALUES
-(
-'Professional Monitor',
-7,
-17,
-34671.44,
-333
-);
-
-INSERT INTO products
-(product_name,category_id,seller_id,price,stock_quantity)
-VALUES
-(
-'Premium Headphones',
-8,
-5,
-32101.43,
-312
-);
-
-INSERT INTO products
-(product_name,category_id,seller_id,price,stock_quantity)
-VALUES
-(
-'Advanced Headphones',
-10,
-9,
-14018.08,
-17
-);
-
-INSERT INTO products
-(product_name,category_id,seller_id,price,stock_quantity)
-VALUES
-(
-'Portable Keyboard',
-6,
-12,
-29946.31,
-97
-);
-
-INSERT INTO products
-(product_name,category_id,seller_id,price,stock_quantity)
-VALUES
-(
-'Premium Chair',
-3,
-9,
-15725.33,
-472
-);
-
-INSERT INTO products
-(product_name,category_id,seller_id,price,stock_quantity)
-VALUES
-(
-'Digital Monitor',
-4,
-12,
-32783.64,
-265
-);
-
-INSERT INTO products
-(product_name,category_id,seller_id,price,stock_quantity)
-VALUES
-(
-'Smart Headphones',
-2,
-13,
-24883.15,
-456
-);
-
-INSERT INTO products
-(product_name,category_id,seller_id,price,stock_quantity)
-VALUES
-(
-'Wireless Book',
-1,
-16,
-13923.31,
-247
-);
-
-INSERT INTO products
-(product_name,category_id,seller_id,price,stock_quantity)
-VALUES
-(
-'Premium Speaker',
-5,
-3,
-21209.5,
-87
-);
-
-INSERT INTO products
-(product_name,category_id,seller_id,price,stock_quantity)
-VALUES
-(
-'Advanced Camera',
-1,
-19,
-17935.38,
-67
-);
-
-INSERT INTO products
-(product_name,category_id,seller_id,price,stock_quantity)
-VALUES
-(
-'Portable Monitor',
-3,
-1,
-13089.3,
-490
-);
-
-INSERT INTO products
-(product_name,category_id,seller_id,price,stock_quantity)
-VALUES
-(
-'Ultra Laptop',
-3,
-10,
-49748.96,
-141
-);
-
-INSERT INTO products
-(product_name,category_id,seller_id,price,stock_quantity)
-VALUES
-(
-'Premium Headphones',
-6,
-14,
-17675.84,
-297
-);
-
-INSERT INTO products
-(product_name,category_id,seller_id,price,stock_quantity)
-VALUES
-(
-'Advanced Book',
-5,
-9,
-48412.09,
-280
-);
-
-INSERT INTO products
-(product_name,category_id,seller_id,price,stock_quantity)
-VALUES
-(
-'Premium Headphones',
-1,
-17,
-30863.55,
-183
-);
-
-INSERT INTO products
-(product_name,category_id,seller_id,price,stock_quantity)
-VALUES
-(
-'Premium Laptop',
-8,
-13,
-12552.34,
-469
-);
-
-INSERT INTO products
-(product_name,category_id,seller_id,price,stock_quantity)
-VALUES
-(
-'Portable Headphones',
-5,
-2,
-26295.67,
-446
-);
-
-INSERT INTO products
-(product_name,category_id,seller_id,price,stock_quantity)
-VALUES
-(
-'Advanced Keyboard',
-4,
-12,
-6317.38,
-125
-);
-
-INSERT INTO products
-(product_name,category_id,seller_id,price,stock_quantity)
-VALUES
-(
-'Advanced Laptop',
-2,
-8,
-7028.76,
+32453.4,
 359
 );
 
@@ -1532,33 +377,209 @@ INSERT INTO products
 (product_name,category_id,seller_id,price,stock_quantity)
 VALUES
 (
-'Digital Monitor',
+'Portable Monitor',
 5,
-1,
-10348.08,
-400
+8,
+24555.1,
+375
 );
 
 INSERT INTO products
 (product_name,category_id,seller_id,price,stock_quantity)
 VALUES
 (
-'Premium Phone',
-6,
-13,
-28216.75,
-453
+'Advanced Laptop',
+5,
+11,
+44847.02,
+215
 );
 
 INSERT INTO products
 (product_name,category_id,seller_id,price,stock_quantity)
 VALUES
 (
-'Advanced Speaker',
+'Portable Headphones',
+5,
+14,
+10656.15,
+387
+);
+
+INSERT INTO products
+(product_name,category_id,seller_id,price,stock_quantity)
+VALUES
+(
+'Digital Keyboard',
+3,
+8,
+4104.36,
+40
+);
+
+INSERT INTO products
+(product_name,category_id,seller_id,price,stock_quantity)
+VALUES
+(
+'Advanced Headphones',
+4,
+11,
+36858.48,
+178
+);
+
+INSERT INTO products
+(product_name,category_id,seller_id,price,stock_quantity)
+VALUES
+(
+'Smart Book',
 9,
-20,
-39257.65,
-322
+16,
+44762.62,
+60
+);
+
+INSERT INTO products
+(product_name,category_id,seller_id,price,stock_quantity)
+VALUES
+(
+'Wireless Headphones',
+10,
+2,
+39047.63,
+41
+);
+
+INSERT INTO products
+(product_name,category_id,seller_id,price,stock_quantity)
+VALUES
+(
+'Smart Keyboard',
+8,
+4,
+33388.11,
+164
+);
+
+INSERT INTO products
+(product_name,category_id,seller_id,price,stock_quantity)
+VALUES
+(
+'Premium Book',
+5,
+8,
+30378.81,
+167
+);
+
+INSERT INTO products
+(product_name,category_id,seller_id,price,stock_quantity)
+VALUES
+(
+'Digital Phone',
+7,
+1,
+47640.16,
+39
+);
+
+INSERT INTO products
+(product_name,category_id,seller_id,price,stock_quantity)
+VALUES
+(
+'Digital Camera',
+9,
+17,
+27087.22,
+46
+);
+
+INSERT INTO products
+(product_name,category_id,seller_id,price,stock_quantity)
+VALUES
+(
+'Digital Mouse',
+10,
+14,
+4361.28,
+132
+);
+
+INSERT INTO products
+(product_name,category_id,seller_id,price,stock_quantity)
+VALUES
+(
+'Advanced Book',
+5,
+3,
+22104.58,
+144
+);
+
+INSERT INTO products
+(product_name,category_id,seller_id,price,stock_quantity)
+VALUES
+(
+'Smart Book',
+4,
+15,
+1226.12,
+362
+);
+
+INSERT INTO products
+(product_name,category_id,seller_id,price,stock_quantity)
+VALUES
+(
+'Premium Mouse',
+3,
+7,
+30393.77,
+457
+);
+
+INSERT INTO products
+(product_name,category_id,seller_id,price,stock_quantity)
+VALUES
+(
+'Wireless Speaker',
+5,
+16,
+7801.66,
+49
+);
+
+INSERT INTO products
+(product_name,category_id,seller_id,price,stock_quantity)
+VALUES
+(
+'Digital Phone',
+3,
+17,
+27131.93,
+309
+);
+
+INSERT INTO products
+(product_name,category_id,seller_id,price,stock_quantity)
+VALUES
+(
+'Advanced Chair',
+7,
+19,
+5613.24,
+344
+);
+
+INSERT INTO products
+(product_name,category_id,seller_id,price,stock_quantity)
+VALUES
+(
+'Professional Keyboard',
+9,
+11,
+19813.96,
+311
 );
 
 INSERT INTO products
@@ -1567,75 +588,20 @@ VALUES
 (
 'Wireless Chair',
 6,
-18,
-16737.48,
-367
-);
-
-INSERT INTO products
-(product_name,category_id,seller_id,price,stock_quantity)
-VALUES
-(
-'Wireless Monitor',
-7,
-14,
-17528.26,
-488
-);
-
-INSERT INTO products
-(product_name,category_id,seller_id,price,stock_quantity)
-VALUES
-(
-'Digital Chair',
-7,
-11,
-9852.73,
-197
-);
-
-INSERT INTO products
-(product_name,category_id,seller_id,price,stock_quantity)
-VALUES
-(
-'Advanced Phone',
-4,
 19,
-33694.88,
-240
+22324.38,
+256
 );
 
 INSERT INTO products
 (product_name,category_id,seller_id,price,stock_quantity)
 VALUES
 (
-'Advanced Keyboard',
-10,
-18,
-26291.59,
-328
-);
-
-INSERT INTO products
-(product_name,category_id,seller_id,price,stock_quantity)
-VALUES
-(
-'Ultra Phone',
-8,
-18,
-9409.7,
-297
-);
-
-INSERT INTO products
-(product_name,category_id,seller_id,price,stock_quantity)
-VALUES
-(
-'Portable Laptop',
-2,
-6,
-45655.58,
-288
+'Ultra Camera',
+3,
+20,
+43337.81,
+270
 );
 
 INSERT INTO products
@@ -1643,109 +609,87 @@ INSERT INTO products
 VALUES
 (
 'Portable Speaker',
+5,
 9,
-11,
-47051.41,
-13
+31566.09,
+344
 );
 
 INSERT INTO products
 (product_name,category_id,seller_id,price,stock_quantity)
 VALUES
 (
-'Premium Speaker',
+'Professional Mouse',
+6,
+14,
+6026.63,
+175
+);
+
+INSERT INTO products
+(product_name,category_id,seller_id,price,stock_quantity)
+VALUES
+(
+'Smart Keyboard',
+10,
+17,
+31220.69,
+483
+);
+
+INSERT INTO products
+(product_name,category_id,seller_id,price,stock_quantity)
+VALUES
+(
+'Ultra Phone',
 4,
 20,
-41817.98,
-106
+41392.45,
+61
 );
 
 INSERT INTO products
 (product_name,category_id,seller_id,price,stock_quantity)
 VALUES
 (
-'Ultra Keyboard',
-1,
-15,
-17789.3,
-306
-);
-
-INSERT INTO products
-(product_name,category_id,seller_id,price,stock_quantity)
-VALUES
-(
-'Smart Chair',
-3,
-10,
-30742.95,
-240
-);
-
-INSERT INTO products
-(product_name,category_id,seller_id,price,stock_quantity)
-VALUES
-(
-'Premium Chair',
+'Portable Headphones',
 2,
-16,
-14472.2,
-439
-);
-
-INSERT INTO products
-(product_name,category_id,seller_id,price,stock_quantity)
-VALUES
-(
-'Smart Monitor',
-1,
 13,
-49427.11,
-251
+3809.47,
+411
 );
 
 INSERT INTO products
 (product_name,category_id,seller_id,price,stock_quantity)
 VALUES
 (
-'Digital Laptop',
-3,
-8,
-10974.92,
-241
+'Digital Mouse',
+6,
+6,
+18275.12,
+269
 );
 
 INSERT INTO products
 (product_name,category_id,seller_id,price,stock_quantity)
 VALUES
 (
-'Smart Mouse',
-10,
-12,
-3213.07,
-199
+'Portable Keyboard',
+9,
+17,
+43030.02,
+95
 );
 
 INSERT INTO products
 (product_name,category_id,seller_id,price,stock_quantity)
 VALUES
 (
-'Ultra Mouse',
-1,
-11,
-39252.87,
-470
-);
-
-INSERT INTO products
-(product_name,category_id,seller_id,price,stock_quantity)
-VALUES
-(
-'Advanced Monitor',
-1,
-16,
-12205.35,
-17
+'Portable Phone',
+7,
+18,
+22926.44,
+372
 );
 
 INSERT INTO products
@@ -1753,10 +697,43 @@ INSERT INTO products
 VALUES
 (
 'Advanced Keyboard',
+3,
 4,
-12,
-23614.78,
-89
+31333.13,
+411
+);
+
+INSERT INTO products
+(product_name,category_id,seller_id,price,stock_quantity)
+VALUES
+(
+'Digital Chair',
+3,
+2,
+33379.35,
+289
+);
+
+INSERT INTO products
+(product_name,category_id,seller_id,price,stock_quantity)
+VALUES
+(
+'Portable Book',
+9,
+7,
+39722.3,
+86
+);
+
+INSERT INTO products
+(product_name,category_id,seller_id,price,stock_quantity)
+VALUES
+(
+'Portable Book',
+10,
+5,
+19900.71,
+165
 );
 
 INSERT INTO products
@@ -1765,218 +742,42 @@ VALUES
 (
 'Wireless Keyboard',
 3,
-16,
-30102.14,
-251
-);
-
-INSERT INTO products
-(product_name,category_id,seller_id,price,stock_quantity)
-VALUES
-(
-'Advanced Monitor',
-4,
-8,
-16380.35,
-485
-);
-
-INSERT INTO products
-(product_name,category_id,seller_id,price,stock_quantity)
-VALUES
-(
-'Smart Headphones',
-8,
-19,
-11730.02,
-463
-);
-
-INSERT INTO products
-(product_name,category_id,seller_id,price,stock_quantity)
-VALUES
-(
-'Portable Keyboard',
-10,
-10,
-43737.02,
-454
-);
-
-INSERT INTO products
-(product_name,category_id,seller_id,price,stock_quantity)
-VALUES
-(
-'Digital Monitor',
-9,
 12,
-21392.54,
-309
+40750.83,
+416
 );
 
 INSERT INTO products
 (product_name,category_id,seller_id,price,stock_quantity)
 VALUES
 (
-'Smart Keyboard',
-10,
-20,
-3267.57,
-61
-);
-
-INSERT INTO products
-(product_name,category_id,seller_id,price,stock_quantity)
-VALUES
-(
-'Smart Phone',
-10,
-4,
-16267.93,
-245
-);
-
-INSERT INTO products
-(product_name,category_id,seller_id,price,stock_quantity)
-VALUES
-(
-'Wireless Headphones',
-10,
-10,
-28126.6,
-20
-);
-
-INSERT INTO products
-(product_name,category_id,seller_id,price,stock_quantity)
-VALUES
-(
-'Ultra Monitor',
-1,
-4,
-369.4,
-295
-);
-
-INSERT INTO products
-(product_name,category_id,seller_id,price,stock_quantity)
-VALUES
-(
-'Wireless Headphones',
+'Smart Mouse',
 2,
-3,
-15531.9,
-426
-);
-
-INSERT INTO products
-(product_name,category_id,seller_id,price,stock_quantity)
-VALUES
-(
-'Premium Headphones',
-1,
-18,
-40739.12,
-10
-);
-
-INSERT INTO products
-(product_name,category_id,seller_id,price,stock_quantity)
-VALUES
-(
-'Advanced Chair',
-3,
-13,
-47170.21,
-194
-);
-
-INSERT INTO products
-(product_name,category_id,seller_id,price,stock_quantity)
-VALUES
-(
-'Portable Chair',
-8,
-14,
-5879.46,
-28
-);
-
-INSERT INTO products
-(product_name,category_id,seller_id,price,stock_quantity)
-VALUES
-(
-'Premium Camera',
-10,
-16,
-24946.57,
-499
-);
-
-INSERT INTO products
-(product_name,category_id,seller_id,price,stock_quantity)
-VALUES
-(
-'Portable Camera',
 4,
+17517.9,
+434
+);
+
+INSERT INTO products
+(product_name,category_id,seller_id,price,stock_quantity)
+VALUES
+(
+'Ultra Camera',
 9,
-2587.53,
-449
+10,
+48990.84,
+73
 );
 
 INSERT INTO products
 (product_name,category_id,seller_id,price,stock_quantity)
 VALUES
 (
-'Ultra Keyboard',
-6,
-1,
-552.59,
-128
-);
-
-INSERT INTO products
-(product_name,category_id,seller_id,price,stock_quantity)
-VALUES
-(
-'Portable Laptop',
+'Smart Monitor',
 5,
 15,
-2614.05,
-293
-);
-
-INSERT INTO products
-(product_name,category_id,seller_id,price,stock_quantity)
-VALUES
-(
-'Digital Phone',
-3,
-5,
-45544.56,
-249
-);
-
-INSERT INTO products
-(product_name,category_id,seller_id,price,stock_quantity)
-VALUES
-(
-'Portable Chair',
-9,
-11,
-42491.02,
-151
-);
-
-INSERT INTO products
-(product_name,category_id,seller_id,price,stock_quantity)
-VALUES
-(
-'Professional Mouse',
-9,
-13,
-37709.18,
-280
+27006.56,
+109
 );
 
 INSERT INTO products
@@ -1984,32 +785,21 @@ INSERT INTO products
 VALUES
 (
 'Professional Monitor',
-8,
-11,
-16228.49,
-276
-);
-
-INSERT INTO products
-(product_name,category_id,seller_id,price,stock_quantity)
-VALUES
-(
-'Smart Monitor',
-5,
-8,
-2189.99,
-472
-);
-
-INSERT INTO products
-(product_name,category_id,seller_id,price,stock_quantity)
-VALUES
-(
-'Smart Monitor',
 7,
-4,
-22184.05,
-50
+7,
+32559.07,
+42
+);
+
+INSERT INTO products
+(product_name,category_id,seller_id,price,stock_quantity)
+VALUES
+(
+'Professional Laptop',
+2,
+15,
+11083.52,
+349
 );
 
 INSERT INTO products
@@ -2017,76 +807,120 @@ INSERT INTO products
 VALUES
 (
 'Ultra Phone',
-3,
-18,
-16582.6,
-123
+7,
+20,
+37508.13,
+191
 );
 
 INSERT INTO products
 (product_name,category_id,seller_id,price,stock_quantity)
 VALUES
 (
-'Advanced Headphones',
-1,
-1,
-48079.81,
-25
-);
-
-INSERT INTO products
-(product_name,category_id,seller_id,price,stock_quantity)
-VALUES
-(
-'Wireless Camera',
-1,
-11,
-42055.23,
-249
-);
-
-INSERT INTO products
-(product_name,category_id,seller_id,price,stock_quantity)
-VALUES
-(
-'Smart Headphones',
+'Portable Headphones',
+8,
 9,
-2,
-8416.6,
-25
+2263.77,
+233
 );
 
 INSERT INTO products
 (product_name,category_id,seller_id,price,stock_quantity)
 VALUES
 (
-'Wireless Speaker',
-2,
-16,
-41191.49,
-466
+'Smart Monitor',
+9,
+9,
+10647.04,
+192
 );
 
 INSERT INTO products
 (product_name,category_id,seller_id,price,stock_quantity)
 VALUES
 (
-'Digital Headphones',
+'Wireless Headphones',
 10,
-5,
-32068.62,
-287
+17,
+32361.74,
+244
 );
 
 INSERT INTO products
 (product_name,category_id,seller_id,price,stock_quantity)
 VALUES
 (
-'Advanced Laptop',
+'Premium Laptop',
+3,
+10,
+32042.72,
+297
+);
+
+INSERT INTO products
+(product_name,category_id,seller_id,price,stock_quantity)
+VALUES
+(
+'Professional Book',
+4,
+20,
+25872.9,
+361
+);
+
+INSERT INTO products
+(product_name,category_id,seller_id,price,stock_quantity)
+VALUES
+(
+'Wireless Phone',
+7,
+4,
+44692.61,
+274
+);
+
+INSERT INTO products
+(product_name,category_id,seller_id,price,stock_quantity)
+VALUES
+(
+'Portable Chair',
 5,
-18,
-41544.28,
-456
+7,
+18975.44,
+84
+);
+
+INSERT INTO products
+(product_name,category_id,seller_id,price,stock_quantity)
+VALUES
+(
+'Professional Laptop',
+4,
+10,
+10571.57,
+190
+);
+
+INSERT INTO products
+(product_name,category_id,seller_id,price,stock_quantity)
+VALUES
+(
+'Smart Monitor',
+3,
+11,
+19301.18,
+165
+);
+
+INSERT INTO products
+(product_name,category_id,seller_id,price,stock_quantity)
+VALUES
+(
+'Smart Laptop',
+2,
+7,
+4730.46,
+242
 );
 
 INSERT INTO products
@@ -2095,53 +929,141 @@ VALUES
 (
 'Digital Laptop',
 4,
-18,
-25728.09,
-107
+16,
+7142.58,
+118
 );
 
 INSERT INTO products
 (product_name,category_id,seller_id,price,stock_quantity)
 VALUES
 (
-'Smart Keyboard',
-2,
-8,
-7471.77,
-153
-);
-
-INSERT INTO products
-(product_name,category_id,seller_id,price,stock_quantity)
-VALUES
-(
-'Professional Laptop',
-5,
-17,
-44678.21,
-455
-);
-
-INSERT INTO products
-(product_name,category_id,seller_id,price,stock_quantity)
-VALUES
-(
-'Professional Book',
-6,
-3,
-14673.23,
-249
-);
-
-INSERT INTO products
-(product_name,category_id,seller_id,price,stock_quantity)
-VALUES
-(
-'Smart Chair',
-1,
+'Premium Monitor',
 9,
-10496.11,
-248
+2,
+24590.95,
+454
+);
+
+INSERT INTO products
+(product_name,category_id,seller_id,price,stock_quantity)
+VALUES
+(
+'Wireless Camera',
+5,
+16,
+19414.59,
+375
+);
+
+INSERT INTO products
+(product_name,category_id,seller_id,price,stock_quantity)
+VALUES
+(
+'Ultra Speaker',
+7,
+8,
+1124.8,
+158
+);
+
+INSERT INTO products
+(product_name,category_id,seller_id,price,stock_quantity)
+VALUES
+(
+'Premium Keyboard',
+2,
+17,
+38437.98,
+318
+);
+
+INSERT INTO products
+(product_name,category_id,seller_id,price,stock_quantity)
+VALUES
+(
+'Advanced Headphones',
+4,
+13,
+4405.18,
+163
+);
+
+INSERT INTO products
+(product_name,category_id,seller_id,price,stock_quantity)
+VALUES
+(
+'Portable Mouse',
+7,
+4,
+7197.69,
+261
+);
+
+INSERT INTO products
+(product_name,category_id,seller_id,price,stock_quantity)
+VALUES
+(
+'Portable Book',
+4,
+19,
+8493.13,
+200
+);
+
+INSERT INTO products
+(product_name,category_id,seller_id,price,stock_quantity)
+VALUES
+(
+'Digital Speaker',
+7,
+18,
+14616.77,
+106
+);
+
+INSERT INTO products
+(product_name,category_id,seller_id,price,stock_quantity)
+VALUES
+(
+'Digital Mouse',
+1,
+5,
+30974.71,
+129
+);
+
+INSERT INTO products
+(product_name,category_id,seller_id,price,stock_quantity)
+VALUES
+(
+'Premium Speaker',
+5,
+5,
+49082.57,
+19
+);
+
+INSERT INTO products
+(product_name,category_id,seller_id,price,stock_quantity)
+VALUES
+(
+'Ultra Headphones',
+3,
+9,
+1968.19,
+222
+);
+
+INSERT INTO products
+(product_name,category_id,seller_id,price,stock_quantity)
+VALUES
+(
+'Advanced Monitor',
+3,
+11,
+21077.63,
+96
 );
 
 INSERT INTO products
@@ -2149,31 +1071,306 @@ INSERT INTO products
 VALUES
 (
 'Premium Phone',
+10,
+3,
+34118.73,
+293
+);
+
+INSERT INTO products
+(product_name,category_id,seller_id,price,stock_quantity)
+VALUES
+(
+'Portable Book',
+3,
+19,
+28666.9,
+368
+);
+
+INSERT INTO products
+(product_name,category_id,seller_id,price,stock_quantity)
+VALUES
+(
+'Advanced Speaker',
 6,
-1,
-35584.58,
-145
+3,
+10329.89,
+464
 );
 
 INSERT INTO products
 (product_name,category_id,seller_id,price,stock_quantity)
 VALUES
 (
-'Portable Speaker',
+'Advanced Speaker',
+4,
+7,
+16311.29,
+175
+);
+
+INSERT INTO products
+(product_name,category_id,seller_id,price,stock_quantity)
+VALUES
+(
+'Smart Headphones',
+10,
+19,
+18054.95,
+92
+);
+
+INSERT INTO products
+(product_name,category_id,seller_id,price,stock_quantity)
+VALUES
+(
+'Portable Mouse',
 1,
+18,
+2393.16,
+215
+);
+
+INSERT INTO products
+(product_name,category_id,seller_id,price,stock_quantity)
+VALUES
+(
+'Premium Book',
 9,
-49521.2,
-255
+9,
+8114.86,
+417
 );
 
 INSERT INTO products
 (product_name,category_id,seller_id,price,stock_quantity)
 VALUES
 (
-'Ultra Phone',
+'Smart Speaker',
+7,
+17,
+45343.25,
+344
+);
+
+INSERT INTO products
+(product_name,category_id,seller_id,price,stock_quantity)
+VALUES
+(
+'Smart Headphones',
+9,
+18,
+33571.23,
+414
+);
+
+INSERT INTO products
+(product_name,category_id,seller_id,price,stock_quantity)
+VALUES
+(
+'Professional Chair',
+8,
+5,
+29454.77,
+188
+);
+
+INSERT INTO products
+(product_name,category_id,seller_id,price,stock_quantity)
+VALUES
+(
+'Professional Monitor',
+1,
+3,
+7812.87,
+443
+);
+
+INSERT INTO products
+(product_name,category_id,seller_id,price,stock_quantity)
+VALUES
+(
+'Professional Mouse',
+5,
+20,
+20010.84,
+208
+);
+
+INSERT INTO products
+(product_name,category_id,seller_id,price,stock_quantity)
+VALUES
+(
+'Digital Speaker',
+7,
+15,
+45986.98,
+109
+);
+
+INSERT INTO products
+(product_name,category_id,seller_id,price,stock_quantity)
+VALUES
+(
+'Professional Phone',
+4,
+6,
+16651.95,
+226
+);
+
+INSERT INTO products
+(product_name,category_id,seller_id,price,stock_quantity)
+VALUES
+(
+'Digital Speaker',
+10,
+8,
+36045.46,
+346
+);
+
+INSERT INTO products
+(product_name,category_id,seller_id,price,stock_quantity)
+VALUES
+(
+'Wireless Book',
+5,
+7,
+25272.82,
+27
+);
+
+INSERT INTO products
+(product_name,category_id,seller_id,price,stock_quantity)
+VALUES
+(
+'Ultra Mouse',
+3,
 2,
-11,
-46790.75,
+42416.8,
+377
+);
+
+INSERT INTO products
+(product_name,category_id,seller_id,price,stock_quantity)
+VALUES
+(
+'Wireless Monitor',
+5,
+10,
+17065.48,
+191
+);
+
+INSERT INTO products
+(product_name,category_id,seller_id,price,stock_quantity)
+VALUES
+(
+'Digital Laptop',
+2,
+16,
+9965.72,
+203
+);
+
+INSERT INTO products
+(product_name,category_id,seller_id,price,stock_quantity)
+VALUES
+(
+'Professional Chair',
+6,
+2,
+33320.63,
+472
+);
+
+INSERT INTO products
+(product_name,category_id,seller_id,price,stock_quantity)
+VALUES
+(
+'Professional Chair',
+8,
+7,
+3559.44,
+168
+);
+
+INSERT INTO products
+(product_name,category_id,seller_id,price,stock_quantity)
+VALUES
+(
+'Portable Phone',
+3,
+6,
+42904.6,
+475
+);
+
+INSERT INTO products
+(product_name,category_id,seller_id,price,stock_quantity)
+VALUES
+(
+'Advanced Headphones',
+9,
+7,
+44400.82,
+375
+);
+
+INSERT INTO products
+(product_name,category_id,seller_id,price,stock_quantity)
+VALUES
+(
+'Digital Keyboard',
+6,
+10,
+31960.05,
+129
+);
+
+INSERT INTO products
+(product_name,category_id,seller_id,price,stock_quantity)
+VALUES
+(
+'Professional Keyboard',
+2,
+16,
+44484.26,
+94
+);
+
+INSERT INTO products
+(product_name,category_id,seller_id,price,stock_quantity)
+VALUES
+(
+'Wireless Chair',
+4,
+19,
+16295.51,
+77
+);
+
+INSERT INTO products
+(product_name,category_id,seller_id,price,stock_quantity)
+VALUES
+(
+'Professional Keyboard',
+10,
+20,
+38914.91,
+257
+);
+
+INSERT INTO products
+(product_name,category_id,seller_id,price,stock_quantity)
+VALUES
+(
+'Premium Laptop',
+9,
+18,
+19384.82,
 276
 );
 
@@ -2181,20 +1378,823 @@ INSERT INTO products
 (product_name,category_id,seller_id,price,stock_quantity)
 VALUES
 (
-'Smart Camera',
-6,
-3,
-12243.09,
-252
+'Ultra Headphones',
+7,
+12,
+44454.92,
+187
 );
 
 INSERT INTO products
 (product_name,category_id,seller_id,price,stock_quantity)
 VALUES
 (
-'Portable Keyboard',
-6,
+'Portable Camera',
+8,
+12,
+12444.77,
+71
+);
+
+INSERT INTO products
+(product_name,category_id,seller_id,price,stock_quantity)
+VALUES
+(
+'Ultra Phone',
+8,
+8,
+35707.99,
+238
+);
+
+INSERT INTO products
+(product_name,category_id,seller_id,price,stock_quantity)
+VALUES
+(
+'Ultra Headphones',
+8,
+16,
+5302.16,
+121
+);
+
+INSERT INTO products
+(product_name,category_id,seller_id,price,stock_quantity)
+VALUES
+(
+'Portable Headphones',
+10,
 5,
-20247.13,
-418
+17594.68,
+137
+);
+
+INSERT INTO products
+(product_name,category_id,seller_id,price,stock_quantity)
+VALUES
+(
+'Ultra Chair',
+6,
+17,
+21667.84,
+32
+);
+
+INSERT INTO products
+(product_name,category_id,seller_id,price,stock_quantity)
+VALUES
+(
+'Professional Book',
+9,
+8,
+35213.28,
+223
+);
+
+INSERT INTO products
+(product_name,category_id,seller_id,price,stock_quantity)
+VALUES
+(
+'Professional Monitor',
+10,
+2,
+48284.24,
+155
+);
+
+INSERT INTO products
+(product_name,category_id,seller_id,price,stock_quantity)
+VALUES
+(
+'Wireless Phone',
+5,
+19,
+30565.79,
+330
+);
+
+INSERT INTO products
+(product_name,category_id,seller_id,price,stock_quantity)
+VALUES
+(
+'Digital Mouse',
+10,
+1,
+32682.73,
+45
+);
+
+INSERT INTO products
+(product_name,category_id,seller_id,price,stock_quantity)
+VALUES
+(
+'Premium Keyboard',
+4,
+6,
+44953.27,
+134
+);
+
+INSERT INTO products
+(product_name,category_id,seller_id,price,stock_quantity)
+VALUES
+(
+'Ultra Monitor',
+3,
+16,
+15953.8,
+170
+);
+
+INSERT INTO products
+(product_name,category_id,seller_id,price,stock_quantity)
+VALUES
+(
+'Ultra Speaker',
+9,
+19,
+252.57,
+151
+);
+
+INSERT INTO products
+(product_name,category_id,seller_id,price,stock_quantity)
+VALUES
+(
+'Professional Speaker',
+1,
+1,
+35444.27,
+438
+);
+
+INSERT INTO products
+(product_name,category_id,seller_id,price,stock_quantity)
+VALUES
+(
+'Digital Keyboard',
+8,
+16,
+2299.36,
+301
+);
+
+INSERT INTO products
+(product_name,category_id,seller_id,price,stock_quantity)
+VALUES
+(
+'Ultra Phone',
+9,
+16,
+27778.3,
+359
+);
+
+INSERT INTO products
+(product_name,category_id,seller_id,price,stock_quantity)
+VALUES
+(
+'Premium Camera',
+7,
+5,
+47104.14,
+390
+);
+
+INSERT INTO products
+(product_name,category_id,seller_id,price,stock_quantity)
+VALUES
+(
+'Premium Book',
+10,
+13,
+10250.33,
+254
+);
+
+INSERT INTO products
+(product_name,category_id,seller_id,price,stock_quantity)
+VALUES
+(
+'Wireless Monitor',
+1,
+18,
+26042.99,
+268
+);
+
+INSERT INTO products
+(product_name,category_id,seller_id,price,stock_quantity)
+VALUES
+(
+'Smart Chair',
+7,
+14,
+12000.95,
+114
+);
+
+INSERT INTO products
+(product_name,category_id,seller_id,price,stock_quantity)
+VALUES
+(
+'Smart Headphones',
+10,
+16,
+28284.98,
+417
+);
+
+INSERT INTO products
+(product_name,category_id,seller_id,price,stock_quantity)
+VALUES
+(
+'Digital Phone',
+8,
+14,
+17453.8,
+429
+);
+
+INSERT INTO products
+(product_name,category_id,seller_id,price,stock_quantity)
+VALUES
+(
+'Premium Keyboard',
+3,
+9,
+34030.41,
+22
+);
+
+INSERT INTO products
+(product_name,category_id,seller_id,price,stock_quantity)
+VALUES
+(
+'Ultra Mouse',
+10,
+12,
+48226.11,
+147
+);
+
+INSERT INTO products
+(product_name,category_id,seller_id,price,stock_quantity)
+VALUES
+(
+'Professional Speaker',
+5,
+7,
+18367.77,
+205
+);
+
+INSERT INTO products
+(product_name,category_id,seller_id,price,stock_quantity)
+VALUES
+(
+'Portable Monitor',
+8,
+13,
+45142.48,
+419
+);
+
+INSERT INTO products
+(product_name,category_id,seller_id,price,stock_quantity)
+VALUES
+(
+'Professional Phone',
+1,
+13,
+8737.06,
+353
+);
+
+INSERT INTO products
+(product_name,category_id,seller_id,price,stock_quantity)
+VALUES
+(
+'Wireless Speaker',
+7,
+20,
+1641.8,
+153
+);
+
+INSERT INTO products
+(product_name,category_id,seller_id,price,stock_quantity)
+VALUES
+(
+'Wireless Monitor',
+6,
+12,
+36521.39,
+17
+);
+
+INSERT INTO products
+(product_name,category_id,seller_id,price,stock_quantity)
+VALUES
+(
+'Premium Headphones',
+9,
+10,
+20377.49,
+237
+);
+
+INSERT INTO products
+(product_name,category_id,seller_id,price,stock_quantity)
+VALUES
+(
+'Advanced Headphones',
+10,
+9,
+37077.05,
+12
+);
+
+INSERT INTO products
+(product_name,category_id,seller_id,price,stock_quantity)
+VALUES
+(
+'Advanced Camera',
+2,
+20,
+41491.35,
+492
+);
+
+INSERT INTO products
+(product_name,category_id,seller_id,price,stock_quantity)
+VALUES
+(
+'Portable Chair',
+4,
+1,
+49373.39,
+78
+);
+
+INSERT INTO products
+(product_name,category_id,seller_id,price,stock_quantity)
+VALUES
+(
+'Wireless Phone',
+4,
+9,
+43413.42,
+439
+);
+
+INSERT INTO products
+(product_name,category_id,seller_id,price,stock_quantity)
+VALUES
+(
+'Premium Speaker',
+7,
+9,
+13347.16,
+152
+);
+
+INSERT INTO products
+(product_name,category_id,seller_id,price,stock_quantity)
+VALUES
+(
+'Advanced Phone',
+7,
+11,
+45272.72,
+376
+);
+
+INSERT INTO products
+(product_name,category_id,seller_id,price,stock_quantity)
+VALUES
+(
+'Wireless Chair',
+7,
+6,
+431.16,
+120
+);
+
+INSERT INTO products
+(product_name,category_id,seller_id,price,stock_quantity)
+VALUES
+(
+'Smart Mouse',
+8,
+8,
+41477.63,
+115
+);
+
+INSERT INTO products
+(product_name,category_id,seller_id,price,stock_quantity)
+VALUES
+(
+'Digital Laptop',
+5,
+8,
+30980.99,
+95
+);
+
+INSERT INTO products
+(product_name,category_id,seller_id,price,stock_quantity)
+VALUES
+(
+'Portable Mouse',
+6,
+20,
+15472.75,
+258
+);
+
+INSERT INTO products
+(product_name,category_id,seller_id,price,stock_quantity)
+VALUES
+(
+'Ultra Book',
+9,
+9,
+25173.66,
+223
+);
+
+INSERT INTO products
+(product_name,category_id,seller_id,price,stock_quantity)
+VALUES
+(
+'Advanced Phone',
+4,
+16,
+10376.74,
+55
+);
+
+INSERT INTO products
+(product_name,category_id,seller_id,price,stock_quantity)
+VALUES
+(
+'Wireless Mouse',
+6,
+16,
+1148.43,
+54
+);
+
+INSERT INTO products
+(product_name,category_id,seller_id,price,stock_quantity)
+VALUES
+(
+'Digital Phone',
+2,
+3,
+35099.4,
+140
+);
+
+INSERT INTO products
+(product_name,category_id,seller_id,price,stock_quantity)
+VALUES
+(
+'Ultra Monitor',
+4,
+3,
+45582.78,
+287
+);
+
+INSERT INTO products
+(product_name,category_id,seller_id,price,stock_quantity)
+VALUES
+(
+'Premium Camera',
+4,
+18,
+4122.16,
+160
+);
+
+INSERT INTO products
+(product_name,category_id,seller_id,price,stock_quantity)
+VALUES
+(
+'Advanced Keyboard',
+1,
+1,
+10196.33,
+96
+);
+
+INSERT INTO products
+(product_name,category_id,seller_id,price,stock_quantity)
+VALUES
+(
+'Professional Phone',
+5,
+6,
+9428.45,
+445
+);
+
+INSERT INTO products
+(product_name,category_id,seller_id,price,stock_quantity)
+VALUES
+(
+'Professional Chair',
+6,
+15,
+47660.41,
+202
+);
+
+INSERT INTO products
+(product_name,category_id,seller_id,price,stock_quantity)
+VALUES
+(
+'Premium Mouse',
+5,
+3,
+20181.94,
+200
+);
+
+INSERT INTO products
+(product_name,category_id,seller_id,price,stock_quantity)
+VALUES
+(
+'Premium Laptop',
+5,
+9,
+42018.33,
+11
+);
+
+INSERT INTO products
+(product_name,category_id,seller_id,price,stock_quantity)
+VALUES
+(
+'Premium Keyboard',
+5,
+13,
+24024.8,
+331
+);
+
+INSERT INTO products
+(product_name,category_id,seller_id,price,stock_quantity)
+VALUES
+(
+'Professional Laptop',
+1,
+3,
+47365.95,
+276
+);
+
+INSERT INTO products
+(product_name,category_id,seller_id,price,stock_quantity)
+VALUES
+(
+'Smart Monitor',
+2,
+3,
+10479.27,
+77
+);
+
+INSERT INTO products
+(product_name,category_id,seller_id,price,stock_quantity)
+VALUES
+(
+'Digital Keyboard',
+8,
+4,
+23228.76,
+57
+);
+
+INSERT INTO products
+(product_name,category_id,seller_id,price,stock_quantity)
+VALUES
+(
+'Wireless Laptop',
+5,
+19,
+26780.11,
+461
+);
+
+INSERT INTO products
+(product_name,category_id,seller_id,price,stock_quantity)
+VALUES
+(
+'Ultra Chair',
+7,
+12,
+8244.71,
+19
+);
+
+INSERT INTO products
+(product_name,category_id,seller_id,price,stock_quantity)
+VALUES
+(
+'Digital Book',
+5,
+13,
+41857.4,
+201
+);
+
+INSERT INTO products
+(product_name,category_id,seller_id,price,stock_quantity)
+VALUES
+(
+'Portable Phone',
+5,
+3,
+2028.32,
+44
+);
+
+INSERT INTO products
+(product_name,category_id,seller_id,price,stock_quantity)
+VALUES
+(
+'Premium Speaker',
+5,
+4,
+32723.36,
+163
+);
+
+INSERT INTO products
+(product_name,category_id,seller_id,price,stock_quantity)
+VALUES
+(
+'Smart Chair',
+9,
+5,
+32733.46,
+433
+);
+
+INSERT INTO products
+(product_name,category_id,seller_id,price,stock_quantity)
+VALUES
+(
+'Smart Speaker',
+2,
+10,
+10527.85,
+347
+);
+
+INSERT INTO products
+(product_name,category_id,seller_id,price,stock_quantity)
+VALUES
+(
+'Smart Chair',
+3,
+9,
+49546.29,
+192
+);
+
+INSERT INTO products
+(product_name,category_id,seller_id,price,stock_quantity)
+VALUES
+(
+'Ultra Keyboard',
+4,
+17,
+45588.6,
+138
+);
+
+INSERT INTO products
+(product_name,category_id,seller_id,price,stock_quantity)
+VALUES
+(
+'Advanced Mouse',
+10,
+20,
+6933.14,
+22
+);
+
+INSERT INTO products
+(product_name,category_id,seller_id,price,stock_quantity)
+VALUES
+(
+'Portable Monitor',
+6,
+20,
+28130.63,
+247
+);
+
+INSERT INTO products
+(product_name,category_id,seller_id,price,stock_quantity)
+VALUES
+(
+'Wireless Phone',
+7,
+3,
+25146.43,
+131
+);
+
+INSERT INTO products
+(product_name,category_id,seller_id,price,stock_quantity)
+VALUES
+(
+'Portable Speaker',
+10,
+19,
+39245.29,
+207
+);
+
+INSERT INTO products
+(product_name,category_id,seller_id,price,stock_quantity)
+VALUES
+(
+'Wireless Mouse',
+7,
+20,
+13090.6,
+113
+);
+
+INSERT INTO products
+(product_name,category_id,seller_id,price,stock_quantity)
+VALUES
+(
+'Digital Monitor',
+5,
+18,
+12664.0,
+412
+);
+
+INSERT INTO products
+(product_name,category_id,seller_id,price,stock_quantity)
+VALUES
+(
+'Premium Speaker',
+9,
+1,
+5317.71,
+403
+);
+
+INSERT INTO products
+(product_name,category_id,seller_id,price,stock_quantity)
+VALUES
+(
+'Premium Headphones',
+5,
+1,
+27044.08,
+428
+);
+
+INSERT INTO products
+(product_name,category_id,seller_id,price,stock_quantity)
+VALUES
+(
+'Premium Speaker',
+2,
+5,
+19949.38,
+194
+);
+
+INSERT INTO products
+(product_name,category_id,seller_id,price,stock_quantity)
+VALUES
+(
+'Premium Book',
+4,
+12,
+25260.04,
+347
+);
+
+INSERT INTO products
+(product_name,category_id,seller_id,price,stock_quantity)
+VALUES
+(
+'Professional Monitor',
+6,
+16,
+7887.91,
+302
 );

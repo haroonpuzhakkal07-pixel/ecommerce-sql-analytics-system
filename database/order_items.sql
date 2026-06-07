@@ -3,1730 +3,10 @@ INSERT INTO order_items
 (order_id, product_id, quantity, price)
 VALUES
 (
-303,
-9,
-2,
-5412.84
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-350,
-150,
-4,
-27636.22
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-104,
-122,
-2,
-11892.63
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-274,
-129,
-4,
-10711.98
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-6,
-62,
-5,
-9293.38
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-166,
-187,
-5,
-28651.3
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-451,
-130,
-3,
-24689.13
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-137,
-78,
-4,
-28749.54
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-324,
-169,
-2,
-27976.95
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-59,
-83,
-5,
-37825.24
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-231,
-58,
-3,
-27958.79
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-21,
-71,
-5,
-32315.93
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-101,
-52,
-4,
-9522.76
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-223,
-179,
-1,
-24310.61
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-298,
-91,
-5,
-3425.45
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-181,
-200,
-5,
-191.73
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-390,
-83,
-5,
-47321.14
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-56,
-122,
-5,
-30766.22
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-480,
-63,
-1,
-34173.67
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-266,
-124,
-5,
-2750.9
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-84,
-62,
-2,
-24739.94
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-138,
-187,
-5,
-22166.98
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-400,
-177,
-2,
-36987.47
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-480,
-121,
-5,
-21977.9
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-233,
-115,
-1,
-17193.71
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-264,
-135,
-4,
-38845.7
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-63,
-13,
-1,
-35428.81
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-64,
-200,
-5,
-1684.97
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-147,
-2,
-5,
-11045.79
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-184,
-2,
-1,
-25713.58
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-354,
-111,
-2,
-44163.72
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-367,
-175,
-4,
-10357.63
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-325,
-188,
-3,
-37350.16
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-177,
-96,
-3,
-11102.67
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-431,
-85,
-1,
-26259.73
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-179,
-92,
-3,
-42826.63
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-73,
-171,
-3,
-14738.2
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-289,
-117,
-3,
-13510.79
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-168,
-114,
-2,
-26373.96
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-93,
-114,
-3,
-33843.39
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-485,
-167,
-1,
-4053.5
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-314,
-23,
-2,
-10371.63
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-318,
-199,
-1,
-14880.48
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-26,
-161,
-4,
-13752.69
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-467,
-67,
-3,
-32828.2
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-122,
-133,
-2,
-44571.63
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-347,
-198,
-3,
-871.11
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-263,
-7,
-3,
-7591.81
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-49,
-37,
-2,
-15789.38
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-158,
-163,
-2,
-10792.07
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-293,
-167,
-3,
-31765.02
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-97,
-110,
-5,
-1371.63
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-214,
-2,
-4,
-14717.57
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-278,
-92,
-5,
-40499.24
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-8,
-24,
-5,
-7642.0
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-130,
-54,
-1,
-30010.52
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-234,
-95,
-3,
-319.13
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-189,
-130,
-2,
-32068.16
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-69,
-104,
-5,
-46663.82
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-271,
-143,
-3,
-11605.02
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-442,
-111,
-5,
-36895.29
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-398,
-136,
-4,
-35330.48
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-401,
-88,
-1,
-13843.69
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-15,
-114,
-5,
-18914.62
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-215,
-123,
-3,
-47596.36
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-335,
-37,
-3,
-25634.78
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-277,
-173,
-1,
-860.13
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-355,
-2,
-2,
-45463.41
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-219,
-128,
-2,
-42513.3
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-117,
-144,
-5,
-29711.81
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-211,
-177,
-1,
-14572.55
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-170,
-31,
-4,
-4756.63
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-422,
-100,
-4,
-2970.5
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-5,
-89,
-5,
-26582.34
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-234,
-21,
-2,
-33362.29
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-444,
-147,
-5,
-35066.33
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-233,
-6,
-2,
-24983.44
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-116,
-40,
-5,
-4547.51
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-482,
-107,
-3,
-43013.53
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-311,
-87,
-5,
-33444.28
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-449,
-33,
-2,
-32593.69
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-298,
-47,
-3,
-14504.37
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-187,
-151,
-5,
-10265.32
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-312,
-172,
-4,
-18700.45
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-218,
-188,
-5,
-3611.95
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-345,
-96,
-3,
-13770.79
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-432,
-194,
-5,
-17275.55
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-274,
-112,
-5,
-22907.12
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-4,
-80,
-5,
-25621.33
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-64,
-129,
-3,
-27710.2
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-280,
-193,
-4,
-22437.86
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-252,
-112,
-5,
-20766.2
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-437,
-83,
-3,
-37638.29
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-3,
-57,
-4,
-29172.12
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-152,
-104,
-4,
-37052.98
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-451,
-196,
-2,
-45703.79
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-320,
-59,
-2,
-33905.73
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-414,
-139,
-5,
-37613.86
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-468,
-57,
-5,
-33640.86
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-315,
-3,
-4,
-4687.3
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-255,
-60,
-4,
-44846.72
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-281,
-122,
-2,
-34725.25
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-88,
-133,
-1,
-15805.06
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-269,
-181,
-1,
-33079.7
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-486,
-69,
-3,
-48905.13
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-209,
-181,
-4,
-30853.66
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-326,
-21,
-5,
-1983.88
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-341,
-190,
-5,
-36683.1
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-375,
-21,
-3,
-32878.46
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-462,
-180,
-3,
-43383.92
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-98,
-182,
-2,
-29972.05
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-278,
-141,
-3,
-11680.35
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-46,
-24,
-1,
-30833.86
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-449,
-81,
-1,
-25730.3
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-64,
-4,
-1,
-12930.78
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-267,
-167,
-2,
-11989.86
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-189,
-31,
-5,
-19627.79
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-292,
-15,
-4,
-244.68
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-185,
-176,
-5,
-33165.87
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-461,
-143,
-2,
-25267.33
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-91,
-171,
-1,
-24389.52
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-281,
-14,
-4,
-16226.61
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-479,
-47,
-1,
-48846.3
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-423,
-166,
-5,
-12466.15
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-126,
-174,
-3,
-2752.49
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-131,
-2,
-4,
-11107.62
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-243,
-127,
-2,
-17063.83
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-261,
-85,
-1,
-13965.11
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-148,
-27,
-5,
-6771.27
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-410,
-148,
-1,
-33279.88
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-132,
-81,
-3,
-15792.2
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-465,
-88,
-3,
-26220.99
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-418,
-64,
-2,
-17771.89
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-489,
-6,
-5,
-5874.01
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-187,
-197,
-2,
-19561.94
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-345,
-177,
-4,
-26417.33
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-328,
-107,
-5,
-30435.58
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-466,
-106,
-2,
-48203.07
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-282,
-25,
-3,
-44671.7
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-376,
-75,
-5,
-47019.17
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-363,
-108,
-3,
-39322.67
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-105,
-140,
-4,
-20318.29
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-92,
-170,
-2,
-25799.33
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-346,
-17,
-5,
-20523.13
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-184,
-80,
-5,
-15650.23
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-324,
-54,
-5,
-31526.03
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-201,
-91,
-1,
-39032.41
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-458,
-186,
-4,
-2233.58
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-237,
-182,
-5,
-17150.19
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-107,
-57,
-1,
-39369.39
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-471,
-41,
-3,
-33612.74
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-172,
-156,
-5,
-4246.75
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-222,
-128,
-3,
-22885.85
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-428,
-111,
-5,
-24953.08
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-236,
-117,
-5,
-15964.42
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-10,
-82,
-1,
-19467.41
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-476,
-199,
-2,
-30789.63
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-124,
-117,
-2,
-46105.58
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-237,
-34,
-2,
-43421.67
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-265,
-158,
-2,
-38287.6
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-467,
-136,
-1,
-40252.21
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-107,
-127,
-5,
-47782.22
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-425,
-71,
-5,
-49150.15
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-480,
-31,
-4,
-38617.13
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-239,
-158,
-1,
-16409.94
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-309,
-85,
-4,
-29135.21
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
 416,
-30,
-5,
-44354.63
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-189,
-35,
-3,
-2013.89
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-67,
-140,
-5,
-3552.26
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-116,
-22,
-5,
-10235.66
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-250,
-176,
-1,
-22315.62
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-301,
-59,
-3,
-41620.23
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-377,
-108,
-3,
-20317.7
+14,
+2,
+24121.24
 );
 
 INSERT INTO order_items
@@ -1734,629 +14,9 @@ INSERT INTO order_items
 VALUES
 (
 500,
-114,
-4,
-16198.67
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-123,
-26,
-5,
-46154.62
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-131,
-7,
-4,
-22881.13
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-64,
-51,
-5,
-31684.45
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-135,
-10,
-3,
-43353.96
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-488,
-166,
-2,
-24125.09
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-303,
-146,
-2,
-10136.98
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-392,
-77,
-4,
-8701.8
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-301,
-150,
-5,
-28529.68
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-169,
-175,
-5,
-27715.92
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-40,
-5,
-4,
-13154.28
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-184,
-163,
-4,
-39988.7
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-498,
-138,
-3,
-7860.09
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-475,
-52,
-5,
-41301.61
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-355,
-167,
-3,
-27013.62
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-261,
-134,
-5,
-2627.57
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-359,
-163,
-1,
-10364.16
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-129,
-92,
-4,
-23535.17
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-198,
-83,
-2,
-44178.84
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-236,
-80,
-1,
-39322.27
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-247,
-149,
-5,
-31384.11
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-415,
-97,
-2,
-24438.13
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-307,
-6,
-2,
-45817.42
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-36,
-34,
-5,
-23398.87
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-121,
-169,
-1,
-9177.43
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-473,
-148,
-5,
-36635.72
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-392,
-58,
-3,
-39767.32
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-220,
-144,
-3,
-18152.41
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-239,
-142,
-2,
-9652.67
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-196,
-148,
-3,
-3101.67
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-202,
-195,
-2,
-30899.93
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-127,
-95,
-3,
-45280.47
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-44,
-17,
-4,
-13124.72
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-126,
-50,
-4,
-22375.11
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-222,
-195,
-5,
-34149.87
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-297,
-4,
-1,
-40270.58
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-143,
-167,
-2,
-12705.99
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-249,
-100,
-1,
-13818.82
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-344,
-132,
-3,
-35705.07
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-32,
-70,
-4,
-3776.52
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-459,
-62,
-4,
-29832.64
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-455,
-159,
-5,
-6742.4
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-157,
-128,
-5,
-22296.52
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-360,
-159,
-3,
-20964.45
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-295,
-106,
-1,
-3523.33
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-43,
-92,
-4,
-20263.07
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-415,
-199,
-4,
-19997.07
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-374,
-7,
-2,
-2533.07
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-13,
-91,
-5,
-6306.15
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-55,
-124,
-2,
-45587.74
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-8,
-81,
-4,
-42323.12
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-170,
-134,
-1,
-44437.27
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-421,
-34,
-1,
-23450.89
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-113,
-44,
-2,
-28091.41
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-60,
 21,
-1,
-30865.75
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-219,
-99,
-3,
-17891.25
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-420,
-87,
-1,
-22372.92
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-183,
-3,
 2,
-29909.83
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-399,
-154,
-4,
-30917.81
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-81,
-190,
-5,
-27730.42
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-143,
-13,
-2,
-2759.01
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-445,
-43,
-2,
-9491.22
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-467,
-5,
-3,
-5077.73
+43046.83
 );
 
 INSERT INTO order_items
@@ -2364,4759 +24,29 @@ INSERT INTO order_items
 VALUES
 (
 172,
-63,
-1,
-8704.57
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-273,
-58,
-2,
-7522.15
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-461,
-48,
-1,
-39160.64
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-360,
-45,
-4,
-12899.07
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-221,
-35,
-5,
-23612.54
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-466,
-174,
-1,
-26347.24
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-240,
-145,
-3,
-46659.97
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-192,
-193,
-3,
-25919.02
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-490,
-168,
-1,
-28479.99
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-90,
-198,
-2,
-20046.94
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-115,
-159,
-3,
-9583.44
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-293,
-170,
-5,
-14534.45
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-42,
-40,
-2,
-6925.99
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-495,
-13,
-3,
-29471.45
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-349,
-80,
-1,
-41902.18
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-310,
-53,
-3,
-48744.0
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-194,
-139,
-1,
-29677.11
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-196,
-138,
-1,
-35988.58
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-252,
-65,
-5,
-4672.65
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-89,
-8,
-4,
-32798.28
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-180,
-162,
-2,
-38996.08
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-106,
-115,
-3,
-15700.35
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-277,
-4,
-1,
-30334.81
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-389,
-33,
-4,
-20896.86
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-93,
-181,
-5,
-5332.33
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-232,
-123,
-3,
-17530.77
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-147,
-17,
-2,
-46692.2
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-109,
-65,
-5,
-23542.28
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-7,
-131,
-2,
-10854.69
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-274,
-85,
-2,
-29850.23
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-38,
-51,
-4,
-49271.12
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-244,
-136,
-5,
-36988.16
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-389,
-195,
-5,
-37034.12
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-260,
-64,
-3,
-27015.46
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-130,
-163,
-4,
-8284.14
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-7,
-170,
-5,
-21463.24
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-287,
-140,
-4,
-33501.84
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-231,
-20,
-5,
-43496.47
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-63,
-155,
-2,
-546.57
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-225,
-154,
-3,
-33402.49
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-257,
-177,
-2,
-47296.89
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-489,
-155,
-1,
-42422.15
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-97,
-49,
-2,
-44974.19
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-472,
-89,
-2,
-49411.06
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-395,
-61,
-1,
-252.81
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-426,
-141,
-4,
-21663.17
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-330,
-79,
-2,
-40177.71
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-381,
-13,
-1,
-24765.17
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-182,
-70,
-3,
-40857.3
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-63,
-67,
-5,
-4461.52
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-120,
-35,
-3,
-41462.32
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-175,
-144,
-3,
-25831.1
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-232,
-199,
-3,
-36170.77
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-282,
-79,
-1,
-24381.84
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-142,
-80,
-5,
-40412.64
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-290,
-177,
-4,
-7462.25
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-370,
-4,
-5,
-34040.91
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-188,
-113,
-5,
-45014.26
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-105,
-18,
-3,
-16342.58
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-149,
-174,
-4,
-12879.79
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-48,
-113,
-2,
-46515.54
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-342,
-197,
-1,
-49376.84
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-221,
-18,
-2,
-22650.24
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-362,
-186,
-2,
-11575.05
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-367,
-60,
-1,
-18255.25
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-369,
-124,
-3,
-35866.27
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-148,
-2,
-2,
-48662.86
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-383,
-76,
-1,
-40066.12
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-499,
-80,
-1,
-19808.4
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-216,
-62,
-2,
-6841.59
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-398,
-172,
-5,
-1392.86
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-140,
-179,
-2,
-40999.02
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-254,
-190,
-1,
-19996.92
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-382,
-52,
-1,
-45792.18
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-444,
-123,
-4,
-32712.35
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-321,
-192,
-3,
-9298.05
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-489,
-127,
-5,
-1598.39
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-47,
-174,
-4,
-30463.13
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-80,
-133,
-3,
-46606.86
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-386,
-128,
-4,
-42562.99
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-270,
-21,
-4,
-33819.67
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-338,
-177,
-5,
-45110.16
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-88,
-132,
-5,
-9523.53
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-444,
-58,
-3,
-30196.29
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-129,
-41,
-2,
-35988.84
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-436,
-78,
-5,
-45442.42
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-462,
-109,
-1,
-8107.55
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-278,
-139,
-4,
-30300.52
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-281,
-162,
-1,
-36454.38
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-287,
-41,
-4,
-28725.3
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-44,
-175,
-3,
-7403.62
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-90,
-31,
-3,
-17036.99
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-395,
-88,
-3,
-46600.62
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-194,
-1,
-4,
-33262.99
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-449,
-74,
-2,
-5667.34
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-292,
-129,
-5,
-27386.5
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-130,
-198,
-1,
-15705.5
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-294,
-140,
-5,
-34805.09
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-250,
-96,
-2,
-23378.2
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-169,
-131,
-4,
-41511.4
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-45,
-152,
-3,
-5398.33
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-23,
-95,
-3,
-26631.79
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-472,
-161,
-3,
-12125.77
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-486,
-43,
-4,
-42988.76
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-246,
-77,
-4,
-25425.59
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-254,
-198,
-1,
-40100.34
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-107,
-139,
-5,
-8635.72
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-322,
-15,
-4,
-776.48
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-413,
-93,
-5,
-29699.75
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-321,
-113,
-2,
-12424.72
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-341,
-9,
-1,
-33648.22
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-487,
-137,
-5,
-34791.43
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-418,
-62,
-5,
-24477.28
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-334,
-14,
-1,
-40894.54
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-402,
-6,
-3,
-9622.6
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-453,
-189,
-4,
-49159.85
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-347,
-154,
-3,
-18089.04
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-18,
-188,
-1,
-49498.01
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-44,
-33,
-5,
-11385.26
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-248,
-56,
-2,
-47034.76
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-163,
-107,
-4,
-38170.43
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-450,
-6,
-3,
-5470.11
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-94,
-61,
-3,
-34336.06
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-140,
-161,
-1,
-25233.37
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-279,
-116,
-3,
-9454.94
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-121,
-186,
-1,
-618.47
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-227,
-149,
-2,
-21726.54
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-375,
-188,
-4,
-34560.77
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-158,
-13,
-1,
-15239.02
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-467,
-181,
-3,
-17849.15
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-47,
-87,
-5,
-37911.41
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-113,
-33,
-2,
-28089.78
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-489,
-59,
-1,
-15110.22
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-488,
-87,
-5,
-49450.88
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-365,
-184,
-4,
-31127.15
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-148,
-61,
-2,
-28521.52
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-435,
-9,
-2,
-41677.77
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-318,
-19,
-5,
-37740.87
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-175,
-57,
-4,
-14517.77
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-342,
-109,
-3,
-7312.03
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-142,
-178,
-2,
-8990.43
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-358,
-199,
-4,
-21865.82
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-78,
-184,
-4,
-25739.18
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-365,
-61,
-3,
-28881.91
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-54,
-79,
-4,
-27897.96
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-83,
-110,
-5,
-5075.43
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-84,
-44,
-1,
-16906.88
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-429,
-78,
-2,
-10350.02
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-365,
-179,
-5,
-4231.87
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-393,
-21,
-2,
-3466.55
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-493,
-147,
-2,
-42764.48
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-61,
-123,
-1,
-35696.52
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-13,
-116,
-1,
-14556.82
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-196,
-123,
-4,
-2705.67
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-421,
-100,
-3,
-9014.42
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-160,
-127,
-2,
-11002.29
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-13,
-83,
-2,
-12092.51
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-223,
-57,
-5,
-17278.84
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-360,
-196,
-5,
-44265.83
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-268,
-142,
-3,
-36307.88
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-301,
-146,
-4,
-33179.08
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-301,
-6,
-3,
-31237.65
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-490,
-104,
-5,
-23157.09
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-482,
-19,
-3,
-35924.09
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-1,
-99,
-2,
-46507.87
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-21,
-77,
-2,
-44835.17
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-340,
-174,
-4,
-30447.21
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-382,
-2,
-4,
-23064.49
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-323,
-163,
-1,
-15971.01
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-11,
-94,
-5,
-29837.75
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-76,
-197,
-4,
-34815.11
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-93,
-160,
-1,
-12460.93
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-400,
-135,
-4,
-27819.32
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-490,
-62,
-4,
-33730.57
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-435,
-192,
-5,
-24552.06
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-312,
-83,
-2,
-26695.27
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-199,
-50,
-2,
-6229.33
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-354,
-117,
-5,
-17643.69
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-54,
-43,
-2,
-44883.38
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-294,
-44,
-4,
-36857.8
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-111,
-197,
-5,
-41402.91
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-193,
-64,
-3,
-25937.77
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-55,
-4,
-2,
-48364.8
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-488,
-171,
-2,
-30311.8
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-433,
-74,
-3,
-10529.76
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-87,
-195,
-2,
-21309.53
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-358,
-198,
-3,
-47847.85
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-286,
-111,
-1,
-12893.96
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-244,
-24,
-1,
-17800.95
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-302,
-88,
-1,
-8483.33
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-284,
-91,
-1,
-29686.83
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-54,
-35,
-3,
-22431.04
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-194,
-151,
-3,
-5717.12
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-60,
-134,
-5,
-14694.69
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-155,
-79,
-2,
-41243.35
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-170,
-114,
-1,
-11402.45
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-67,
-98,
-2,
-12808.29
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-152,
-131,
-1,
-5776.1
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-301,
-183,
-1,
-36648.46
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-26,
-60,
-5,
-49390.69
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-55,
-180,
-5,
-1448.49
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-310,
-47,
-1,
-49983.0
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-372,
-167,
-1,
-16538.95
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-166,
-187,
-2,
-34653.18
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-194,
-88,
-4,
-49546.8
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-238,
-127,
-1,
-27928.55
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-336,
-186,
-4,
-46507.83
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-136,
-99,
-3,
-44799.97
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-98,
-11,
-1,
-7036.91
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-489,
-174,
-4,
-18459.14
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-425,
-166,
-5,
-35442.05
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-415,
-48,
-4,
-5232.96
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-283,
-69,
-1,
-10276.8
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-468,
-107,
-2,
-36298.02
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-82,
-113,
-5,
-16612.81
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-122,
-7,
-1,
-20628.59
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-399,
-167,
-1,
-45501.97
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-165,
-167,
-5,
-45010.53
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-231,
-105,
-4,
-22768.64
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-57,
-79,
-4,
-33007.38
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-307,
-127,
-1,
-35925.86
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-426,
-165,
-2,
-46184.11
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-428,
-65,
-5,
-29622.89
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-234,
-179,
-3,
-25551.15
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-499,
-37,
-1,
-13210.21
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-65,
-70,
-2,
-38473.79
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-224,
-92,
-1,
-11837.14
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-312,
-145,
-5,
-34456.04
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-361,
-65,
-5,
-24455.66
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-269,
-195,
-2,
-49833.01
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-367,
-178,
-3,
-2961.24
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-422,
-41,
-1,
-118.07
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-264,
-118,
-4,
-26400.24
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-474,
-47,
-2,
-32801.38
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-37,
-43,
-1,
-40501.69
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-386,
-151,
-1,
-24416.27
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-130,
-179,
-2,
-46387.62
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-90,
-28,
-2,
-37328.92
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-224,
-140,
-3,
-18434.55
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-31,
 144,
 5,
-42754.27
+7054.71
 );
 
 INSERT INTO order_items
 (order_id, product_id, quantity, price)
 VALUES
 (
-281,
-142,
-5,
-21881.09
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-209,
-166,
-3,
-46155.92
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-190,
-104,
-3,
-40256.87
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-455,
-145,
-2,
-47504.42
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-195,
-86,
-2,
-39010.38
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-312,
-185,
-2,
-48254.47
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-189,
 131,
-3,
-20334.26
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-77,
-88,
-1,
-39060.74
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-216,
-148,
-4,
-9531.26
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-203,
-19,
-4,
-32342.33
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-337,
-32,
-3,
-14345.02
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-174,
-194,
-2,
-26531.05
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-445,
-166,
-2,
-14607.53
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-472,
-112,
-5,
-7690.97
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-52,
-126,
-3,
-3694.65
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-344,
-183,
-3,
-28933.48
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-26,
-14,
-1,
-31578.18
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-401,
-190,
-5,
-30503.13
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-497,
-190,
-4,
-29432.61
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-161,
-107,
-3,
-14133.32
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-348,
-110,
-2,
-24684.95
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-118,
-106,
-4,
-34472.76
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-114,
-4,
-2,
-25819.53
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-338,
-70,
-3,
-42279.25
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-248,
-132,
-1,
-2509.73
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-160,
-179,
-3,
-10975.31
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-58,
-45,
-4,
-27134.37
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-321,
-168,
-2,
-8303.99
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-440,
-180,
-1,
-11338.02
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-241,
-105,
-1,
-21396.49
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-129,
-116,
-4,
-44988.88
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-436,
 20,
 1,
-48392.16
+2955.33
 );
 
 INSERT INTO order_items
 (order_id, product_id, quantity, price)
 VALUES
 (
-461,
-44,
-3,
-4323.48
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-440,
-155,
-1,
-10453.36
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-126,
-90,
-1,
-16874.83
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-270,
-184,
-2,
-42898.72
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-160,
-189,
-4,
-6148.86
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-483,
-35,
-2,
-38759.78
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-329,
-13,
-3,
-24249.16
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-133,
-111,
-1,
-2683.81
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-449,
-143,
-5,
-697.06
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-317,
-101,
-5,
-47927.53
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-39,
-114,
-1,
-9793.43
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-123,
-85,
-5,
-34940.79
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-334,
-125,
-3,
-4747.78
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-231,
-35,
-3,
-40223.1
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-320,
-158,
-1,
-1809.17
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-353,
-18,
-3,
-31054.61
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-327,
-117,
-1,
-43597.6
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-138,
-173,
-1,
-17563.85
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-119,
-165,
-1,
-47919.92
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-44,
-112,
-2,
-19946.53
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-346,
-122,
-3,
-34370.45
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-307,
-193,
-4,
-23351.13
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-147,
-160,
-3,
-19839.71
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-90,
-56,
-4,
-41392.14
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-260,
-115,
-4,
-23506.09
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-330,
-14,
-5,
-46014.0
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-450,
-113,
-3,
-37895.51
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-318,
-8,
-5,
-32732.81
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-233,
-110,
-4,
-10443.51
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-386,
-139,
-4,
-3554.71
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-478,
-144,
-3,
-33516.58
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-21,
-139,
-1,
-36190.88
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-98,
-69,
-3,
-45583.02
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-318,
-25,
-5,
-31594.46
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-482,
-144,
-5,
-39943.07
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-299,
-182,
-5,
-39892.46
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-171,
-189,
-4,
-48460.46
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-203,
-44,
-5,
-31629.29
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-433,
-23,
-2,
-36119.98
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-397,
-17,
-1,
-29659.57
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-340,
-162,
-2,
-36646.6
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-257,
-76,
-4,
-22869.51
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-107,
-48,
-3,
-7617.84
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-292,
-47,
-2,
-14264.74
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-491,
-99,
-2,
-11331.69
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-491,
-24,
-4,
-7840.65
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-62,
-91,
-4,
-39754.78
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-205,
-148,
-4,
-40571.28
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-410,
-1,
-3,
-24095.58
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-456,
-98,
-4,
-30513.9
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-481,
-43,
-5,
-15215.44
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-246,
-98,
-3,
-20599.63
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-230,
-54,
-4,
-2175.93
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-490,
-81,
-3,
-36844.81
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-33,
-56,
-5,
-41783.69
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-191,
-68,
-5,
-22306.14
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-160,
-90,
-3,
-15852.88
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-115,
-196,
-2,
-17667.31
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-272,
-96,
-5,
-6138.35
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-26,
-40,
-4,
-24471.31
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-427,
-124,
-1,
-37332.95
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-199,
-50,
-5,
-36281.37
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-109,
-184,
-5,
-34050.46
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-162,
-16,
-1,
-23354.26
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-272,
-40,
-3,
-31554.52
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-86,
-137,
-1,
-25873.66
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-378,
-111,
-2,
-27529.92
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-146,
-62,
-3,
-12333.87
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-434,
-174,
-5,
-30287.21
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-487,
-148,
-4,
-5468.48
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-308,
-32,
-3,
-13058.93
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-492,
-62,
-3,
-1280.08
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-183,
-140,
-5,
-31677.34
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-394,
-189,
-3,
-31599.56
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-411,
-74,
-4,
-12520.23
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-88,
-141,
-1,
-22179.3
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-18,
-182,
-2,
-32718.57
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-164,
-76,
-4,
-49758.61
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-149,
-134,
-1,
-15660.75
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-404,
-128,
-4,
-30839.53
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-461,
-175,
-3,
-25521.14
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-429,
-141,
-2,
-12565.12
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-35,
-169,
-4,
-24721.27
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-313,
-44,
-4,
-31917.6
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-146,
-137,
-2,
-30550.1
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-477,
-28,
-3,
-14839.91
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-412,
-116,
-3,
-41436.63
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-134,
-165,
-4,
-35968.25
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-458,
-127,
-4,
-38095.77
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-407,
-190,
-1,
-14102.28
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-249,
-143,
-3,
-44351.56
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-367,
-177,
-5,
-8568.07
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-442,
-191,
-5,
-20205.77
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-474,
-138,
-2,
-18579.69
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-9,
-55,
-4,
-5602.81
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-199,
-177,
-2,
-20220.2
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-164,
-109,
-1,
-43226.09
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-499,
-96,
-3,
-2375.73
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-222,
-188,
-1,
-46680.11
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-292,
-153,
-3,
-46949.46
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-173,
-71,
-5,
-48732.04
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-201,
-57,
-1,
-34921.35
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-203,
-72,
-3,
-3281.79
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-345,
 130,
-1,
-261.47
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-381,
-8,
-1,
-9232.18
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-327,
-31,
-4,
-31630.45
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-87,
-15,
-5,
-44537.5
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-370,
-74,
-1,
-31457.88
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-297,
-45,
-1,
-15242.13
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-213,
-162,
-4,
-22088.24
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-157,
-60,
-5,
-34668.15
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-481,
-90,
-4,
-26705.07
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-20,
-47,
-3,
-24683.56
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-274,
-113,
-3,
-45540.04
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-208,
-197,
-5,
-9466.69
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-349,
-184,
-4,
-39916.98
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-167,
-101,
-3,
-19270.93
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-208,
-59,
-5,
-42401.76
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-36,
-197,
-3,
-48013.97
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-208,
-106,
-3,
-46010.76
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-398,
-124,
-2,
-32072.07
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-419,
-91,
-4,
-39472.21
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-95,
-21,
-2,
-1549.1
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-499,
-62,
-4,
-19341.54
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-366,
-142,
-5,
-32213.29
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-119,
-25,
-3,
-31091.58
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-372,
-107,
-4,
-47389.45
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-369,
-165,
-2,
-33905.66
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-271,
-162,
-4,
-37730.8
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-403,
-179,
-2,
-1343.93
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-354,
-110,
-2,
-35606.42
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-166,
-35,
-1,
-11349.94
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-35,
-14,
-3,
-33930.12
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-483,
-156,
-4,
-21125.17
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-310,
-179,
-5,
-13212.22
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-7,
-122,
-1,
-20333.46
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-194,
-68,
-5,
-8898.56
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-90,
-28,
-4,
-33008.92
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-71,
-53,
-1,
-45617.27
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-496,
-199,
-5,
-18968.53
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-398,
-200,
-2,
-5191.32
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-160,
-127,
-3,
-29636.61
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-251,
-94,
-4,
-49576.9
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-383,
-79,
-5,
-44825.48
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-500,
-143,
-5,
-44056.72
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-140,
-123,
-2,
-20997.31
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-238,
-131,
-1,
-14717.03
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-149,
-28,
-5,
-26411.42
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-180,
-134,
-2,
-3150.59
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-13,
-88,
-3,
-44894.87
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-418,
-154,
-4,
-5870.04
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-137,
-107,
-3,
-39689.03
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-497,
-100,
-5,
-15892.5
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-463,
-67,
-3,
-47028.18
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-61,
-143,
-2,
-24713.58
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-247,
-194,
-2,
-35382.87
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-422,
-133,
-4,
-8393.26
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-4,
-156,
-3,
-33200.24
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-258,
-168,
-3,
-36059.95
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-318,
-143,
-3,
-16183.56
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-17,
-108,
-3,
-34372.99
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-181,
-55,
-3,
-42234.68
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-334,
-97,
-5,
-14542.84
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-371,
-193,
-5,
-12479.74
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-397,
-122,
-4,
-28197.6
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-316,
-180,
-5,
-34677.2
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-202,
-61,
-2,
-17883.99
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-411,
 72,
 2,
-26986.34
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-388,
-110,
-2,
-42279.62
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-295,
-85,
-5,
-44946.74
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-6,
-187,
-1,
-48879.46
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-262,
-53,
-4,
-11691.74
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-304,
-52,
-5,
-25173.08
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-118,
-164,
-3,
-48074.87
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-347,
-112,
-3,
-15500.67
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-56,
-32,
-3,
-48439.09
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-438,
-190,
-1,
-41609.64
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-496,
-85,
-4,
-49239.68
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-142,
-83,
-2,
-28842.69
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-150,
-49,
-1,
-25394.95
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-98,
-100,
-3,
-5376.68
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-99,
-55,
-5,
-23196.76
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-235,
-100,
-1,
-49962.91
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-224,
-152,
-2,
-10002.29
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-252,
-32,
-4,
-43608.47
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-266,
-108,
-4,
-30125.68
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-439,
-161,
-1,
-25881.28
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-401,
-16,
-2,
-29354.53
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-332,
-5,
-2,
-22962.28
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-444,
-170,
-4,
-29542.25
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-7,
-20,
-5,
-27470.02
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-217,
-20,
-3,
-15241.78
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-375,
-47,
-1,
-16545.33
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-386,
-123,
-3,
-21796.63
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-181,
-56,
-4,
-5585.04
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-191,
-52,
-3,
-8385.16
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-91,
-25,
-2,
-20217.79
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-258,
-134,
-4,
-18133.21
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-471,
-103,
-2,
-3907.54
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-68,
-97,
-1,
-45209.58
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-21,
-70,
-1,
-9361.15
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-218,
-107,
-5,
-35001.38
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-499,
-192,
-1,
-2871.51
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-193,
-133,
-2,
-692.04
+38084.65
 );
 
 INSERT INTO order_items
@@ -7124,229 +54,39 @@ INSERT INTO order_items
 VALUES
 (
 27,
-99,
-4,
-15878.17
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-261,
-90,
-3,
-35589.03
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-155,
-196,
-1,
-33071.74
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-224,
-95,
-3,
-18738.08
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-249,
-37,
+107,
 5,
-34622.51
+14452.8
 );
 
 INSERT INTO order_items
 (order_id, product_id, quantity, price)
 VALUES
 (
-210,
-183,
+395,
+112,
 5,
-25838.25
+413.56
 );
 
 INSERT INTO order_items
 (order_id, product_id, quantity, price)
 VALUES
 (
-237,
-101,
-3,
-13861.39
+345,
+46,
+4,
+26110.96
 );
 
 INSERT INTO order_items
 (order_id, product_id, quantity, price)
 VALUES
 (
-427,
-156,
+32,
+115,
 5,
-47881.63
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-360,
-25,
-4,
-42115.32
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-310,
-159,
-1,
-21446.03
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-446,
-173,
-4,
-33119.4
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-43,
-148,
-1,
-25977.31
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-104,
-197,
-1,
-48067.53
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-166,
-168,
-4,
-25562.69
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-238,
-136,
-2,
-28719.85
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-41,
-197,
-1,
-19987.65
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-338,
-192,
-3,
-13098.96
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-72,
-170,
-2,
-21387.59
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-64,
-83,
-1,
-43038.36
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-465,
-151,
-4,
-22727.99
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-305,
-145,
-2,
-37255.75
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-336,
-54,
-1,
-35862.37
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-95,
-85,
-5,
-22012.38
+1755.24
 );
 
 INSERT INTO order_items
@@ -7354,729 +94,9 @@ INSERT INTO order_items
 VALUES
 (
 212,
-5,
-1,
-34067.84
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-418,
-129,
-5,
-183.82
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-247,
-171,
-2,
-42505.12
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-274,
-140,
-4,
-3706.41
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-483,
-24,
-3,
-30522.48
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-254,
-71,
-5,
-38638.33
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-413,
-154,
-4,
-25782.77
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-209,
-162,
-1,
-1891.99
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-401,
-123,
-1,
-20935.17
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-106,
-150,
-1,
-44078.82
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-298,
-116,
-4,
-23228.43
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-273,
-39,
-5,
-8948.53
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-455,
-130,
-5,
-47503.79
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-353,
-86,
-1,
-39225.86
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-208,
-50,
-5,
-19258.66
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-234,
-95,
-3,
-25405.13
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-150,
-76,
-1,
-6760.4
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-124,
-139,
-2,
-9343.53
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-498,
-18,
-1,
-32590.64
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-401,
-46,
-4,
-1546.44
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-418,
-141,
-3,
-47440.19
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-74,
-135,
-1,
-31951.77
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-333,
-56,
-1,
-31980.95
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-462,
-83,
-5,
-37197.42
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-345,
-5,
-2,
-27802.5
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-23,
-76,
-2,
-43436.3
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-499,
-31,
-3,
-20791.72
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-112,
-48,
-3,
-10593.22
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-411,
-200,
-1,
-45600.17
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-391,
-108,
-3,
-16318.31
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-182,
-194,
-1,
-2527.21
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-435,
-7,
-2,
-27450.63
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-452,
-62,
-1,
-12328.68
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-168,
-126,
-3,
-44350.02
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-308,
-134,
-1,
-16118.69
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-422,
-103,
-5,
-41620.76
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-204,
-128,
-2,
-32443.73
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-170,
-185,
-1,
-40533.76
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-187,
-4,
-3,
-45647.06
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-247,
 15,
-4,
-14923.28
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-181,
-81,
-1,
-33349.51
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-362,
-138,
-1,
-33934.62
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-151,
-88,
-4,
-47091.49
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-148,
-125,
-2,
-19218.83
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-170,
-111,
-4,
-16943.84
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-357,
-4,
-5,
-47641.2
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-398,
-105,
-4,
-1399.66
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-24,
-196,
-1,
-2236.32
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-343,
-29,
-4,
-18517.17
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-171,
-177,
-5,
-37688.85
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-123,
-89,
-4,
-20135.9
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-233,
-147,
-5,
-19538.84
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-277,
-141,
-1,
-13383.82
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-45,
-109,
-4,
-7411.62
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-385,
-55,
-2,
-41492.22
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-391,
-79,
-5,
-2031.27
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-94,
-131,
-4,
-9603.04
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-41,
-69,
-1,
-36953.96
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-71,
-136,
-1,
-41570.31
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-280,
-59,
-2,
-35126.39
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-12,
-48,
-4,
-28107.61
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-352,
-73,
-2,
-33430.72
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-145,
-168,
-5,
-15301.73
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-275,
-74,
 3,
-31121.12
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-390,
-128,
-3,
-20820.0
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-500,
-180,
-5,
-31985.81
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-366,
-106,
-4,
-10311.93
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-187,
-190,
-3,
-34915.61
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-91,
-152,
-2,
-16612.45
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-473,
-48,
-2,
-35916.27
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-122,
-29,
-5,
-36255.73
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-434,
-174,
-1,
-24820.09
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-336,
-73,
-1,
-16165.86
+19777.43
 );
 
 INSERT INTO order_items
@@ -8084,419 +104,9 @@ INSERT INTO order_items
 VALUES
 (
 382,
-87,
-5,
-22301.51
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-128,
-49,
-1,
-12854.14
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-276,
-109,
-4,
-15266.49
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-348,
-176,
-5,
-32930.91
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-22,
-131,
-4,
-2531.44
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-307,
-95,
-1,
-46552.66
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-359,
 165,
-5,
-42641.45
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-123,
-88,
-2,
-25606.2
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-379,
-122,
-5,
-12159.34
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-351,
-23,
-4,
-10110.57
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-328,
-133,
 3,
-18333.88
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-97,
-185,
-3,
-45124.91
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-422,
-76,
-4,
-4777.13
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-259,
-187,
-1,
-1344.36
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-98,
-135,
-3,
-13531.21
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-194,
-183,
-4,
-48460.72
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-117,
-139,
-4,
-16918.06
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-330,
-192,
-5,
-31562.54
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-228,
-154,
-2,
-34867.06
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-410,
-1,
-2,
-17157.27
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-348,
-102,
-3,
-119.32
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-354,
-174,
-2,
-41413.91
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-225,
-197,
-2,
-43142.26
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-135,
-143,
-4,
-23555.94
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-40,
-102,
-2,
-39110.44
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-250,
-35,
-1,
-39840.85
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-360,
-101,
-4,
-7262.73
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-257,
-76,
-5,
-37788.36
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-244,
-23,
-3,
-38864.55
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-130,
-189,
-1,
-42414.09
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-62,
-27,
-5,
-41012.83
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-453,
-55,
-1,
-28712.77
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-84,
-147,
-2,
-25147.39
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-131,
-22,
-1,
-44413.55
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-492,
-129,
-3,
-46458.67
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-387,
-44,
-4,
-12540.09
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-401,
-89,
-2,
-38319.14
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-231,
-25,
-1,
-33597.15
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-91,
-164,
-2,
-32156.07
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-486,
-86,
-4,
-43844.31
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-311,
-199,
-1,
-10361.12
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-202,
-136,
-5,
-9102.92
+29876.7
 );
 
 INSERT INTO order_items
@@ -8504,979 +114,9 @@ INSERT INTO order_items
 VALUES
 (
 326,
-90,
-5,
-28497.56
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-361,
-152,
-5,
-40269.68
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-180,
-91,
-2,
-4559.59
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-451,
-130,
-2,
-9584.08
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-309,
-10,
-5,
-46855.46
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-137,
-58,
-1,
-43387.78
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-102,
-77,
-4,
-25819.02
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-93,
-8,
-2,
-22122.21
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-291,
-154,
-4,
-48269.4
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-431,
-14,
-2,
-2142.21
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-45,
-30,
-1,
-2607.19
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-308,
-182,
-4,
-4010.78
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-280,
-85,
-1,
-20205.59
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-131,
-32,
-5,
-44952.65
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-472,
-199,
-2,
-24187.72
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-401,
-39,
-1,
-23342.66
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-163,
-159,
-2,
-3499.95
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-266,
-135,
-3,
-44972.19
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-322,
-196,
-1,
-43050.95
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-48,
-178,
-4,
-10654.82
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-91,
 65,
-3,
-12450.1
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-432,
-18,
-1,
-20593.9
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-433,
-76,
-3,
-31230.14
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-445,
-151,
-2,
-13684.07
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-255,
-70,
-2,
-48485.58
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-388,
-85,
 4,
-19895.85
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-51,
-12,
-3,
-8450.4
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-134,
-109,
-5,
-15527.35
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-397,
-69,
-4,
-3009.37
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-231,
-132,
-1,
-44375.12
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-468,
-104,
-3,
-44243.25
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-318,
-109,
-2,
-42804.38
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-268,
-196,
-2,
-8094.43
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-7,
-181,
-5,
-46202.42
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-9,
-188,
-4,
-36901.12
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-452,
-69,
-1,
-671.47
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-430,
-19,
-5,
-8973.41
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-399,
-61,
-1,
-49295.1
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-72,
-68,
-1,
-5016.33
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-336,
-177,
-1,
-8821.07
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-462,
-51,
-3,
-24546.47
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-382,
-116,
-4,
-23037.45
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-323,
-93,
-4,
-13817.3
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-193,
-159,
-2,
-3986.55
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-422,
-16,
-4,
-49067.12
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-351,
-48,
-4,
-1260.35
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-287,
-155,
-3,
-29381.74
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-306,
-36,
-4,
-21567.0
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-138,
-43,
-3,
-35043.28
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-222,
-119,
-1,
-21787.52
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-474,
-194,
-5,
-3870.47
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-352,
-148,
-4,
-32800.26
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-98,
-115,
-3,
-6634.0
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-255,
-31,
-5,
-5987.96
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-88,
-11,
-3,
-15263.41
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-372,
-26,
-3,
-12248.72
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-359,
-39,
-5,
-21013.96
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-4,
-38,
-5,
-20668.47
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-249,
-161,
-3,
-30765.73
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-190,
-170,
-1,
-18954.65
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-494,
-49,
-4,
-20717.57
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-147,
-15,
-1,
-43953.18
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-275,
-122,
-1,
-46508.04
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-169,
-38,
-2,
-38004.85
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-407,
-168,
-2,
-36986.37
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-451,
-199,
-5,
-46854.83
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-453,
-171,
-4,
-23414.2
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-5,
-178,
-1,
-19878.45
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-27,
-143,
-1,
-43811.91
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-479,
-153,
-2,
-13175.59
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-143,
-143,
-3,
-40501.39
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-209,
-152,
-3,
-48964.04
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-85,
-186,
-1,
-17939.29
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-198,
-60,
-2,
-13062.02
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-128,
-111,
-1,
-49070.88
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-179,
-48,
-3,
-10947.03
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-270,
-55,
-5,
-6444.44
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-3,
-145,
-2,
-24906.7
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-51,
-107,
-3,
-38274.02
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-436,
-52,
-1,
-21400.01
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-483,
-130,
-5,
-3994.25
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-83,
-49,
-5,
-7710.93
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-356,
-105,
-1,
-22035.67
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-114,
-175,
-2,
-37644.22
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-249,
-115,
-1,
-8510.01
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-371,
-29,
-5,
-28147.25
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-478,
-126,
-5,
-29295.72
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-178,
-110,
-1,
-9743.01
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-17,
-53,
-3,
-33769.32
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-155,
-127,
-3,
-45501.81
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-78,
-129,
-1,
-7926.63
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-275,
-18,
-1,
-32550.27
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-218,
-28,
-3,
-4876.82
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-494,
-111,
-1,
-48085.97
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-111,
-180,
-5,
-9497.73
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-89,
-30,
-1,
-42258.3
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-392,
-131,
-1,
-6745.53
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-219,
-80,
-4,
-49525.59
+16411.22
 );
 
 INSERT INTO order_items
@@ -9484,69 +124,469 @@ INSERT INTO order_items
 VALUES
 (
 217,
-200,
-5,
-31684.15
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-279,
-44,
+188,
 4,
-31008.76
+49259.87
 );
 
 INSERT INTO order_items
 (order_id, product_id, quantity, price)
 VALUES
 (
-241,
+489,
+13,
+3,
+45896.75
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+345,
+28,
+2,
+9432.05
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+83,
+67,
+4,
+2057.78
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+201,
+146,
+1,
+34610.56
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+76,
+184,
+5,
+24688.48
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+243,
+58,
+4,
+16131.49
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+111,
+74,
+5,
+36351.67
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+278,
+50,
+2,
+23377.73
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+341,
+199,
+2,
+37944.98
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+413,
+124,
+2,
+7003.22
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+13,
+136,
+1,
+44117.52
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+62,
+27,
+5,
+5933.68
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+414,
 181,
-5,
-17826.1
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-170,
-93,
 3,
-40045.08
+30775.93
 );
 
 INSERT INTO order_items
 (order_id, product_id, quantity, price)
 VALUES
 (
-29,
+287,
+165,
+1,
+45559.73
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+182,
+194,
+1,
+2497.7
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+497,
+159,
+2,
+13883.75
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+419,
+97,
+5,
+16486.77
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
 66,
+141,
 3,
-26561.04
+1116.36
 );
 
 INSERT INTO order_items
 (order_id, product_id, quantity, price)
 VALUES
 (
-280,
-161,
-5,
-1906.61
+15,
+63,
+3,
+14401.62
 );
 
 INSERT INTO order_items
 (order_id, product_id, quantity, price)
 VALUES
 (
-451,
-129,
+238,
+189,
+3,
+26217.02
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+429,
+186,
+2,
+18462.71
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+199,
+141,
+4,
+21938.46
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+323,
+23,
 5,
-38084.85
+27027.38
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+34,
+156,
+3,
+31080.06
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+144,
+30,
+3,
+32494.89
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+127,
+199,
+1,
+7386.18
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+203,
+89,
+3,
+9919.85
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+238,
+154,
+2,
+40338.77
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+500,
+166,
+4,
+8801.85
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+158,
+96,
+5,
+11602.41
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+204,
+149,
+2,
+41582.32
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+187,
+90,
+5,
+8514.47
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+34,
+49,
+2,
+291.46
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+131,
+65,
+1,
+8605.83
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+254,
+5,
+4,
+11125.65
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+258,
+14,
+2,
+49786.76
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+220,
+163,
+1,
+29969.09
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+52,
+157,
+5,
+27433.77
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+397,
+87,
+1,
+11093.21
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+482,
+162,
+4,
+36878.19
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+481,
+70,
+1,
+30390.53
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+319,
+177,
+3,
+31104.26
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+105,
+74,
+1,
+39984.85
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+97,
+167,
+3,
+27272.14
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+105,
+31,
+2,
+1623.65
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+127,
+115,
+2,
+37434.34
 );
 
 INSERT INTO order_items
@@ -9554,259 +594,9 @@ INSERT INTO order_items
 VALUES
 (
 167,
-80,
+184,
 2,
-23705.1
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-479,
-30,
-3,
-44218.7
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-263,
-75,
-3,
-26335.17
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-131,
-189,
-1,
-14971.39
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-221,
-33,
-4,
-25218.52
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-305,
-182,
-2,
-42994.8
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-349,
-162,
-5,
-20423.67
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-361,
-172,
-3,
-46848.96
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-124,
-6,
-4,
-36776.38
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-214,
-90,
-3,
-39489.8
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-239,
-55,
-2,
-14721.68
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-385,
-21,
-2,
-38978.65
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-344,
-186,
-1,
-31141.92
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-141,
-73,
-2,
-21474.92
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-185,
-20,
-4,
-10520.22
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-325,
-198,
-5,
-28098.2
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-131,
-76,
-3,
-43150.18
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-293,
-173,
-5,
-29513.08
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-221,
-14,
-2,
-4461.5
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-240,
-97,
-1,
-8513.19
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-244,
-104,
-1,
-30090.54
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-101,
-48,
-1,
-21523.05
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-122,
-62,
-4,
-44864.78
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-357,
-157,
-1,
-16453.24
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-63,
-22,
-3,
-44614.19
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-74,
-187,
-4,
-12702.45
+29930.54
 );
 
 INSERT INTO order_items
@@ -9815,588 +605,48 @@ VALUES
 (
 52,
 154,
-1,
-32454.19
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-35,
-195,
-5,
-37171.03
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-405,
-161,
-3,
-35532.69
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-209,
-156,
 2,
-48951.76
+38132.08
 );
 
 INSERT INTO order_items
 (order_id, product_id, quantity, price)
 VALUES
 (
-390,
 5,
-1,
-18858.65
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-139,
-78,
-5,
-40362.65
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-257,
-28,
-2,
-40613.03
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-246,
-188,
-3,
-33416.29
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-47,
-182,
-1,
-5027.72
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-388,
-58,
-4,
-16903.22
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-293,
-30,
-1,
-37398.34
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-448,
-197,
-2,
-26229.5
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-405,
-127,
-1,
-12289.79
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-254,
-6,
-5,
-31020.07
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-93,
-102,
-4,
-16252.26
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-136,
-65,
-1,
-412.25
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-393,
-27,
-4,
-18033.11
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-65,
-137,
-4,
-41345.65
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-344,
-167,
-4,
-34037.84
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
 16,
-158,
-3,
-23800.7
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-120,
-48,
-5,
-29229.98
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-410,
-94,
-3,
-17321.4
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-341,
 2,
-4,
-20454.89
+41059.15
 );
 
 INSERT INTO order_items
 (order_id, product_id, quantity, price)
 VALUES
 (
-350,
-143,
-3,
-24913.16
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-257,
-83,
-1,
-28802.14
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-326,
-24,
-1,
-2841.88
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-211,
-58,
-1,
-47024.95
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-450,
-104,
-3,
-12385.2
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-384,
-62,
+440,
+77,
 5,
-329.17
+23025.52
 );
 
 INSERT INTO order_items
 (order_id, product_id, quantity, price)
 VALUES
 (
-124,
+330,
+177,
+1,
+6607.1
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+422,
 38,
 3,
-1776.39
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-500,
-43,
-4,
-42169.71
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-13,
-71,
-4,
-46987.33
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-262,
-197,
-2,
-38074.22
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-334,
-72,
-1,
-36176.8
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-428,
-47,
-5,
-10291.54
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-126,
-38,
-3,
-1693.19
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-174,
-45,
-4,
-30383.35
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-254,
-94,
-1,
-15669.07
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-144,
-180,
-4,
-31480.62
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-370,
-45,
-3,
-39047.49
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-448,
-105,
-1,
-43118.36
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-341,
-160,
-3,
-18977.36
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-391,
-31,
-1,
-31183.08
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-79,
-105,
-2,
-27163.89
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-309,
-62,
-3,
-6977.97
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-490,
-196,
-4,
-28584.09
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-19,
-42,
-1,
-38058.74
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-462,
-178,
-3,
-41978.93
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-367,
-96,
-2,
-13055.09
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-455,
-27,
-2,
-19821.39
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-78,
-188,
-4,
-49287.27
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-482,
-195,
-5,
-38355.78
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-101,
-121,
-3,
-29634.56
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-239,
-135,
-5,
-32003.23
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-129,
-163,
-2,
-41817.65
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-457,
-151,
-3,
-8001.09
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-1,
-100,
-1,
-17331.91
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-61,
-24,
-5,
-10434.63
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-332,
-142,
-4,
-5750.15
+26732.23
 );
 
 INSERT INTO order_items
@@ -10404,219 +654,109 @@ INSERT INTO order_items
 VALUES
 (
 109,
-15,
-2,
-48994.56
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-497,
-171,
-2,
-25587.54
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-54,
-147,
-5,
-9193.84
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-457,
-26,
-1,
-9174.02
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-180,
-55,
-1,
-7392.15
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-206,
-126,
-3,
-38955.88
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-347,
-7,
-2,
-5981.09
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-16,
-172,
+108,
 4,
-36871.9
+39010.02
 );
 
 INSERT INTO order_items
 (order_id, product_id, quantity, price)
 VALUES
 (
-362,
-90,
-4,
-2895.65
+301,
+133,
+3,
+5559.43
 );
 
 INSERT INTO order_items
 (order_id, product_id, quantity, price)
 VALUES
 (
-257,
-136,
-1,
-34529.26
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-302,
-46,
+450,
+119,
 2,
-6726.07
+47116.82
 );
 
 INSERT INTO order_items
 (order_id, product_id, quantity, price)
 VALUES
 (
-423,
-95,
+439,
+156,
 4,
-30440.56
+522.83
 );
 
 INSERT INTO order_items
 (order_id, product_id, quantity, price)
 VALUES
 (
-383,
+387,
+67,
 3,
-1,
-7513.39
+27258.39
 );
 
 INSERT INTO order_items
 (order_id, product_id, quantity, price)
 VALUES
 (
-335,
-161,
-3,
-4283.77
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-59,
-124,
-3,
-15084.0
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-146,
-31,
-5,
-41266.71
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-45,
-177,
-5,
-45831.9
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-93,
-88,
-4,
-20168.08
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-341,
-155,
+134,
+32,
 2,
-38930.85
+18523.97
 );
 
 INSERT INTO order_items
 (order_id, product_id, quantity, price)
 VALUES
 (
-33,
+318,
+174,
+2,
+39472.64
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+407,
+167,
+2,
+33994.09
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+316,
+110,
+1,
+34080.6
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
 66,
+184,
 1,
-8862.99
+47890.35
 );
 
 INSERT INTO order_items
 (order_id, product_id, quantity, price)
 VALUES
 (
-2,
-85,
+420,
+187,
 5,
-46164.08
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-309,
-8,
-5,
-7014.2
+20339.53
 );
 
 INSERT INTO order_items
@@ -10624,39 +764,1419 @@ INSERT INTO order_items
 VALUES
 (
 288,
+182,
+5,
+48183.38
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+162,
+42,
+4,
+30914.9
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+317,
+105,
+3,
+33413.54
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+478,
 129,
+4,
+32915.3
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+153,
+119,
+4,
+42545.92
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+434,
+16,
+5,
+46433.07
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+497,
+190,
+3,
+12233.13
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+399,
+8,
+3,
+17874.18
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+109,
+104,
+4,
+8737.25
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+346,
+2,
+4,
+12328.08
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+208,
+130,
+3,
+28834.32
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+154,
+194,
 1,
-24285.39
+12722.74
 );
 
 INSERT INTO order_items
 (order_id, product_id, quantity, price)
 VALUES
 (
-147,
-77,
+341,
+197,
+2,
+3600.76
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+202,
+111,
+2,
+20598.35
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+199,
+149,
+3,
+48913.71
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+297,
+96,
+5,
+15831.21
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+355,
+181,
+2,
+9249.38
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+78,
+76,
+3,
+29556.31
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+85,
+184,
+1,
+30245.96
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+184,
+182,
+2,
+17278.68
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+175,
+12,
+1,
+2487.14
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+286,
+159,
+2,
+9488.7
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+215,
+94,
+2,
+49680.01
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+68,
+82,
 4,
-16509.97
+29723.83
 );
 
 INSERT INTO order_items
 (order_id, product_id, quantity, price)
 VALUES
 (
-427,
-126,
+64,
+88,
+3,
+39703.27
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+30,
+173,
+1,
+33326.41
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+140,
+197,
+2,
+35435.6
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+324,
+36,
+2,
+8977.44
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+170,
+27,
+5,
+32566.4
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+426,
+192,
 4,
-37846.68
+42112.49
 );
 
 INSERT INTO order_items
 (order_id, product_id, quantity, price)
 VALUES
 (
-232,
+34,
+38,
+3,
+28786.01
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+250,
+64,
+4,
+1689.53
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+12,
+122,
+4,
+30676.5
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+342,
+106,
+3,
+13119.64
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+301,
+192,
+2,
+11044.06
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+47,
+46,
+5,
+10948.07
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+395,
+175,
+5,
+24769.71
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+114,
+116,
+4,
+40749.92
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+9,
+102,
+4,
+22150.49
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+324,
+2,
+1,
+21839.39
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+407,
+163,
+1,
+41032.37
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+246,
+107,
+5,
+6702.0
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+455,
+37,
+5,
+24682.16
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+155,
+120,
+3,
+17520.13
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+343,
+158,
+3,
+6422.49
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+455,
+68,
+1,
+40084.98
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+290,
+65,
+3,
+45527.85
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+244,
+175,
+5,
+3910.4
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+451,
+188,
+5,
+4078.07
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+409,
+177,
+3,
+9123.78
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+294,
+198,
+1,
+21072.75
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+449,
+96,
+4,
+41799.56
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+239,
+140,
+5,
+25627.89
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+234,
+41,
+2,
+38268.86
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+252,
+131,
+3,
+27264.47
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+193,
+98,
+4,
+47880.43
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+266,
+141,
+1,
+45115.53
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+266,
+55,
+5,
+26380.36
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+329,
+47,
+2,
+1881.12
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+304,
+162,
+4,
+43219.96
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+134,
+74,
+4,
+19775.89
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+344,
+132,
+1,
+2263.16
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+141,
+7,
+4,
+5540.97
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+498,
+16,
+3,
+27949.91
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+489,
+74,
+2,
+49234.84
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+349,
+131,
+5,
+15553.58
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+195,
+196,
+4,
+23849.41
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+495,
+104,
+3,
+17299.18
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+159,
+82,
+4,
+8382.73
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+98,
+71,
+5,
+33307.7
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+494,
+4,
+2,
+34989.89
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+211,
+163,
+5,
+1759.37
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+253,
+185,
+1,
+49812.5
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+337,
+66,
+4,
+32790.96
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+382,
+171,
+4,
+32048.01
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+119,
+121,
+2,
+31561.87
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+118,
+6,
+2,
+33823.07
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+488,
+148,
+1,
+18753.77
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+197,
+136,
+1,
+45794.29
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+500,
+70,
+1,
+19184.77
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+187,
+176,
+2,
+23530.16
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+52,
+72,
+1,
+36847.75
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+279,
+193,
+2,
+18539.58
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+28,
+169,
+3,
+24520.82
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+253,
+103,
+5,
+16090.12
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+142,
+169,
+4,
+4700.62
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+391,
+16,
+1,
+19364.15
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+28,
+139,
+3,
+42997.44
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+239,
+3,
+3,
+18864.61
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+272,
+30,
+2,
+22504.73
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+221,
+139,
+5,
+33965.93
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+270,
+57,
+3,
+42010.4
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+119,
+16,
+5,
+46685.61
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+175,
+172,
+1,
+6234.05
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+490,
+180,
+1,
+10169.88
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+139,
+158,
+1,
+8700.15
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+380,
+132,
+2,
+18605.03
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+64,
+142,
+1,
+19617.64
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+478,
+156,
+1,
+15170.62
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+67,
+108,
+1,
+2952.62
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+233,
+97,
+4,
+16481.68
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+214,
+183,
+1,
+4443.83
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+4,
+98,
+2,
+45387.01
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+499,
+34,
+1,
+39577.23
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+70,
+51,
+3,
+12217.44
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+121,
+108,
+3,
+16999.59
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+192,
+180,
+5,
+11676.1
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+262,
+92,
+4,
+32368.98
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+98,
+56,
+2,
+44735.3
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+479,
+75,
+1,
+38587.55
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+475,
+165,
+2,
+29813.4
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+413,
+119,
+1,
+34228.6
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+71,
+56,
+3,
+47414.95
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+296,
+146,
+1,
+28594.9
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+430,
+84,
+1,
+12690.97
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+41,
+29,
+5,
+12872.18
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+310,
+113,
+1,
+3159.12
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+445,
+38,
+4,
+44909.86
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+63,
+42,
+3,
+30110.56
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+279,
+120,
+1,
+43004.2
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+461,
+187,
+3,
+29811.89
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+291,
+23,
+4,
+35203.61
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+483,
+178,
+3,
+35502.18
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+225,
+94,
+2,
+26122.44
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+150,
+145,
+4,
+42741.43
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+214,
+4,
+4,
+48759.35
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+477,
+40,
+5,
+49300.13
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+429,
+146,
+1,
+9705.51
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+340,
+109,
+5,
+44572.65
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+293,
+58,
+4,
+42233.57
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+140,
+103,
+4,
+40173.06
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+184,
+22,
+3,
+45974.64
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+372,
 99,
+4,
+40159.26
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+182,
+76,
+3,
+16021.36
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+433,
+25,
+5,
+20815.42
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+187,
+28,
+4,
+45657.82
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+103,
+76,
+2,
+22006.05
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+76,
+47,
+4,
+45873.26
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+375,
+159,
+3,
+40685.8
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+234,
+152,
 1,
-25646.15
+15707.9
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+149,
+93,
+2,
+35710.53
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+244,
+74,
+5,
+44423.46
 );
 
 INSERT INTO order_items
@@ -10664,49 +2184,699 @@ INSERT INTO order_items
 VALUES
 (
 79,
-200,
-3,
-43553.79
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-487,
-5,
-5,
-20855.85
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-453,
-136,
-3,
-7865.62
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-364,
-163,
+88,
 2,
-48984.67
+22921.03
 );
 
 INSERT INTO order_items
 (order_id, product_id, quantity, price)
 VALUES
 (
-274,
+80,
+94,
+1,
+33480.43
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+473,
+102,
+5,
+45907.9
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+489,
+145,
+4,
+21686.89
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+109,
+181,
+3,
+19977.7
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+167,
+119,
+4,
+27785.89
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+413,
+4,
+4,
+17738.06
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+361,
+28,
+1,
+19355.36
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+152,
+77,
+2,
+7806.61
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+92,
+1,
+3,
+20905.35
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+281,
+133,
+5,
+18997.04
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+24,
+5,
+1,
+25694.26
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+80,
+197,
+5,
+3731.17
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+320,
+171,
+2,
+2898.01
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+98,
+139,
+3,
+11839.33
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+145,
+85,
+1,
+41069.09
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+250,
+21,
+1,
+26623.67
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+338,
+108,
+5,
+25097.42
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+456,
+186,
+4,
+37460.14
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+249,
+33,
+1,
+11879.39
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+369,
+91,
+2,
+15824.17
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+295,
+162,
+5,
+21213.0
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+103,
+68,
+4,
+44735.99
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+253,
+177,
+5,
+9976.57
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+385,
+195,
+1,
+23457.43
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+457,
+153,
+3,
+35811.82
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+451,
+40,
+3,
+7325.64
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+69,
+183,
+3,
+33584.8
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+486,
+97,
+5,
+8533.0
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+117,
+51,
+2,
+45411.82
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+352,
 125,
+5,
+20753.38
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+200,
+193,
+1,
+13066.0
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+59,
+82,
+5,
+35209.79
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+9,
+28,
+5,
+19950.96
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+57,
+140,
+4,
+30515.74
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+471,
+72,
+5,
+40636.77
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+188,
+104,
+3,
+24344.32
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+348,
+113,
+5,
+44617.3
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+460,
+48,
+4,
+1502.46
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+300,
+61,
+5,
+44655.42
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+205,
+169,
+3,
+23759.1
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+68,
+43,
+5,
+19234.41
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+407,
+165,
+3,
+13907.28
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+201,
+196,
 2,
-43366.66
+46431.77
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+109,
+62,
+5,
+33052.62
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+397,
+127,
+3,
+15967.72
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+292,
+52,
+2,
+29334.51
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+126,
+55,
+1,
+44706.79
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+498,
+130,
+1,
+32037.77
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+258,
+36,
+1,
+10447.95
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+358,
+177,
+2,
+2097.85
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+177,
+135,
+2,
+17220.25
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+160,
+26,
+1,
+26330.16
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+225,
+33,
+2,
+7927.9
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+109,
+83,
+1,
+3604.65
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+286,
+5,
+1,
+25252.63
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+494,
+85,
+5,
+43113.45
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+241,
+101,
+2,
+31322.74
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+302,
+164,
+5,
+28530.49
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+258,
+130,
+2,
+41205.43
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+434,
+168,
+3,
+43525.84
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+84,
+159,
+5,
+44044.39
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+83,
+63,
+1,
+5332.61
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+183,
+76,
+2,
+5093.43
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+417,
+77,
+2,
+14056.18
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+212,
+178,
+1,
+18245.01
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+43,
+56,
+2,
+32921.22
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+464,
+100,
+3,
+24030.1
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+283,
+162,
+3,
+19238.39
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+18,
+192,
+2,
+28921.44
 );
 
 INSERT INTO order_items
@@ -10715,118 +2885,128 @@ VALUES
 (
 408,
 82,
-2,
-21241.29
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-422,
-193,
 5,
-20208.15
+32612.27
 );
 
 INSERT INTO order_items
 (order_id, product_id, quantity, price)
 VALUES
 (
-434,
-63,
+134,
+46,
+3,
+16228.66
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+427,
+27,
 4,
-25981.2
+6384.07
 );
 
 INSERT INTO order_items
 (order_id, product_id, quantity, price)
 VALUES
 (
-216,
-154,
+84,
+198,
 2,
-38459.32
+12222.28
 );
 
 INSERT INTO order_items
 (order_id, product_id, quantity, price)
 VALUES
 (
-466,
-196,
+276,
+181,
+1,
+25872.74
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+69,
+20,
+4,
+35833.14
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+279,
+17,
+1,
+7493.87
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+195,
+73,
+4,
+28298.84
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+398,
+89,
+4,
+25686.46
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+387,
+157,
+1,
+41003.69
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+300,
+111,
 2,
-20778.71
+35553.47
 );
 
 INSERT INTO order_items
 (order_id, product_id, quantity, price)
 VALUES
 (
-33,
-164,
+500,
+121,
+3,
+39431.62
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+424,
+77,
 5,
-33478.47
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-374,
-35,
-2,
-45199.54
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-361,
-187,
-4,
-7590.7
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-370,
-177,
-1,
-35257.65
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-473,
-76,
-2,
-32020.14
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-21,
-41,
-2,
-6689.09
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-45,
-184,
-1,
-4437.44
+29296.77
 );
 
 INSERT INTO order_items
@@ -10834,119 +3014,89 @@ INSERT INTO order_items
 VALUES
 (
 321,
-199,
-2,
-36172.74
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-383,
-6,
-2,
-21047.01
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-293,
-87,
-2,
-34376.67
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-139,
-33,
-3,
-24814.77
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-467,
-161,
-3,
-20886.46
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-481,
-136,
-1,
-169.96
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-52,
-126,
-2,
-14562.59
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-243,
-34,
-2,
-4425.62
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-190,
-74,
+23,
 5,
-34514.17
+37225.14
 );
 
 INSERT INTO order_items
 (order_id, product_id, quantity, price)
 VALUES
 (
-183,
-59,
-1,
-4455.51
+123,
+54,
+4,
+25609.46
 );
 
 INSERT INTO order_items
 (order_id, product_id, quantity, price)
 VALUES
 (
-232,
-10,
+380,
+175,
 2,
-14469.43
+18951.91
 );
 
 INSERT INTO order_items
 (order_id, product_id, quantity, price)
 VALUES
 (
-1,
-14,
-2,
-12864.3
+13,
+98,
+4,
+32616.04
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+115,
+158,
+5,
+35546.68
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+451,
+85,
+3,
+702.8
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+448,
+171,
+5,
+28267.72
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+214,
+145,
+3,
+38388.7
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+315,
+94,
+3,
+40984.94
 );
 
 INSERT INTO order_items
@@ -10954,9 +3104,419 @@ INSERT INTO order_items
 VALUES
 (
 331,
+173,
+2,
+48945.4
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+220,
+16,
+5,
+445.75
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+7,
+72,
+1,
+33728.52
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+489,
+116,
+5,
+43077.97
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+316,
+27,
+3,
+42923.88
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+343,
+94,
+1,
+10377.47
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+436,
+135,
+4,
+47541.96
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+490,
+19,
+5,
+32234.18
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+341,
+114,
+5,
+44954.54
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+269,
+169,
+5,
+3205.09
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+415,
+109,
+2,
+2379.65
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+418,
+31,
+3,
+47104.84
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+304,
+180,
+5,
+2923.47
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+482,
+146,
+3,
+24655.8
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+228,
+108,
+4,
+48134.81
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+44,
+100,
+3,
+45284.31
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+16,
+154,
+5,
+9462.72
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+36,
+180,
+3,
+30997.42
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+454,
+103,
+5,
+19022.96
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+216,
 160,
 4,
-47634.41
+46554.36
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+386,
+122,
+2,
+38616.68
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+458,
+8,
+2,
+21698.99
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+471,
+94,
+4,
+25874.89
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+498,
+41,
+5,
+19057.01
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+331,
+104,
+5,
+36548.88
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+387,
+96,
+1,
+44097.24
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+350,
+71,
+1,
+8377.85
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+290,
+151,
+3,
+37085.54
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+117,
+183,
+3,
+48638.21
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+121,
+140,
+2,
+1151.47
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+169,
+66,
+3,
+26607.65
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+402,
+93,
+4,
+14844.22
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+318,
+122,
+1,
+4635.01
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+491,
+3,
+1,
+20112.07
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+68,
+41,
+1,
+22103.67
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+267,
+85,
+4,
+42078.83
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+348,
+127,
+5,
+13142.83
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+402,
+144,
+5,
+8783.99
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+367,
+189,
+1,
+44669.89
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+157,
+182,
+4,
+6987.88
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+394,
+193,
+1,
+4795.03
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+432,
+130,
+3,
+37599.07
 );
 
 INSERT INTO order_items
@@ -10964,19 +3524,369 @@ INSERT INTO order_items
 VALUES
 (
 365,
-57,
+69,
 1,
-15856.49
+18820.49
 );
 
 INSERT INTO order_items
 (order_id, product_id, quantity, price)
 VALUES
 (
-475,
-119,
+304,
+53,
+5,
+20196.05
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+464,
+59,
 4,
-20115.2
+31142.81
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+129,
+196,
+3,
+22831.39
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+70,
+20,
+3,
+4824.77
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+31,
+178,
+2,
+35287.44
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+148,
+190,
+1,
+49578.01
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+57,
+195,
+1,
+46882.04
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+69,
+148,
+4,
+35813.01
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+388,
+143,
+3,
+22161.58
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+237,
+186,
+3,
+11281.25
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+369,
+62,
+1,
+21163.12
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+330,
+190,
+5,
+48378.61
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+21,
+84,
+5,
+10128.11
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+285,
+73,
+4,
+10009.34
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+121,
+152,
+5,
+37294.41
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+49,
+45,
+2,
+14292.16
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+288,
+110,
+3,
+4808.68
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+50,
+41,
+1,
+31953.96
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+218,
+29,
+5,
+26929.14
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+41,
+2,
+2,
+15387.57
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+399,
+76,
+4,
+3182.19
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+340,
+13,
+4,
+6128.98
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+221,
+60,
+3,
+7618.64
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+227,
+193,
+1,
+29507.44
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+198,
+19,
+1,
+26955.88
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+114,
+106,
+1,
+34455.61
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+24,
+122,
+1,
+18091.26
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+447,
+154,
+5,
+48232.95
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+152,
+111,
+4,
+37209.58
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+30,
+46,
+5,
+13855.99
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+464,
+196,
+4,
+34977.22
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+473,
+150,
+4,
+29529.94
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+437,
+85,
+3,
+5044.24
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+456,
+122,
+3,
+11003.09
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+332,
+81,
+2,
+41457.0
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+91,
+191,
+2,
+6700.9
 );
 
 INSERT INTO order_items
@@ -10984,19 +3894,599 @@ INSERT INTO order_items
 VALUES
 (
 106,
-169,
-4,
-41294.33
+168,
+3,
+12816.99
 );
 
 INSERT INTO order_items
 (order_id, product_id, quantity, price)
 VALUES
 (
-96,
+234,
+62,
 3,
+44370.1
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+324,
+42,
+2,
+49093.28
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+280,
+163,
+5,
+10083.04
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+345,
+59,
+3,
+37126.33
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+33,
+98,
+3,
+25048.83
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+361,
+130,
+2,
+26384.47
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+140,
+171,
+3,
+44596.02
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+25,
+68,
+5,
+9063.99
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+477,
+93,
+1,
+20379.28
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+52,
+72,
+2,
+21878.43
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+322,
+37,
+2,
+7422.0
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+46,
+19,
 4,
-43465.46
+15912.9
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+347,
+86,
+3,
+11749.96
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+105,
+36,
+3,
+49444.53
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+499,
+18,
+1,
+39829.72
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+88,
+132,
+3,
+23148.86
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+223,
+115,
+4,
+39838.52
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+349,
+91,
+4,
+38868.08
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+219,
+79,
+3,
+12340.12
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+342,
+93,
+5,
+35863.12
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+12,
+164,
+4,
+44460.57
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+378,
+141,
+2,
+43132.31
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+22,
+192,
+5,
+15114.69
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+350,
+189,
+3,
+25851.13
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+48,
+49,
+2,
+10567.78
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+41,
+119,
+1,
+48473.18
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+207,
+65,
+4,
+16226.79
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+410,
+190,
+2,
+19813.12
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+340,
+112,
+5,
+13983.24
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+270,
+108,
+2,
+11706.4
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+369,
+7,
+3,
+9632.25
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+441,
+21,
+1,
+11947.26
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+135,
+126,
+4,
+32444.75
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+284,
+83,
+5,
+48904.4
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+169,
+24,
+3,
+35189.63
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+341,
+76,
+2,
+10092.47
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+181,
+54,
+5,
+24844.48
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+451,
+65,
+5,
+19548.14
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+128,
+64,
+3,
+22722.37
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+414,
+196,
+3,
+36238.49
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+105,
+85,
+5,
+24724.99
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+304,
+87,
+1,
+41097.18
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+70,
+128,
+3,
+34674.7
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+371,
+72,
+4,
+13403.2
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+444,
+111,
+1,
+32423.2
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+108,
+40,
+4,
+20013.01
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+313,
+178,
+3,
+4889.57
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+221,
+36,
+3,
+47708.48
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+402,
+74,
+2,
+35048.01
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+429,
+142,
+1,
+28280.58
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+306,
+40,
+2,
+777.08
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+187,
+77,
+2,
+48517.07
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+205,
+199,
+2,
+38713.25
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+169,
+86,
+3,
+15644.07
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+368,
+16,
+1,
+11270.38
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+149,
+155,
+4,
+205.88
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+414,
+183,
+4,
+28266.65
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+219,
+144,
+2,
+4579.12
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+369,
+160,
+4,
+43427.87
 );
 
 INSERT INTO order_items
@@ -11004,19 +4494,219 @@ INSERT INTO order_items
 VALUES
 (
 411,
-150,
-3,
-23874.52
+41,
+5,
+31077.18
 );
 
 INSERT INTO order_items
 (order_id, product_id, quantity, price)
 VALUES
 (
-420,
-21,
+387,
+75,
 2,
-20601.52
+40055.34
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+282,
+164,
+2,
+21867.53
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+229,
+37,
+4,
+47635.47
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+36,
+183,
+4,
+15111.04
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+426,
+140,
+1,
+29163.53
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+498,
+151,
+3,
+30421.62
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+235,
+130,
+1,
+35097.15
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+360,
+63,
+1,
+1939.75
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+412,
+12,
+4,
+31417.14
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+301,
+6,
+2,
+17906.31
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+98,
+17,
+4,
+41167.49
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+329,
+60,
+2,
+37067.17
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+357,
+113,
+1,
+38810.09
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+99,
+42,
+3,
+18606.88
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+379,
+161,
+2,
+45926.44
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+471,
+100,
+5,
+49109.81
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+169,
+122,
+1,
+46017.47
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+440,
+189,
+2,
+15500.17
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+152,
+146,
+1,
+49745.49
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+193,
+132,
+4,
+43656.65
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+40,
+161,
+5,
+46114.42
 );
 
 INSERT INTO order_items
@@ -11026,17 +4716,7 @@ VALUES
 108,
 101,
 3,
-45608.67
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-83,
-184,
-5,
-14124.03
+32127.22
 );
 
 INSERT INTO order_items
@@ -11044,89 +4724,19 @@ INSERT INTO order_items
 VALUES
 (
 11,
-79,
-3,
-36832.59
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-96,
-196,
+173,
 5,
-38860.69
+23456.72
 );
 
 INSERT INTO order_items
 (order_id, product_id, quantity, price)
 VALUES
 (
-47,
-109,
+22,
+31,
 3,
-41368.28
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-191,
-189,
-1,
-854.82
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-142,
-66,
-4,
-10942.26
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-486,
-1,
-1,
-25116.94
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-251,
-82,
-3,
-13772.61
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-120,
-64,
-2,
-15239.91
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-256,
-117,
-2,
-21386.88
+5220.99
 );
 
 INSERT INTO order_items
@@ -11134,139 +4744,49 @@ INSERT INTO order_items
 VALUES
 (
 119,
-189,
-2,
-5583.23
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-41,
-92,
-5,
-24573.21
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-30,
-164,
+160,
 1,
-38858.84
+13643.18
 );
 
 INSERT INTO order_items
 (order_id, product_id, quantity, price)
 VALUES
 (
-327,
-168,
-5,
-1319.53
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-80,
-50,
-4,
-41751.41
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-374,
-16,
-5,
-39038.65
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-147,
-110,
-4,
-25716.68
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-258,
-64,
-4,
-31180.03
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-248,
-19,
-5,
-9024.56
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-400,
-55,
-5,
-15579.61
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-215,
-11,
-5,
-37752.04
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-335,
-156,
-3,
-48965.63
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-498,
-12,
-5,
-45208.93
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-435,
-197,
+100,
+38,
 2,
-35326.94
+16571.2
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+282,
+159,
+4,
+27889.78
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+97,
+120,
+4,
+44307.95
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+61,
+54,
+5,
+6491.5
 );
 
 INSERT INTO order_items
@@ -11274,49 +4794,1369 @@ INSERT INTO order_items
 VALUES
 (
 343,
-65,
+74,
+4,
+12514.19
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+319,
+185,
+4,
+42721.78
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+133,
+127,
+2,
+5913.19
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+151,
+67,
+2,
+25526.2
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+76,
+146,
+2,
+40259.29
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+59,
+71,
 1,
-16325.26
+35796.27
 );
 
 INSERT INTO order_items
 (order_id, product_id, quantity, price)
 VALUES
 (
+404,
+168,
+3,
+47968.36
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+78,
+62,
+5,
+34888.22
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+236,
+105,
+3,
+45318.06
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+320,
+158,
+5,
+17165.1
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+202,
+10,
+5,
+37584.14
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+489,
+113,
+5,
+4974.13
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+95,
+7,
+5,
+9505.03
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+291,
+98,
+5,
+36526.18
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+314,
+37,
+5,
+31174.33
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+49,
+187,
+2,
+28670.3
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+291,
+192,
+2,
+15249.76
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+217,
+35,
+4,
+1665.47
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+46,
+85,
+1,
+28850.22
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+243,
+78,
+1,
+19211.62
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+51,
+184,
+3,
+41733.36
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+261,
+133,
+2,
+12959.67
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+396,
+82,
+5,
+33813.19
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+418,
+164,
+2,
+16572.96
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+158,
+125,
+2,
+29204.75
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+392,
+110,
+5,
+18894.94
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+61,
+4,
+1,
+1568.21
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+61,
+12,
+1,
+13638.96
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+324,
+63,
+4,
+14401.81
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+439,
+154,
+1,
+11600.45
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+297,
 179,
-99,
-4,
-26584.47
+2,
+49936.1
 );
 
 INSERT INTO order_items
 (order_id, product_id, quantity, price)
 VALUES
 (
-34,
+220,
+44,
+3,
+41096.12
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+73,
+102,
+1,
+37722.79
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+244,
+32,
+4,
+26639.26
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+459,
+172,
+4,
+262.53
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+57,
+52,
+2,
+14367.12
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+141,
+39,
+1,
+3710.57
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+438,
+85,
+1,
+36704.96
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+489,
+141,
+2,
+11957.45
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+193,
+10,
+1,
+10461.68
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+289,
+133,
+2,
+20918.61
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+476,
+142,
+1,
+47171.53
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+472,
+188,
+1,
+28065.6
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+80,
+93,
+2,
+49629.71
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+439,
+24,
+5,
+22885.87
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+491,
+41,
+2,
+12055.9
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+156,
 153,
-3,
-34444.37
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-3,
-123,
 4,
-2062.63
+25108.47
 );
 
 INSERT INTO order_items
 (order_id, product_id, quantity, price)
 VALUES
 (
-33,
-145,
+368,
+34,
+1,
+36002.21
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+194,
+51,
+5,
+21790.95
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+284,
+43,
 3,
-32882.35
+10057.01
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+382,
+106,
+3,
+33969.81
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+361,
+9,
+1,
+33196.51
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+365,
+133,
+4,
+3431.98
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+35,
+41,
+1,
+15555.14
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+193,
+60,
+5,
+39560.95
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+444,
+106,
+3,
+20827.58
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+451,
+191,
+1,
+33026.63
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+299,
+162,
+3,
+28148.4
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+368,
+139,
+5,
+19563.17
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+60,
+43,
+5,
+14558.92
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+397,
+145,
+5,
+27288.82
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+358,
+140,
+1,
+23216.38
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+222,
+187,
+1,
+17811.23
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+127,
+31,
+5,
+22135.22
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+159,
+67,
+3,
+20184.61
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+398,
+29,
+3,
+34229.7
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+124,
+160,
+2,
+45171.98
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+490,
+139,
+2,
+26370.07
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+71,
+59,
+1,
+22337.76
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+395,
+151,
+5,
+13781.43
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+232,
+148,
+1,
+20062.52
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+284,
+140,
+3,
+17075.93
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+111,
+78,
+1,
+3295.95
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+85,
+98,
+4,
+16512.03
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+119,
+158,
+2,
+27049.87
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+384,
+176,
+1,
+7040.35
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+185,
+22,
+5,
+536.55
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+278,
+9,
+3,
+5099.63
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+235,
+170,
+2,
+46076.58
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+312,
+91,
+1,
+43372.27
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+68,
+89,
+1,
+30262.52
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+366,
+179,
+3,
+21353.54
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+234,
+19,
+3,
+8435.06
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+384,
+19,
+5,
+41707.25
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+246,
+156,
+2,
+38222.59
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+267,
+99,
+1,
+47567.31
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+71,
+199,
+1,
+48973.18
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+449,
+43,
+2,
+30290.45
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+347,
+175,
+2,
+46867.97
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+64,
+65,
+5,
+15478.14
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+430,
+53,
+1,
+37006.9
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+369,
+194,
+5,
+17946.25
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+454,
+112,
+5,
+44757.83
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+199,
+64,
+1,
+21119.95
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+428,
+180,
+3,
+19778.25
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+36,
+115,
+2,
+20541.91
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+469,
+106,
+4,
+38068.41
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+422,
+89,
+1,
+1412.62
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+257,
+161,
+5,
+2470.23
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+215,
+164,
+3,
+34730.72
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+149,
+139,
+5,
+14274.53
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+408,
+186,
+4,
+29656.54
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+130,
+36,
+5,
+27325.29
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+314,
+196,
+1,
+31907.72
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+293,
+183,
+1,
+5971.2
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+227,
+151,
+1,
+21339.1
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+91,
+91,
+2,
+38717.88
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+21,
+12,
+4,
+42186.0
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+293,
+141,
+1,
+38714.72
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+144,
+61,
+2,
+30449.63
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+276,
+105,
+5,
+25594.67
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+294,
+193,
+2,
+23629.23
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+445,
+17,
+2,
+32633.82
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+209,
+96,
+4,
+46452.79
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+268,
+70,
+1,
+8202.68
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+109,
+162,
+2,
+14272.78
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+288,
+187,
+2,
+9966.07
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+22,
+23,
+4,
+10948.15
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+220,
+26,
+4,
+8416.28
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+449,
+117,
+1,
+38704.14
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+248,
+167,
+5,
+8949.69
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+412,
+118,
+3,
+13395.93
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+101,
+167,
+4,
+36936.7
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+331,
+162,
+1,
+23393.22
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+50,
+152,
+4,
+38230.49
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+23,
+91,
+3,
+34784.99
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+395,
+76,
+4,
+830.13
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+437,
+87,
+4,
+49322.74
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+385,
+48,
+5,
+45140.14
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+30,
+35,
+4,
+14082.47
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+466,
+14,
+4,
+44439.58
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+272,
+158,
+4,
+7914.05
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+378,
+11,
+1,
+46982.49
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+94,
+183,
+4,
+37220.18
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+205,
+73,
+3,
+11893.67
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+185,
+198,
+5,
+37384.46
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+22,
+96,
+2,
+38956.03
 );
 
 INSERT INTO order_items
@@ -11324,9 +6164,1359 @@ INSERT INTO order_items
 VALUES
 (
 188,
-186,
+134,
+1,
+49895.54
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+249,
+35,
+1,
+11030.78
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+337,
+109,
+4,
+44628.26
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+166,
+128,
 3,
-9483.49
+47365.52
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+388,
+129,
+5,
+8706.38
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+183,
+37,
+5,
+25426.48
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+486,
+69,
+5,
+22924.21
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+72,
+54,
+2,
+23744.62
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+42,
+124,
+4,
+25368.31
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+295,
+66,
+1,
+5973.13
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+78,
+181,
+1,
+15774.74
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+343,
+40,
+1,
+16964.29
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+138,
+70,
+3,
+251.62
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+410,
+137,
+1,
+48202.59
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+328,
+106,
+3,
+23714.35
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+87,
+83,
+4,
+10535.4
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+48,
+197,
+3,
+5863.95
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+214,
+140,
+1,
+29986.21
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+36,
+153,
+5,
+30015.6
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+64,
+134,
+2,
+1446.75
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+452,
+62,
+4,
+20553.8
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+281,
+132,
+4,
+24505.56
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+95,
+146,
+3,
+11715.06
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+147,
+76,
+4,
+12674.1
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+80,
+156,
+1,
+8844.82
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+220,
+80,
+4,
+30360.02
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+296,
+1,
+3,
+15206.29
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+189,
+92,
+3,
+31118.91
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+327,
+88,
+2,
+6092.54
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+221,
+41,
+4,
+25713.21
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+62,
+120,
+1,
+3122.12
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+218,
+170,
+1,
+36252.98
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+140,
+109,
+4,
+20365.94
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+354,
+13,
+5,
+49441.42
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+242,
+1,
+3,
+34303.58
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+463,
+129,
+4,
+47539.5
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+453,
+184,
+3,
+28261.94
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+334,
+35,
+3,
+6301.56
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+273,
+88,
+3,
+41525.67
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+54,
+8,
+1,
+42222.98
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+53,
+144,
+3,
+46861.99
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+301,
+152,
+1,
+31522.96
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+289,
+4,
+3,
+8422.56
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+99,
+64,
+1,
+17243.32
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+162,
+57,
+2,
+43950.68
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+430,
+191,
+3,
+8446.27
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+67,
+12,
+4,
+682.84
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+116,
+180,
+4,
+32824.38
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+173,
+78,
+2,
+39710.74
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+179,
+21,
+3,
+22184.47
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+406,
+49,
+4,
+14554.37
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+107,
+97,
+4,
+123.47
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+232,
+117,
+2,
+16268.84
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+478,
+145,
+4,
+34144.55
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+121,
+173,
+2,
+349.91
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+185,
+171,
+1,
+30602.81
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+441,
+43,
+1,
+13706.52
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+255,
+110,
+4,
+40502.7
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+414,
+136,
+3,
+43362.29
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+220,
+94,
+1,
+35796.95
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+41,
+107,
+2,
+47947.33
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+385,
+32,
+1,
+45629.19
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+370,
+57,
+2,
+34032.71
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+433,
+133,
+5,
+47892.62
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+29,
+60,
+2,
+188.61
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+254,
+182,
+3,
+48596.24
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+410,
+171,
+2,
+10799.35
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+138,
+74,
+4,
+20567.5
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+195,
+3,
+1,
+46126.5
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+214,
+178,
+1,
+4076.87
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+333,
+73,
+3,
+15449.9
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+92,
+101,
+5,
+12409.99
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+179,
+179,
+2,
+45570.83
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+230,
+40,
+1,
+14421.78
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+430,
+7,
+5,
+26823.31
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+271,
+119,
+5,
+11711.17
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+86,
+118,
+1,
+1371.5
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+119,
+43,
+3,
+38554.36
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+169,
+96,
+5,
+14226.67
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+347,
+18,
+3,
+7537.86
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+342,
+18,
+4,
+38386.27
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+164,
+78,
+2,
+13026.52
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+413,
+187,
+2,
+43804.66
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+194,
+2,
+4,
+1768.41
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+290,
+32,
+4,
+25507.26
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+116,
+3,
+1,
+22359.87
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+65,
+116,
+5,
+17710.22
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+414,
+114,
+2,
+22784.12
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+13,
+57,
+3,
+26287.73
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+68,
+66,
+5,
+45627.03
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+276,
+37,
+1,
+28774.14
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+28,
+133,
+4,
+13171.4
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+206,
+32,
+1,
+9387.39
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+61,
+45,
+5,
+19537.83
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+379,
+159,
+4,
+36304.15
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+408,
+127,
+1,
+16829.56
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+80,
+130,
+4,
+26968.93
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+199,
+109,
+5,
+3350.3
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+18,
+39,
+5,
+10158.14
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+296,
+14,
+2,
+2441.36
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+175,
+131,
+4,
+21394.35
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+31,
+5,
+1,
+16634.13
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+406,
+167,
+4,
+2588.8
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+456,
+89,
+2,
+20252.37
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+237,
+46,
+3,
+37031.0
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+157,
+153,
+1,
+44959.73
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+252,
+125,
+4,
+18454.37
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+243,
+134,
+2,
+31018.31
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+30,
+157,
+4,
+4837.88
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+392,
+52,
+2,
+37060.39
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+113,
+150,
+4,
+28192.96
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+260,
+168,
+3,
+45232.08
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+305,
+82,
+3,
+31328.31
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+254,
+172,
+5,
+35913.0
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+44,
+114,
+1,
+39844.16
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+385,
+125,
+5,
+31508.31
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+460,
+15,
+5,
+2448.71
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+187,
+45,
+4,
+908.31
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+93,
+81,
+4,
+24738.15
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+216,
+48,
+2,
+25252.06
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+112,
+19,
+4,
+16737.46
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+193,
+165,
+3,
+13843.21
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+375,
+146,
+5,
+3726.03
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+400,
+11,
+5,
+9182.32
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+242,
+24,
+3,
+38506.12
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+6,
+32,
+1,
+48789.62
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+370,
+56,
+1,
+11668.29
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+130,
+69,
+2,
+32364.62
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+108,
+194,
+1,
+37696.53
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+412,
+150,
+2,
+25697.62
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+403,
+160,
+3,
+6528.01
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+419,
+3,
+3,
+13093.55
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+271,
+8,
+1,
+31792.71
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+129,
+153,
+1,
+11523.05
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+153,
+97,
+3,
+29846.23
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+300,
+122,
+3,
+35784.52
 );
 
 INSERT INTO order_items
@@ -11334,19 +7524,1749 @@ INSERT INTO order_items
 VALUES
 (
 376,
-12,
-4,
-45922.51
+90,
+1,
+47103.17
 );
 
 INSERT INTO order_items
 (order_id, product_id, quantity, price)
 VALUES
 (
-426,
-145,
+233,
+84,
+3,
+18725.0
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+470,
+67,
+5,
+38369.72
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+358,
+88,
+2,
+9062.09
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+235,
+35,
+5,
+26712.84
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+318,
+53,
+1,
+16079.79
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+324,
+81,
+1,
+1800.95
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+389,
+168,
+5,
+31726.7
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+211,
+61,
+3,
+33993.01
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+382,
+70,
+2,
+25636.3
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+343,
+197,
+2,
+48707.31
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+353,
+12,
+3,
+49561.69
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+398,
+41,
+1,
+30366.97
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+491,
+121,
+1,
+42196.25
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+45,
+155,
+5,
+22766.82
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+289,
+179,
 4,
-2264.51
+32164.8
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+112,
+156,
+2,
+49861.18
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+80,
+37,
+2,
+17165.43
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+77,
+157,
+1,
+49853.5
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+159,
+193,
+2,
+21575.76
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+496,
+158,
+2,
+9359.17
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+377,
+53,
+2,
+1472.15
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+365,
+19,
+3,
+8758.17
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+358,
+66,
+1,
+9422.59
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+407,
+112,
+2,
+39326.39
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+398,
+133,
+1,
+36367.02
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+357,
+45,
+1,
+29576.72
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+29,
+180,
+1,
+22720.66
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+461,
+187,
+4,
+10925.03
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+98,
+56,
+3,
+119.98
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+39,
+35,
+5,
+20611.3
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+484,
+28,
+4,
+28950.79
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+72,
+17,
+2,
+14427.25
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+267,
+75,
+2,
+24305.39
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+131,
+61,
+1,
+31115.19
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+94,
+197,
+3,
+15437.85
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+147,
+148,
+2,
+8085.0
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+104,
+120,
+3,
+13409.58
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+221,
+56,
+4,
+26304.11
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+112,
+73,
+3,
+20022.15
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+79,
+181,
+4,
+19134.6
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+283,
+24,
+3,
+44032.83
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+269,
+194,
+4,
+10041.78
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+378,
+9,
+2,
+36366.06
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+456,
+12,
+4,
+33540.54
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+309,
+140,
+2,
+9688.55
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+323,
+149,
+5,
+20300.78
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+498,
+194,
+3,
+2733.14
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+268,
+110,
+5,
+33917.37
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+156,
+151,
+2,
+29318.62
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+114,
+30,
+4,
+46510.53
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+19,
+141,
+3,
+37014.08
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+251,
+66,
+4,
+48242.61
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+32,
+7,
+1,
+39299.63
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+312,
+34,
+3,
+13324.14
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+305,
+20,
+4,
+18823.02
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+271,
+186,
+1,
+2168.38
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+103,
+70,
+2,
+1335.27
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+110,
+141,
+4,
+6420.71
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+185,
+133,
+5,
+36540.38
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+261,
+192,
+3,
+34090.11
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+33,
+94,
+3,
+37115.77
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+291,
+41,
+5,
+37808.89
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+13,
+160,
+3,
+13908.48
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+448,
+130,
+4,
+36902.34
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+388,
+179,
+3,
+10524.29
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+236,
+186,
+5,
+38635.93
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+314,
+105,
+5,
+44986.46
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+213,
+58,
+3,
+43674.12
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+374,
+76,
+2,
+10432.8
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+218,
+20,
+2,
+19872.15
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+71,
+182,
+3,
+22752.48
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+372,
+100,
+5,
+30536.98
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+56,
+154,
+5,
+34202.09
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+156,
+98,
+1,
+28324.03
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+342,
+154,
+2,
+1062.36
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+124,
+192,
+2,
+35036.72
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+202,
+93,
+4,
+14671.87
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+473,
+58,
+5,
+12236.22
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+276,
+106,
+4,
+19712.85
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+422,
+19,
+2,
+11031.54
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+131,
+170,
+4,
+33575.51
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+195,
+18,
+2,
+15246.59
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+358,
+48,
+5,
+20047.67
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+314,
+49,
+2,
+13541.5
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+125,
+5,
+5,
+27036.96
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+105,
+88,
+4,
+36184.42
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+78,
+70,
+1,
+46461.53
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+278,
+139,
+4,
+48224.25
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+13,
+126,
+2,
+23232.71
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+484,
+117,
+1,
+42741.28
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+8,
+50,
+3,
+37953.69
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+114,
+131,
+2,
+29349.04
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+268,
+195,
+5,
+8417.91
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+22,
+192,
+2,
+47152.5
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+302,
+126,
+1,
+23557.9
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+492,
+11,
+2,
+15866.35
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+115,
+56,
+3,
+6613.43
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+473,
+31,
+2,
+14026.91
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+263,
+163,
+5,
+48863.85
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+345,
+100,
+4,
+8711.68
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+299,
+92,
+5,
+36787.16
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+307,
+136,
+5,
+44053.59
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+4,
+195,
+5,
+39450.64
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+205,
+53,
+1,
+14839.54
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+66,
+167,
+5,
+12690.6
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+361,
+3,
+4,
+743.27
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+171,
+84,
+5,
+21222.36
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+54,
+7,
+2,
+28827.23
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+131,
+84,
+4,
+10406.05
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+354,
+197,
+4,
+46344.88
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+212,
+100,
+2,
+1052.76
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+35,
+97,
+4,
+39310.99
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+264,
+64,
+2,
+34571.86
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+313,
+72,
+3,
+20658.64
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+331,
+154,
+4,
+36542.02
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+4,
+102,
+3,
+30701.12
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+13,
+177,
+3,
+42748.36
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+208,
+92,
+5,
+17865.87
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+457,
+103,
+2,
+17607.63
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+368,
+17,
+1,
+17277.65
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+179,
+63,
+3,
+26334.92
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+56,
+60,
+5,
+41828.01
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+352,
+114,
+3,
+36075.67
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+478,
+110,
+3,
+1877.11
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+485,
+137,
+4,
+42594.36
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+261,
+25,
+3,
+38786.62
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+29,
+50,
+2,
+6021.81
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+244,
+57,
+3,
+5535.03
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+415,
+150,
+2,
+27315.4
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+334,
+17,
+3,
+14735.44
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+329,
+132,
+2,
+29394.22
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+142,
+168,
+4,
+47824.9
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+137,
+184,
+2,
+23248.4
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+485,
+95,
+1,
+16774.96
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+360,
+197,
+2,
+26866.89
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+332,
+61,
+4,
+310.47
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+298,
+187,
+1,
+5240.53
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+90,
+198,
+1,
+12985.16
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+139,
+26,
+1,
+13464.53
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+268,
+55,
+3,
+17393.52
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+216,
+87,
+2,
+44888.54
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+284,
+6,
+4,
+41638.69
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+353,
+113,
+5,
+2938.74
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+493,
+19,
+2,
+39209.21
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+319,
+175,
+2,
+4500.62
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+168,
+153,
+2,
+5561.47
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+122,
+83,
+5,
+20336.56
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+198,
+131,
+2,
+13219.08
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+14,
+176,
+5,
+46343.53
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+171,
+148,
+3,
+13814.67
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+128,
+132,
+3,
+39361.42
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+243,
+15,
+2,
+1132.28
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+281,
+187,
+4,
+20946.28
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+123,
+101,
+2,
+41045.66
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+90,
+105,
+1,
+43753.06
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+471,
+120,
+1,
+15136.66
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+193,
+65,
+3,
+27107.98
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+149,
+35,
+5,
+37694.36
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+284,
+33,
+4,
+19474.75
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+469,
+48,
+1,
+31126.06
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+286,
+135,
+5,
+604.13
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+142,
+189,
+1,
+48905.21
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+40,
+7,
+5,
+29883.58
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+285,
+43,
+4,
+46891.09
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+270,
+90,
+2,
+40560.56
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+80,
+63,
+2,
+9983.91
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+201,
+59,
+4,
+2854.88
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+460,
+86,
+1,
+29916.99
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+158,
+120,
+2,
+22658.93
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+244,
+140,
+5,
+41206.91
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+176,
+42,
+5,
+42533.61
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+135,
+170,
+4,
+5183.48
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+231,
+168,
+1,
+25321.43
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+326,
+3,
+5,
+39365.34
 );
 
 INSERT INTO order_items
@@ -11354,9 +9274,2339 @@ INSERT INTO order_items
 VALUES
 (
 336,
-171,
+86,
 5,
-9505.98
+11428.82
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+66,
+197,
+5,
+16929.62
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+38,
+26,
+1,
+26269.72
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+58,
+24,
+2,
+16072.7
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+314,
+186,
+4,
+23194.59
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+304,
+18,
+1,
+5566.18
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+164,
+156,
+4,
+22068.34
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+153,
+162,
+3,
+9523.13
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+378,
+199,
+1,
+39148.46
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+155,
+196,
+5,
+10460.91
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+220,
+88,
+1,
+25304.49
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+467,
+101,
+3,
+32966.05
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+41,
+151,
+4,
+27222.9
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+362,
+141,
+3,
+17829.51
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+444,
+190,
+3,
+9200.65
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+362,
+184,
+4,
+19058.36
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+334,
+119,
+5,
+14903.42
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+44,
+121,
+1,
+401.41
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+32,
+45,
+1,
+30442.24
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+436,
+114,
+3,
+16159.44
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+165,
+138,
+3,
+9471.23
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+110,
+109,
+3,
+16893.49
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+424,
+20,
+4,
+11975.23
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+476,
+7,
+2,
+39732.89
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+269,
+172,
+2,
+11359.72
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+62,
+75,
+3,
+5729.26
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+397,
+138,
+2,
+15205.67
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+397,
+146,
+1,
+4596.62
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+184,
+62,
+3,
+47197.59
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+50,
+84,
+3,
+6360.31
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+41,
+122,
+3,
+13942.09
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+33,
+41,
+5,
+6238.64
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+358,
+20,
+5,
+47091.15
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+374,
+190,
+5,
+30038.57
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+73,
+7,
+5,
+26106.62
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+5,
+20,
+1,
+6925.38
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+452,
+187,
+1,
+40029.42
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+17,
+136,
+1,
+1543.86
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+335,
+77,
+1,
+2218.89
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+204,
+157,
+5,
+16114.31
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+82,
+43,
+3,
+48524.62
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+86,
+114,
+2,
+22442.12
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+48,
+29,
+2,
+44057.75
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+78,
+59,
+2,
+34276.75
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+435,
+137,
+5,
+29269.23
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+237,
+129,
+4,
+33412.02
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+499,
+186,
+1,
+582.98
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+246,
+31,
+3,
+17191.23
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+379,
+80,
+3,
+40260.12
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+456,
+177,
+3,
+8035.11
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+364,
+103,
+1,
+19840.75
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+182,
+184,
+2,
+40647.86
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+15,
+108,
+3,
+28282.25
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+397,
+67,
+3,
+12655.8
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+64,
+57,
+3,
+20675.0
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+11,
+196,
+5,
+339.35
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+246,
+197,
+1,
+40595.78
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+343,
+95,
+1,
+13966.68
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+174,
+157,
+3,
+40336.7
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+233,
+46,
+5,
+26813.16
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+175,
+154,
+2,
+1199.83
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+341,
+53,
+1,
+25825.42
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+387,
+128,
+2,
+14390.31
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+258,
+189,
+5,
+35985.46
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+246,
+192,
+5,
+32045.84
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+180,
+33,
+3,
+48018.82
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+111,
+119,
+4,
+35396.78
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+227,
+100,
+3,
+47091.75
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+395,
+138,
+3,
+36395.97
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+409,
+196,
+5,
+4177.69
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+68,
+166,
+5,
+4547.07
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+98,
+40,
+1,
+36062.33
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+276,
+15,
+4,
+2796.1
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+223,
+193,
+2,
+38063.56
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+73,
+63,
+2,
+7732.51
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+384,
+96,
+5,
+17535.74
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+461,
+3,
+1,
+47308.05
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+340,
+108,
+5,
+27242.49
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+363,
+166,
+2,
+47256.48
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+201,
+193,
+5,
+16629.69
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+336,
+12,
+3,
+23568.65
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+254,
+127,
+2,
+38595.88
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+19,
+138,
+1,
+25161.0
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+481,
+157,
+3,
+27097.4
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+156,
+89,
+2,
+47080.12
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+224,
+60,
+4,
+4946.77
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+315,
+146,
+5,
+3683.86
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+238,
+83,
+1,
+35475.13
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+332,
+147,
+2,
+2534.89
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+170,
+58,
+1,
+35668.8
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+334,
+26,
+4,
+42246.85
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+426,
+193,
+2,
+47596.2
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+109,
+42,
+3,
+42342.43
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+263,
+123,
+5,
+25489.82
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+229,
+133,
+3,
+9350.65
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+381,
+87,
+1,
+10003.32
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+472,
+61,
+5,
+19322.19
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+393,
+198,
+4,
+26619.53
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+481,
+95,
+2,
+18116.44
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+245,
+61,
+1,
+19094.57
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+444,
+48,
+3,
+14527.04
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+384,
+158,
+2,
+35189.46
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+393,
+35,
+5,
+36125.67
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+63,
+84,
+4,
+9606.49
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+376,
+118,
+4,
+33832.35
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+63,
+132,
+4,
+29796.83
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+236,
+80,
+3,
+36079.34
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+174,
+28,
+5,
+14369.86
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+210,
+40,
+3,
+30003.95
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+25,
+122,
+1,
+45383.15
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+236,
+50,
+5,
+9246.55
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+48,
+182,
+5,
+42870.25
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+234,
+59,
+5,
+31815.76
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+232,
+104,
+2,
+33617.54
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+55,
+126,
+3,
+42035.27
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+126,
+65,
+2,
+15832.62
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+365,
+27,
+3,
+6597.18
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+35,
+138,
+4,
+35467.15
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+419,
+72,
+1,
+3698.64
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+404,
+91,
+1,
+43999.58
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+116,
+73,
+3,
+48248.25
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+268,
+109,
+2,
+25929.41
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+160,
+117,
+2,
+24513.24
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+200,
+57,
+5,
+20224.01
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+284,
+200,
+2,
+36478.99
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+417,
+86,
+1,
+21676.52
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+192,
+109,
+2,
+4440.91
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+140,
+23,
+5,
+36717.15
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+183,
+84,
+3,
+31783.69
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+350,
+25,
+1,
+38375.06
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+19,
+134,
+1,
+20069.67
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+286,
+3,
+1,
+46040.64
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+164,
+124,
+5,
+24017.41
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+160,
+95,
+1,
+4681.1
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+152,
+24,
+1,
+10289.63
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+229,
+153,
+3,
+35543.8
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+208,
+39,
+3,
+26990.35
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+355,
+34,
+3,
+3740.98
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+163,
+143,
+1,
+23669.14
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+32,
+156,
+2,
+49754.88
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+150,
+130,
+3,
+15421.03
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+430,
+52,
+3,
+1224.8
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+95,
+180,
+5,
+15624.04
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+44,
+22,
+5,
+15654.31
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+220,
+38,
+5,
+36548.42
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+102,
+52,
+5,
+15831.27
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+343,
+73,
+1,
+24487.63
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+162,
+150,
+2,
+49344.69
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+470,
+10,
+3,
+1238.39
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+317,
+164,
+2,
+24463.77
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+290,
+177,
+3,
+15770.83
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+227,
+21,
+1,
+11326.68
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+164,
+178,
+4,
+10595.29
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+264,
+21,
+4,
+4104.47
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+156,
+54,
+4,
+40441.23
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+91,
+76,
+4,
+8329.42
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+466,
+113,
+1,
+9204.77
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+413,
+125,
+1,
+33944.43
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+94,
+169,
+1,
+40055.52
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+244,
+3,
+3,
+17555.72
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+35,
+85,
+4,
+17530.28
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+365,
+118,
+2,
+11637.31
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+321,
+135,
+3,
+46733.35
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+117,
+189,
+4,
+350.49
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+416,
+198,
+4,
+22911.28
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+373,
+176,
+3,
+9761.99
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+222,
+112,
+2,
+38672.94
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+497,
+61,
+1,
+9007.53
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+79,
+105,
+2,
+38611.23
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+295,
+50,
+5,
+16994.72
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+70,
+75,
+1,
+9254.18
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+125,
+50,
+1,
+12031.45
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+389,
+136,
+2,
+2069.83
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+415,
+41,
+2,
+30321.97
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+182,
+26,
+4,
+31151.94
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+194,
+19,
+5,
+26829.49
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+89,
+85,
+1,
+12356.21
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+390,
+165,
+3,
+3315.94
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+3,
+68,
+5,
+41823.34
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+490,
+41,
+5,
+6119.35
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+290,
+78,
+3,
+2019.37
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+337,
+174,
+5,
+16773.75
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+124,
+165,
+4,
+18572.51
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+253,
+92,
+1,
+30738.98
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+247,
+141,
+4,
+3459.7
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+67,
+69,
+4,
+22410.54
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+390,
+36,
+2,
+3072.19
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+194,
+187,
+3,
+10102.47
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+143,
+53,
+2,
+9419.37
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+193,
+90,
+2,
+15464.24
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+6,
+94,
+3,
+16819.76
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+357,
+133,
+3,
+36149.93
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+287,
+142,
+5,
+9982.59
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+239,
+199,
+5,
+39364.54
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+254,
+158,
+3,
+14642.12
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+113,
+12,
+2,
+21028.03
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+307,
+8,
+5,
+10011.73
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+236,
+97,
+4,
+21320.06
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+39,
+81,
+4,
+37849.76
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+236,
+31,
+3,
+8723.47
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+207,
+83,
+5,
+21909.91
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+219,
+184,
+5,
+35028.31
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+413,
+2,
+4,
+20675.75
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+306,
+140,
+3,
+36412.39
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+94,
+13,
+1,
+5368.12
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+471,
+43,
+1,
+42409.31
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+500,
+45,
+2,
+21039.97
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+334,
+160,
+3,
+14815.96
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+465,
+172,
+4,
+44986.87
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+242,
+30,
+4,
+24721.48
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+151,
+199,
+3,
+35956.9
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+83,
+174,
+2,
+19994.71
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+257,
+171,
+2,
+13596.33
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+256,
+9,
+1,
+39212.29
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+390,
+89,
+2,
+43692.71
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+228,
+131,
+4,
+10602.22
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+399,
+77,
+2,
+36101.17
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+358,
+67,
+3,
+19416.44
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+50,
+95,
+3,
+14342.34
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+181,
+114,
+2,
+16915.09
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+157,
+141,
+2,
+13074.63
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+218,
+70,
+3,
+29970.42
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+446,
+115,
+2,
+18680.75
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+91,
+25,
+1,
+20556.66
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+316,
+163,
+4,
+19916.09
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+174,
+89,
+5,
+27500.87
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+382,
+49,
+4,
+40565.58
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+131,
+144,
+2,
+21108.02
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+363,
+60,
+5,
+37146.11
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+443,
+196,
+1,
+19229.75
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+195,
+177,
+2,
+20528.1
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+318,
+197,
+5,
+47526.07
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+412,
+10,
+5,
+44694.65
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+247,
+29,
+1,
+1201.63
 );
 
 INSERT INTO order_items
@@ -11364,9 +11614,1619 @@ INSERT INTO order_items
 VALUES
 (
 225,
-59,
+83,
+1,
+30401.42
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+8,
+115,
 2,
-26071.84
+32270.66
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+129,
+184,
+4,
+41802.19
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+155,
+79,
+4,
+47462.49
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+53,
+74,
+3,
+20885.17
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+190,
+71,
+5,
+21173.55
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+84,
+165,
+5,
+28757.0
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+354,
+172,
+1,
+8261.11
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+394,
+165,
+4,
+36956.92
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+384,
+119,
+1,
+30204.03
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+482,
+39,
+4,
+9983.21
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+371,
+150,
+1,
+27398.16
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+291,
+120,
+4,
+10553.02
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+102,
+61,
+4,
+26383.01
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+153,
+82,
+5,
+41046.42
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+290,
+26,
+3,
+32525.79
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+412,
+106,
+1,
+16426.97
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+37,
+99,
+3,
+28245.44
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+119,
+25,
+1,
+24668.07
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+7,
+158,
+5,
+43687.99
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+149,
+7,
+4,
+36684.81
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+391,
+88,
+2,
+37044.93
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+389,
+42,
+3,
+17738.14
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+31,
+84,
+4,
+7828.87
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+168,
+132,
+2,
+22580.24
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+182,
+174,
+3,
+43276.55
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+196,
+158,
+3,
+42351.39
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+283,
+72,
+1,
+36500.69
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+142,
+19,
+3,
+25042.89
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+28,
+24,
+1,
+37534.54
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+227,
+24,
+1,
+6146.25
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+46,
+78,
+5,
+3494.87
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+249,
+143,
+3,
+41397.49
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+487,
+22,
+1,
+8408.54
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+424,
+163,
+3,
+2704.48
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+479,
+79,
+1,
+404.15
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+386,
+53,
+3,
+12005.13
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+430,
+114,
+5,
+29765.43
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+140,
+51,
+5,
+19332.26
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+460,
+69,
+1,
+8836.85
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+57,
+146,
+1,
+4907.34
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+296,
+94,
+4,
+39202.99
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+415,
+104,
+4,
+38796.83
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+360,
+174,
+3,
+12421.27
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+258,
+148,
+5,
+29545.29
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+462,
+88,
+3,
+36728.92
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+261,
+80,
+5,
+39751.48
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+210,
+129,
+2,
+37336.6
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+419,
+173,
+5,
+2569.28
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+148,
+55,
+5,
+40219.25
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+338,
+192,
+1,
+39475.45
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+217,
+95,
+1,
+26910.77
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+325,
+29,
+3,
+25887.79
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+123,
+113,
+3,
+29119.26
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+414,
+66,
+1,
+12093.6
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+89,
+172,
+4,
+7637.32
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+51,
+10,
+5,
+34029.38
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+70,
+163,
+1,
+33006.09
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+145,
+35,
+2,
+17509.71
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+181,
+197,
+1,
+5593.81
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+414,
+75,
+5,
+26048.77
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+213,
+107,
+3,
+46163.93
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+495,
+76,
+3,
+28665.71
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+438,
+7,
+1,
+28535.57
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+59,
+93,
+1,
+17254.69
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+259,
+70,
+1,
+39048.68
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+293,
+188,
+1,
+43820.32
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+310,
+198,
+5,
+7412.36
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+132,
+23,
+2,
+13785.32
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+15,
+12,
+3,
+36492.56
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+431,
+12,
+4,
+38746.19
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+411,
+35,
+4,
+3220.51
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+26,
+51,
+5,
+8687.62
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+302,
+113,
+5,
+5126.8
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+156,
+172,
+4,
+25641.53
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+311,
+14,
+2,
+5718.72
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+413,
+78,
+5,
+17906.42
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+316,
+187,
+5,
+32515.24
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+286,
+165,
+4,
+10220.43
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+116,
+190,
+2,
+19230.39
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+288,
+90,
+4,
+44018.34
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+491,
+97,
+5,
+22377.02
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+238,
+133,
+5,
+17681.34
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+74,
+34,
+2,
+4587.35
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+212,
+173,
+2,
+45991.24
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+418,
+52,
+1,
+9723.97
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+135,
+190,
+4,
+12922.85
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+41,
+193,
+1,
+19751.19
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+442,
+181,
+4,
+2655.73
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+231,
+148,
+3,
+6790.55
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+96,
+160,
+1,
+1069.39
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+490,
+97,
+1,
+29745.42
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+346,
+51,
+1,
+14556.64
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+319,
+50,
+1,
+5088.02
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+209,
+65,
+4,
+27684.76
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+145,
+189,
+2,
+28395.1
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+385,
+112,
+1,
+48455.44
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+122,
+52,
+1,
+22642.09
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+410,
+74,
+4,
+43650.1
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+136,
+68,
+5,
+27284.73
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+278,
+113,
+1,
+3647.89
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+148,
+184,
+2,
+25214.93
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+310,
+125,
+1,
+10762.08
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+393,
+140,
+1,
+18046.47
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+60,
+162,
+3,
+11515.62
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+174,
+80,
+3,
+38064.27
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+11,
+95,
+2,
+24989.29
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+200,
+47,
+1,
+37182.44
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+486,
+112,
+4,
+41010.63
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+313,
+59,
+5,
+24213.92
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+68,
+99,
+2,
+41835.48
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+199,
+193,
+1,
+6557.89
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+43,
+41,
+1,
+5034.31
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+103,
+164,
+1,
+32024.01
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+135,
+65,
+5,
+28066.57
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+69,
+2,
+2,
+16587.43
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+309,
+15,
+5,
+36537.48
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+30,
+123,
+1,
+25010.7
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+136,
+59,
+3,
+14873.88
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+42,
+119,
+3,
+49755.86
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+329,
+165,
+2,
+21590.03
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+499,
+23,
+5,
+6425.25
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+215,
+25,
+1,
+22819.2
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+311,
+39,
+4,
+35646.11
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+445,
+128,
+1,
+11696.56
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+450,
+59,
+1,
+44266.05
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+157,
+175,
+5,
+28707.58
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+497,
+196,
+2,
+36359.89
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+127,
+35,
+5,
+3383.43
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+6,
+78,
+3,
+27874.37
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+437,
+185,
+5,
+9117.96
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+149,
+165,
+3,
+30178.37
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+161,
+40,
+3,
+47756.63
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+498,
+168,
+2,
+17107.61
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+362,
+36,
+4,
+30562.42
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+420,
+110,
+1,
+41903.68
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+437,
+45,
+2,
+29594.85
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+217,
+95,
+4,
+16264.33
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+60,
+156,
+2,
+1376.01
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+423,
+20,
+3,
+42216.56
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+141,
+37,
+1,
+40346.31
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+202,
+18,
+3,
+23568.26
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+347,
+198,
+1,
+16479.67
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+441,
+82,
+1,
+33163.25
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+500,
+10,
+5,
+6808.52
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+152,
+104,
+4,
+2403.96
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+333,
+62,
+5,
+22072.7
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+321,
+81,
+4,
+22129.51
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+361,
+64,
+3,
+20975.33
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+150,
+171,
+4,
+24662.73
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+355,
+15,
+4,
+40460.27
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+355,
+187,
+4,
+49983.52
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+242,
+116,
+4,
+10912.87
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+218,
+115,
+1,
+45325.22
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+162,
+124,
+2,
+34341.08
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+490,
+57,
+5,
+29413.26
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+440,
+32,
+5,
+49959.84
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+152,
+200,
+1,
+25016.88
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+244,
+58,
+1,
+3015.08
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+75,
+58,
+3,
+32252.67
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+340,
+137,
+3,
+15399.32
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+176,
+119,
+2,
+15348.91
 );
 
 INSERT INTO order_items
@@ -11374,9 +13234,509 @@ INSERT INTO order_items
 VALUES
 (
 167,
-123,
+194,
 3,
-12306.59
+17217.07
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+207,
+162,
+5,
+27016.94
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+405,
+136,
+5,
+17011.34
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+328,
+146,
+4,
+20664.12
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+158,
+124,
+3,
+27878.3
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+142,
+132,
+2,
+48240.13
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+236,
+186,
+4,
+22316.41
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+183,
+66,
+5,
+36851.35
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+484,
+18,
+2,
+10319.6
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+72,
+157,
+4,
+23072.98
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+308,
+185,
+2,
+46040.35
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+157,
+1,
+4,
+22191.08
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+261,
+99,
+3,
+11626.66
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+148,
+46,
+1,
+11826.67
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+375,
+28,
+2,
+15881.08
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+4,
+35,
+1,
+2009.61
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+35,
+155,
+5,
+13034.67
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+238,
+43,
+2,
+29123.85
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+266,
+38,
+2,
+43749.82
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+220,
+33,
+3,
+44640.23
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+183,
+100,
+1,
+38595.9
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+84,
+105,
+3,
+15364.02
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+96,
+145,
+1,
+7651.73
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+105,
+188,
+1,
+5983.62
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+359,
+186,
+3,
+5831.42
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+148,
+116,
+5,
+48027.9
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+236,
+187,
+5,
+13373.72
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+226,
+21,
+4,
+43208.27
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+25,
+197,
+3,
+9806.78
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+242,
+169,
+1,
+3220.03
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+197,
+164,
+5,
+31954.89
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+349,
+145,
+1,
+49862.8
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+191,
+137,
+3,
+2662.98
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+381,
+12,
+3,
+48207.91
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+320,
+60,
+4,
+17704.42
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+316,
+188,
+2,
+3581.87
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+442,
+147,
+1,
+22688.65
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+249,
+93,
+2,
+5188.25
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+367,
+133,
+2,
+9936.95
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+183,
+138,
+5,
+41554.6
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+399,
+75,
+2,
+3190.91
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+170,
+11,
+3,
+28900.1
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+292,
+102,
+4,
+1268.28
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+85,
+101,
+3,
+32290.11
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+277,
+160,
+5,
+16078.3
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+350,
+40,
+4,
+23156.89
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+43,
+80,
+5,
+47771.73
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+444,
+1,
+2,
+33537.03
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+441,
+60,
+4,
+39511.96
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+228,
+149,
+5,
+40023.84
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+153,
+65,
+4,
+9952.25
 );
 
 INSERT INTO order_items
@@ -11386,2997 +13746,17 @@ VALUES
 236,
 25,
 4,
-29257.94
+5120.15
 );
 
 INSERT INTO order_items
 (order_id, product_id, quantity, price)
 VALUES
 (
-263,
-143,
-1,
-47919.45
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-474,
-112,
-1,
-24714.66
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-480,
-77,
-1,
-17404.97
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-489,
-12,
-3,
-15895.35
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-432,
-191,
-1,
-18415.56
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-303,
-23,
-4,
-27202.91
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-81,
-75,
-5,
-42704.81
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-188,
-82,
-3,
-6088.03
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-270,
-164,
-3,
-20160.28
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-330,
-23,
-5,
-32158.01
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-263,
-77,
-5,
-562.37
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-60,
-87,
-5,
-27480.44
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-463,
-113,
-3,
-46637.68
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-383,
-48,
-1,
-42161.59
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-200,
-67,
-2,
-30763.44
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-204,
-46,
-3,
-43664.42
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-7,
-149,
-5,
-45541.44
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-207,
-82,
-2,
-47952.3
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-341,
-148,
-4,
-45580.5
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-124,
-19,
-1,
-33379.91
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-435,
-94,
-4,
-47161.03
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-461,
-66,
-3,
-2849.07
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-33,
-182,
-2,
-49945.37
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-294,
-153,
-5,
-12816.97
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-104,
-136,
-1,
-40813.54
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-145,
-177,
-1,
-25729.99
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-153,
-156,
-5,
-19391.93
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-237,
-175,
-5,
-34395.98
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-29,
-62,
-2,
-49426.65
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-389,
-186,
-2,
-26909.09
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-229,
-193,
-3,
-11154.7
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-324,
-63,
-5,
-14622.03
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-119,
-27,
-4,
-3847.94
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-471,
-111,
-5,
-24850.38
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-293,
-110,
-5,
-27588.24
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-245,
-156,
-4,
-46809.76
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-108,
-172,
-4,
-34813.25
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-255,
-12,
-1,
-30402.43
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-128,
-15,
-4,
-15846.56
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-407,
-46,
-4,
-11240.17
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-430,
-29,
-4,
-34113.38
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-475,
-13,
-2,
-3510.64
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-231,
-20,
-4,
-13387.74
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-120,
-100,
-2,
-38064.23
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-260,
-157,
-4,
-48989.24
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-79,
-134,
-4,
-24009.39
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-301,
-135,
-2,
-17474.61
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-390,
-182,
-5,
-7835.02
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-266,
-83,
-1,
-38780.92
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-494,
-106,
-3,
-10188.96
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-378,
-15,
-2,
-29809.35
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-214,
-135,
-4,
-47585.07
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-493,
-11,
-4,
-8108.94
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-199,
-157,
-1,
-41354.97
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-439,
-100,
-1,
-49553.72
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-27,
-141,
-5,
-44162.9
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-457,
-184,
-5,
-48567.25
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-344,
-9,
-1,
-48309.94
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-482,
-171,
-3,
-20910.94
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-24,
-84,
-1,
-11085.82
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-208,
-123,
-3,
-44093.73
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-367,
-99,
-5,
-27047.89
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-353,
-175,
-1,
-14492.23
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-336,
-3,
-3,
-15372.6
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-16,
-182,
-5,
-13892.37
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-211,
-8,
-2,
-38500.19
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-169,
-154,
-1,
-44055.16
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-461,
-71,
-3,
-531.31
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-313,
-179,
-4,
-19322.12
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-347,
-55,
-2,
-45701.23
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-401,
-70,
-1,
-9854.13
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-312,
-174,
-5,
-2699.5
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-185,
-69,
-5,
-12898.68
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-145,
-88,
-4,
-33915.59
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-296,
-111,
-2,
-1285.89
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-76,
-141,
-4,
-1639.43
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-46,
-131,
-5,
-6006.58
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-231,
-49,
-2,
-30438.47
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-388,
-66,
-1,
-21121.67
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-90,
-125,
-3,
-4353.77
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-35,
-126,
-4,
-37488.15
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-282,
-75,
-5,
-21209.92
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-458,
-168,
-3,
-9638.49
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-302,
-44,
-1,
-5032.42
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-385,
-59,
-2,
-40496.42
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-154,
-81,
-1,
-9547.53
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-181,
-92,
-1,
-9308.71
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-6,
-151,
-4,
-17069.79
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-315,
-8,
-3,
-30067.08
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-420,
-177,
-2,
-6979.85
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-9,
-121,
-2,
-11850.1
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-242,
-158,
-5,
-8000.7
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-340,
-191,
-3,
-3131.18
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-373,
-169,
-2,
-3892.35
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-351,
-63,
-1,
-28615.88
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-427,
-165,
-2,
-41424.64
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-294,
-170,
-3,
-21278.52
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-420,
-93,
-2,
-16075.27
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-207,
-26,
-1,
-1659.06
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-381,
-135,
-3,
-26168.71
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-253,
-108,
-4,
-42302.38
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-25,
-123,
-1,
-197.56
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-273,
-23,
-5,
-13488.32
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-30,
-194,
-1,
-12217.39
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-314,
-160,
-5,
-15046.01
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-275,
-117,
-1,
-21707.19
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-67,
-136,
-4,
-39925.34
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-466,
-158,
-4,
-16296.71
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-275,
-44,
-2,
-4812.73
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-321,
-135,
-4,
-27965.64
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-419,
-105,
-4,
-27205.66
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-67,
-143,
-2,
-25910.95
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-47,
-146,
-4,
-43862.23
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-139,
-118,
-4,
-18709.91
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-188,
-152,
-3,
-38462.17
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-67,
-34,
-5,
-34314.24
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-426,
-25,
-3,
-33843.14
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-227,
-183,
-3,
-16213.65
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-377,
-27,
-3,
-43039.43
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-47,
-78,
-2,
-18992.79
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-190,
-92,
-5,
-611.31
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-66,
-174,
-4,
-48296.21
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-301,
-96,
-1,
-26628.76
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-239,
-71,
-3,
-28980.69
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-53,
-29,
-1,
-31277.38
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-153,
-65,
-5,
-43527.8
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-26,
-53,
-4,
-13975.15
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-418,
-87,
-2,
-33119.56
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-492,
-137,
-2,
-21067.74
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-320,
-193,
-4,
-3833.87
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-206,
-134,
-2,
-40123.11
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-225,
-116,
-1,
-31267.07
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-55,
-144,
-3,
-40430.6
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-313,
-197,
-2,
-48870.7
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-124,
-116,
-1,
-39963.07
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-372,
-196,
-5,
-10507.49
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-103,
-69,
-2,
-15957.65
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-310,
-132,
-4,
-44784.15
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-357,
-47,
-3,
-34974.08
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-167,
-35,
-4,
-26080.94
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-96,
-181,
-2,
-39685.15
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-244,
-21,
-2,
-6098.72
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-394,
-78,
-1,
-30272.38
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-218,
-198,
-3,
-45908.0
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-396,
-95,
-1,
-20359.6
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-437,
-24,
-5,
-2950.03
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-246,
-199,
-3,
-7491.96
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-307,
-167,
-5,
-29978.59
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-486,
-107,
-1,
-11319.95
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-454,
-124,
-1,
-23460.06
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-366,
-105,
-3,
-11632.53
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-107,
-38,
-3,
-10875.2
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-184,
-115,
-3,
-25046.3
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-265,
-113,
-1,
-12380.49
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-194,
-3,
-5,
-47342.74
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-304,
-61,
-3,
-27004.16
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-214,
-198,
-4,
-31302.87
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-163,
-33,
-4,
-6744.25
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-227,
-61,
-4,
-14168.44
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-484,
-141,
-1,
-4803.31
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-324,
-34,
-3,
-34073.12
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-282,
-78,
-3,
-30050.86
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-386,
-22,
-3,
-35983.94
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-123,
-133,
-2,
-3449.79
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-488,
-195,
-2,
-335.91
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-1,
-198,
-5,
-22769.96
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-177,
-55,
-4,
-38189.38
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-262,
-196,
-4,
-19142.4
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-104,
-41,
-1,
-25508.51
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-140,
-125,
-4,
-23453.58
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-188,
-49,
-4,
-47959.91
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-293,
-124,
-5,
-9615.26
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-257,
-68,
-1,
-4865.08
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-164,
-182,
-4,
-47017.28
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-414,
-145,
-3,
-19680.65
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-45,
-98,
-2,
-39829.58
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-146,
-48,
-1,
-48589.13
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-9,
-1,
-1,
-12173.71
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-498,
-158,
-2,
-19654.96
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-117,
-198,
-5,
-3801.97
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-164,
-97,
-3,
-28973.17
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-152,
-51,
-2,
-1377.88
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-314,
-15,
-2,
-910.85
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-265,
-193,
-2,
-47405.62
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-469,
-40,
-3,
-30522.05
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-443,
-14,
-3,
-9826.7
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-405,
-151,
-3,
-14383.29
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-368,
-11,
-4,
-27109.25
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-120,
-13,
-3,
-108.0
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-382,
-135,
-3,
-5569.01
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-334,
-60,
-1,
-114.6
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-492,
-111,
-3,
-20793.17
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-213,
-170,
-3,
-22395.97
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-322,
-130,
-1,
-21154.13
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-414,
-112,
-4,
-19549.08
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-389,
-200,
-4,
-15001.6
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-403,
-43,
-1,
-46211.12
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-282,
-61,
-2,
-34622.88
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-429,
-113,
-2,
-10661.48
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-199,
-18,
-1,
-10422.19
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-53,
-22,
-4,
-20216.03
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-247,
-111,
-3,
-40187.51
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-356,
-94,
-2,
-29593.57
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-224,
-173,
-2,
-46214.94
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-482,
-198,
-5,
-15977.05
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-7,
-27,
-2,
-45157.44
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-338,
-29,
-4,
-46167.0
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-131,
-197,
-3,
-20834.16
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-344,
-136,
-3,
-18400.1
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-146,
-139,
-2,
-8507.61
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-214,
-154,
-5,
-15534.06
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-194,
-34,
-5,
-1275.99
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-500,
-20,
-5,
-29598.6
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-473,
-143,
-1,
-11686.11
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-42,
-118,
-4,
-40619.99
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-230,
-16,
-5,
-16089.2
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-465,
-126,
-3,
-32336.81
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-122,
-86,
-1,
-27569.43
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-102,
-177,
-2,
-38736.23
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-415,
-164,
-4,
-37996.62
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-107,
-51,
-1,
-32753.83
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-397,
-71,
-5,
-29149.25
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-273,
-140,
-5,
-49131.71
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-420,
-193,
-5,
-10870.0
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-112,
-44,
-3,
-27529.61
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-105,
-151,
-1,
-18184.91
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-364,
-127,
-5,
-387.7
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-147,
-122,
-4,
-30021.81
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-259,
-87,
-2,
-45434.74
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-477,
-186,
-3,
-42648.16
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-83,
-89,
-4,
-34606.51
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-312,
-142,
-2,
-40485.01
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-76,
-87,
-2,
-33642.02
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-29,
-121,
-2,
-6707.64
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-373,
-136,
-5,
-12352.69
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-204,
-161,
-2,
-20131.73
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-462,
-3,
-5,
-14194.1
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-226,
-46,
-4,
-20455.47
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-357,
-174,
-3,
-43994.23
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-220,
-154,
-2,
-29119.0
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-192,
-41,
-1,
-38341.69
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-257,
-163,
-5,
-14849.56
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-52,
-114,
-5,
-46391.37
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-76,
-30,
-2,
-20200.21
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-58,
-173,
-4,
-45262.89
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-456,
-193,
-1,
-44901.4
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-33,
-11,
-2,
-20517.57
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-119,
-38,
-4,
-27217.51
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-336,
-168,
-2,
-40579.32
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-16,
-1,
-2,
-15446.41
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-200,
-43,
-3,
-29581.41
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-432,
-116,
-5,
-1356.25
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-495,
-152,
-1,
-8166.33
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-433,
-40,
-5,
-18847.29
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-265,
-39,
-4,
-17588.4
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-316,
-43,
-3,
-20369.77
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-358,
-144,
-1,
-31586.81
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-205,
-20,
-3,
-8005.02
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-368,
-147,
-1,
-16752.91
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-373,
-159,
-3,
-40815.56
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-102,
-67,
-1,
-8624.35
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-343,
-101,
-4,
-1763.38
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-304,
-86,
-1,
-5271.87
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-381,
-168,
-4,
-49561.42
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-478,
-67,
-4,
-45507.82
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-145,
-120,
-2,
-10972.96
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
+10,
 150,
-194,
-3,
-19658.0
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-33,
-87,
-4,
-46321.13
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-405,
-35,
-5,
-33005.84
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-349,
-63,
-4,
-13009.68
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-174,
-125,
-5,
-43696.6
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-75,
-58,
 1,
-30052.13
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-209,
-181,
-2,
-16351.65
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-298,
-101,
-4,
-46778.17
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-53,
-167,
-4,
-28010.56
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-65,
-137,
-1,
-9685.02
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-61,
-114,
-2,
-4904.97
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-491,
-61,
-2,
-8647.24
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-30,
-171,
-5,
-8821.91
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-407,
-137,
-4,
-46593.67
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-37,
-24,
-1,
-1702.89
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-7,
-167,
-4,
-16983.6
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-1,
-140,
-2,
-44616.5
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-140,
-13,
-5,
-35038.27
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-239,
-159,
-2,
-39500.81
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-55,
-1,
-5,
-27016.76
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-474,
-118,
-1,
-15240.08
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-35,
-47,
-2,
-13578.09
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-157,
-57,
-5,
-18667.02
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-389,
-189,
-5,
-19829.42
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-4,
-150,
-2,
-29915.22
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-475,
-197,
-1,
-39704.55
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-57,
-57,
-5,
-36979.0
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-99,
-144,
-2,
-18367.57
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-172,
-114,
-3,
-44695.85
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-203,
-123,
-4,
-43172.1
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-312,
-26,
-5,
-44587.36
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-82,
-117,
-4,
-36155.84
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-169,
-136,
-3,
-18268.19
+27311.95
 );
 
 INSERT INTO order_items
@@ -14384,399 +13764,289 @@ INSERT INTO order_items
 VALUES
 (
 404,
-23,
-3,
-45849.95
+163,
+2,
+39575.81
 );
 
 INSERT INTO order_items
 (order_id, product_id, quantity, price)
 VALUES
 (
-223,
-199,
-3,
-43879.22
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-264,
-121,
+97,
+110,
 5,
-44490.65
+40822.97
 );
 
 INSERT INTO order_items
 (order_id, product_id, quantity, price)
 VALUES
 (
-151,
-81,
-2,
-35449.7
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-461,
-70,
-2,
-15543.42
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-13,
-148,
+208,
+90,
 1,
-25075.02
+33418.12
 );
 
 INSERT INTO order_items
 (order_id, product_id, quantity, price)
 VALUES
 (
-231,
-77,
-5,
-22947.52
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-183,
-145,
-3,
-41490.4
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-342,
-111,
-3,
-6610.57
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-238,
-84,
-2,
-38176.62
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-379,
-4,
-2,
-41461.22
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-3,
-197,
-3,
-27087.47
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-326,
-46,
+268,
+45,
 1,
-10730.09
+28560.95
 );
 
 INSERT INTO order_items
 (order_id, product_id, quantity, price)
 VALUES
 (
-150,
-191,
-3,
-44324.81
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-34,
-36,
-2,
-5636.54
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-211,
-106,
-1,
-16588.45
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-275,
-30,
-4,
-41091.95
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-114,
-164,
-1,
-3838.74
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-174,
-28,
-4,
-5699.24
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-246,
-182,
-1,
-27874.95
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-247,
-140,
-2,
-38945.24
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-428,
-56,
-1,
-11142.26
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-229,
-119,
-1,
-31476.36
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-159,
-106,
-1,
-2572.79
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-439,
-200,
-2,
-7849.57
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-324,
-11,
-3,
-38932.43
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-434,
+380,
 49,
-4,
-44254.32
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-264,
-42,
 2,
-40725.86
+13933.8
 );
 
 INSERT INTO order_items
 (order_id, product_id, quantity, price)
 VALUES
 (
-128,
-17,
-3,
-21049.65
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-356,
-124,
-4,
-7061.25
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-72,
-50,
-5,
-18095.54
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-464,
-22,
-2,
-14990.68
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-486,
-170,
-5,
-23965.91
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-309,
-11,
-3,
-39063.82
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-152,
-34,
-3,
-42377.76
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-122,
-69,
-2,
-24509.23
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-6,
-80,
+290,
+97,
 1,
-48968.51
+17044.94
 );
 
 INSERT INTO order_items
 (order_id, product_id, quantity, price)
 VALUES
 (
-467,
-81,
+214,
+109,
+5,
+31755.35
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+333,
+66,
 3,
-25624.65
+39165.38
 );
 
 INSERT INTO order_items
 (order_id, product_id, quantity, price)
 VALUES
 (
-480,
-28,
-4,
-4552.91
+377,
+140,
+3,
+3484.48
 );
 
 INSERT INTO order_items
 (order_id, product_id, quantity, price)
 VALUES
 (
-390,
-51,
+365,
+87,
+3,
+14581.74
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+262,
+111,
 4,
-35038.6
+47778.08
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+431,
+77,
+3,
+35646.87
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+437,
+64,
+2,
+18657.64
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+80,
+75,
+1,
+1013.09
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+450,
+24,
+2,
+30255.67
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+459,
+148,
+4,
+19972.42
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+245,
+168,
+5,
+31280.87
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+443,
+118,
+5,
+20530.91
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+451,
+49,
+1,
+34873.35
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+222,
+102,
+3,
+16365.04
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+335,
+143,
+3,
+36868.49
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+48,
+181,
+1,
+34355.46
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+175,
+60,
+1,
+17388.78
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+203,
+22,
+1,
+19232.54
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+16,
+75,
+2,
+42116.89
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+261,
+147,
+4,
+758.11
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+42,
+110,
+3,
+11378.76
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+419,
+161,
+4,
+46293.67
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+127,
+108,
+4,
+10114.12
 );
 
 INSERT INTO order_items
@@ -14784,49 +14054,399 @@ INSERT INTO order_items
 VALUES
 (
 381,
-150,
-4,
-36086.55
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-327,
-127,
+126,
 2,
-31789.32
+1228.72
 );
 
 INSERT INTO order_items
 (order_id, product_id, quantity, price)
 VALUES
 (
-108,
-147,
-1,
-24757.68
+425,
+113,
+3,
+33596.91
 );
 
 INSERT INTO order_items
 (order_id, product_id, quantity, price)
 VALUES
 (
-351,
-64,
+172,
+81,
 4,
-48581.26
+28981.32
 );
 
 INSERT INTO order_items
 (order_id, product_id, quantity, price)
 VALUES
 (
-147,
+74,
+163,
+4,
+17744.38
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+299,
+32,
+3,
+10153.29
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+278,
+31,
+1,
+767.19
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+254,
+141,
+3,
+3249.75
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+323,
+197,
+2,
+44543.24
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+255,
+148,
+4,
+42691.74
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+287,
+183,
+3,
+10331.9
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+249,
+170,
+5,
+17102.59
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+18,
+51,
+4,
+25204.98
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+291,
+56,
+2,
+32506.69
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+210,
+183,
+4,
+20026.42
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+405,
+145,
+3,
+34110.88
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+461,
+142,
+4,
+22446.4
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+442,
+80,
+5,
+2479.89
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+417,
+85,
+1,
+21083.72
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+27,
+99,
+3,
+33272.86
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+485,
+167,
+3,
+35241.16
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+344,
+30,
+3,
+17429.36
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+339,
+166,
+1,
+44120.69
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+182,
+90,
+2,
+42430.13
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+244,
+60,
+1,
+6246.2
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+341,
+2,
+5,
+15244.88
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+465,
+196,
+5,
+2937.68
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+400,
+10,
+5,
+38492.27
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+226,
+92,
+5,
+45434.92
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+392,
 116,
 5,
-38393.46
+12960.12
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+68,
+81,
+4,
+39997.32
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+49,
+33,
+5,
+22319.84
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+146,
+192,
+4,
+10971.67
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+26,
+132,
+1,
+34657.03
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+323,
+123,
+2,
+24901.78
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+451,
+101,
+5,
+3639.92
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+387,
+148,
+3,
+38912.65
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+2,
+110,
+1,
+7853.61
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+128,
+140,
+1,
+40723.22
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+142,
+177,
+1,
+46735.66
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+313,
+142,
+2,
+47483.37
 );
 
 INSERT INTO order_items
@@ -14834,69 +14454,389 @@ INSERT INTO order_items
 VALUES
 (
 279,
-64,
-4,
-32765.12
+69,
+1,
+47219.32
 );
 
 INSERT INTO order_items
 (order_id, product_id, quantity, price)
 VALUES
 (
-122,
-190,
+377,
+168,
+5,
+16831.04
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+433,
+100,
+1,
+14713.12
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+478,
+26,
 2,
-10201.56
+47218.43
 );
 
 INSERT INTO order_items
 (order_id, product_id, quantity, price)
 VALUES
 (
+470,
+26,
+5,
+30099.27
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+136,
+174,
+5,
+22548.41
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+167,
+56,
+1,
+2994.52
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+463,
+14,
+1,
+18569.47
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+106,
+34,
+2,
+14792.66
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+105,
+145,
+1,
+34031.48
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+265,
+58,
+2,
+5452.88
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+263,
 79,
-33,
-5,
-16786.73
+1,
+16404.46
 );
 
 INSERT INTO order_items
 (order_id, product_id, quantity, price)
 VALUES
 (
-82,
-19,
+498,
+190,
 5,
-22847.34
+31594.09
 );
 
 INSERT INTO order_items
 (order_id, product_id, quantity, price)
 VALUES
 (
-248,
-131,
+337,
+42,
+5,
+3453.89
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+437,
+77,
+1,
+12063.51
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+97,
+127,
+1,
+5991.09
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+28,
+96,
+5,
+2543.44
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+318,
+21,
+2,
+1900.9
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+116,
+119,
 3,
-2769.51
+21536.92
 );
 
 INSERT INTO order_items
 (order_id, product_id, quantity, price)
 VALUES
 (
-482,
-86,
-3,
-18837.56
+168,
+106,
+2,
+14328.52
 );
 
 INSERT INTO order_items
 (order_id, product_id, quantity, price)
 VALUES
 (
-311,
-74,
+398,
+171,
+2,
+17327.78
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+432,
+153,
 5,
-13699.73
+4348.24
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+307,
+149,
+5,
+32128.86
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+172,
+129,
+4,
+15807.36
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+275,
+160,
+1,
+21961.28
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+380,
+96,
+4,
+29132.55
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+300,
+11,
+3,
+11883.34
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+466,
+18,
+5,
+17954.89
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+270,
+1,
+1,
+43912.18
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+352,
+149,
+5,
+14600.92
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+107,
+68,
+2,
+21363.59
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+156,
+28,
+5,
+26974.99
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+313,
+79,
+1,
+25820.46
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+331,
+84,
+2,
+22166.11
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+281,
+129,
+4,
+40892.77
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+103,
+135,
+3,
+33831.86
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+200,
+27,
+1,
+47117.6
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+318,
+182,
+2,
+1700.09
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+435,
+116,
+3,
+15429.29
 );
 
 INSERT INTO order_items
@@ -14904,97 +14844,157 @@ INSERT INTO order_items
 VALUES
 (
 379,
-138,
-4,
-18933.1
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-137,
-113,
-3,
-39218.99
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-409,
-78,
+162,
 2,
-42374.11
+44002.52
 );
 
 INSERT INTO order_items
 (order_id, product_id, quantity, price)
 VALUES
 (
-139,
-156,
+415,
+56,
+1,
+24636.56
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+77,
+173,
+1,
+39584.62
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+169,
+166,
+4,
+12216.96
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+84,
+45,
+1,
+35075.13
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+344,
+75,
 5,
-18587.2
+40770.72
 );
 
 INSERT INTO order_items
 (order_id, product_id, quantity, price)
 VALUES
 (
-329,
-190,
+488,
+120,
+4,
+33284.49
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+348,
+132,
+1,
+3750.52
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+134,
+179,
+1,
+37793.91
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+226,
+27,
+5,
+7081.44
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+15,
+95,
 2,
-4489.92
+872.53
 );
 
 INSERT INTO order_items
 (order_id, product_id, quantity, price)
 VALUES
 (
-184,
-83,
-1,
-6952.37
+218,
+182,
+2,
+48944.14
 );
 
 INSERT INTO order_items
 (order_id, product_id, quantity, price)
 VALUES
 (
-82,
-113,
-4,
-29518.43
+471,
+30,
+2,
+42762.83
 );
 
 INSERT INTO order_items
 (order_id, product_id, quantity, price)
 VALUES
 (
-4,
-64,
-1,
-45259.96
-);
-
-INSERT INTO order_items
-(order_id, product_id, quantity, price)
-VALUES
-(
-286,
-126,
+370,
+145,
 5,
-25846.5
+24386.7
 );
 
 INSERT INTO order_items
 (order_id, product_id, quantity, price)
 VALUES
 (
-188,
-142,
+419,
+68,
 3,
-1767.0
+10606.17
+);
+
+INSERT INTO order_items
+(order_id, product_id, quantity, price)
+VALUES
+(
+203,
+189,
+2,
+30735.7
 );

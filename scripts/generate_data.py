@@ -192,3 +192,85 @@ VALUES
 """
 
         file.write(sql)
+
+# ------------------
+# Payments
+# ------------------
+
+with open("database/payments.sql", "w", encoding="utf-8") as file:
+
+    payment_methods = [
+        "Credit Card",
+        "Debit Card",
+        "UPI",
+        "Net Banking",
+        "Wallet"
+    ]
+
+    payment_statuses = [
+        "Paid",
+        "Failed",
+        "Pending"
+    ]
+
+    for order_id in range(1, 501):
+
+        amount = round(
+            random.uniform(500, 100000),
+            2
+        )
+
+        payment_method = random.choice(payment_methods)
+
+        payment_status = random.choice(payment_statuses)
+
+        payment_date = fake.date_time_between(
+            start_date="-2y",
+            end_date="now"
+        )
+
+        sql = f"""
+INSERT INTO payments
+(order_id, amount, payment_method, payment_status, payment_date)
+VALUES
+(
+{order_id},
+{amount},
+'{payment_method}',
+'{payment_status}',
+'{payment_date}'
+);
+"""
+
+        file.write(sql)
+
+# ------------------
+# Shipping
+# ------------------
+
+with open("database/shipping.sql", "w", encoding="utf-8") as file:
+
+    shipping_statuses = [
+        "Processing",
+        "Shipped",
+        "Delivered"
+    ]
+
+    for order_id in range(1, 501):
+
+        address = fake.address().replace("\n", ", ").replace("'", "''")
+
+        status = random.choice(shipping_statuses)
+
+        sql = f"""
+INSERT INTO shipping
+(order_id, shipping_address, delivery_status)
+VALUES
+(
+{order_id},
+'{address}',
+'{status}'
+);
+"""
+
+        file.write(sql)

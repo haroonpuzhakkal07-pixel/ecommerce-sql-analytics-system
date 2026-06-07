@@ -2,499 +2,499 @@
 INSERT INTO customers
 (first_name,last_name,email,phone,city)
 VALUES
-('Dylan','Williams','natalieadams@gmail.com','869.379.8440x62200','Kevinton');
+('Gwendolyn','Gonzalez','hbarnett@gmail.com','(958)469-0086x15979','Parkerchester');
 
 INSERT INTO customers
 (first_name,last_name,email,phone,city)
 VALUES
-('Shane','Ayala','warrenthomas@gmail.com','(792)285-6588','Ericafurt');
+('Carla','Small','gregory13@gmail.com','423.495.8828','Rochastad');
 
 INSERT INTO customers
 (first_name,last_name,email,phone,city)
 VALUES
-('Sandra','Neal','jennifermorgan@gmail.com','505-715-2979','Jacksonville');
+('Thomas','Richardson','bairdethan@gmail.com','(859)949-7722x74384','Taylorland');
 
 INSERT INTO customers
 (first_name,last_name,email,phone,city)
 VALUES
-('Helen','Gray','swilliams@gmail.com','733.377.4102x27336','North Joe');
+('Chloe','Ibarra','vchang@gmail.com','+1-761-928-7435x09895','New Samanthaville');
 
 INSERT INTO customers
 (first_name,last_name,email,phone,city)
 VALUES
-('Michael','Harris','haley39@gmail.com','397-376-6311x0470','New Robert');
+('Janice','Thomas','johnruiz@gmail.com','400.707.1787x716','Rebeccachester');
 
 INSERT INTO customers
 (first_name,last_name,email,phone,city)
 VALUES
-('Jeffrey','Armstrong','rodriguezleslie@gmail.com','967-761-9541x45252','Charlesborough');
+('Joshua','Tyler','ann75@gmail.com','(213)302-0529x073','Mendezmouth');
 
 INSERT INTO customers
 (first_name,last_name,email,phone,city)
 VALUES
-('Catherine','Sanchez','asilva@gmail.com','579.368.7274x5315','Benjaminborough');
+('Kimberly','Welch','gcastillo@gmail.com','773.575.5483','Andrehaven');
 
 INSERT INTO customers
 (first_name,last_name,email,phone,city)
 VALUES
-('Kevin','Henderson','hgill@gmail.com','+1-994-236-9909','Montoyachester');
+('Jacob','Walls','bcarrillo@gmail.com','+1-431-222-3171','South Wendy');
 
 INSERT INTO customers
 (first_name,last_name,email,phone,city)
 VALUES
-('Jason','Estes','gcohen@gmail.com','848-850-2912','Nicholasbury');
+('Kimberly','Cochran','kristi76@gmail.com','977.388.4107x898','North Sharonmouth');
 
 INSERT INTO customers
 (first_name,last_name,email,phone,city)
 VALUES
-('Stacy','Bailey','eric27@gmail.com','279.485.3304x520','Brandonport');
+('Brett','Montgomery','zcarr@gmail.com','(769)492-3132x3794','Castroborough');
 
 INSERT INTO customers
 (first_name,last_name,email,phone,city)
 VALUES
-('Clinton','Rivera','oalvarado@gmail.com','+1-290-464-9293x611','Walterport');
+('Jason','Cummings','hparrish@gmail.com','497-466-2583','Martinmouth');
 
 INSERT INTO customers
 (first_name,last_name,email,phone,city)
 VALUES
-('William','Cole','nholland@gmail.com','+1-269-835-4567x6610','North Anna');
+('Jose','Neal','sgonzalez@gmail.com','+1-818-490-5136x2327','Smithburgh');
 
 INSERT INTO customers
 (first_name,last_name,email,phone,city)
 VALUES
-('Michael','Ward','tyronevasquez@gmail.com','438.712.8458','Jasonburgh');
+('Juan','Gross','duranashley@gmail.com','+1-651-921-7856x066','West Michelleville');
 
 INSERT INTO customers
 (first_name,last_name,email,phone,city)
 VALUES
-('Alicia','Rodriguez','schmidtashley@gmail.com','(309)743-7857x1286','Jenniferberg');
+('Ashley','Armstrong','ydavis@gmail.com','966.727.7944x55594','Lake Angelatown');
 
 INSERT INTO customers
 (first_name,last_name,email,phone,city)
 VALUES
-('Joseph','Morse','mmcclain@gmail.com','(626)813-2185x75750','Lake Brad');
+('Walter','Alvarado','amanda80@gmail.com','907.554.6902x38380','Ramirezfurt');
 
 INSERT INTO customers
 (first_name,last_name,email,phone,city)
 VALUES
-('Yvonne','Wilson','klambert@gmail.com','967.699.7626','Port Brian');
+('Nicole','Moore','greenepaul@gmail.com','9662309311','Gonzalezburgh');
 
 INSERT INTO customers
 (first_name,last_name,email,phone,city)
 VALUES
-('Jennifer','Griffin','kgomez@gmail.com','330.716.3960x38770','Russellbury');
+('Jessica','Grant','hrosales@gmail.com','+1-786-919-7288','Port Tinaville');
 
 INSERT INTO customers
 (first_name,last_name,email,phone,city)
 VALUES
-('Sarah','Meyer','perezjeremy@gmail.com','610-421-9738x88713','Archerfort');
+('Tina','Edwards','danielrogers@gmail.com','490-819-3113x4009','New Noahburgh');
 
 INSERT INTO customers
 (first_name,last_name,email,phone,city)
 VALUES
-('Richard','Davidson','jenniferhendricks@gmail.com','8509286994','West Javierland');
+('Shari','Ayers','nwilson@gmail.com','870-964-3490x335','Jonathanbury');
 
 INSERT INTO customers
 (first_name,last_name,email,phone,city)
 VALUES
-('Sean','Park','mhowell@gmail.com','(581)630-0985','Lake Sarachester');
+('Nicole','Hall','ebutler@gmail.com','(573)617-9535','Yangside');
 
 INSERT INTO customers
 (first_name,last_name,email,phone,city)
 VALUES
-('Christopher','Davenport','christina65@gmail.com','001-517-369-2770x223','Ruiztown');
+('Jeremy','Singh','martinkevin@gmail.com','(377)803-0983x4897','South Nicolestad');
 
 INSERT INTO customers
 (first_name,last_name,email,phone,city)
 VALUES
-('James','Hall','anthonygreen@gmail.com','717-997-0409x43675','Port John');
+('James','Lang','jennifer61@gmail.com','405-223-2758x294','Barronland');
 
 INSERT INTO customers
 (first_name,last_name,email,phone,city)
 VALUES
-('Mario','Banks','charles34@gmail.com','770-212-1647x8149','Michaelchester');
+('Tamara','Williams','kyle03@gmail.com','+1-651-624-6875','Alexstad');
 
 INSERT INTO customers
 (first_name,last_name,email,phone,city)
 VALUES
-('Faith','Mercer','jill47@gmail.com','660.531.5335x59917','Reevesmouth');
+('Kelly','Garcia','fstanley@gmail.com','001-388-865-8561','North Garyview');
 
 INSERT INTO customers
 (first_name,last_name,email,phone,city)
 VALUES
-('Brittany','Hernandez','alyssahuffman@gmail.com','001-758-643-6891','Davidburgh');
+('Heather','Alexander','jamie54@gmail.com','294.890.6815x04473','West Michellefort');
 
 INSERT INTO customers
 (first_name,last_name,email,phone,city)
 VALUES
-('William','Wright','ryan15@gmail.com','719-269-4482','Karlview');
+('Cody','Christensen','schwartzmonica@gmail.com','872-484-5242','Gabriellefurt');
 
 INSERT INTO customers
 (first_name,last_name,email,phone,city)
 VALUES
-('Clayton','Smith','moransara@gmail.com','7552676332','Robertland');
+('Jeremy','Meza','zhudson@gmail.com','2036323123','Padillabury');
 
 INSERT INTO customers
 (first_name,last_name,email,phone,city)
 VALUES
-('Patricia','Davis','ryanrobbins@gmail.com','908-376-0818','Smithmouth');
+('Amanda','Thornton','joshua99@gmail.com','402-597-5619','South Judyland');
 
 INSERT INTO customers
 (first_name,last_name,email,phone,city)
 VALUES
-('Deborah','Warren','twhite@gmail.com','782-288-1074x1832','Glenville');
+('Emily','Figueroa','ksmith@gmail.com','361-973-4383x9188','Adammouth');
 
 INSERT INTO customers
 (first_name,last_name,email,phone,city)
 VALUES
-('Victoria','Mason','jamestorres@gmail.com','001-272-829-1307x58525','Joshuastad');
+('Alec','Rivera','powerstroy@gmail.com','851.488.8707x197','Jenniferport');
 
 INSERT INTO customers
 (first_name,last_name,email,phone,city)
 VALUES
-('Kim','Shah','qsimmons@gmail.com','945-668-2670x609','Lynnshire');
+('Mark','Patrick','laurahenderson@gmail.com','(546)755-5607x1838','Arthurville');
 
 INSERT INTO customers
 (first_name,last_name,email,phone,city)
 VALUES
-('Kyle','Baker','zolson@gmail.com','(995)934-3858x30019','South Timothy');
+('Rebecca','Hernandez','mollyfaulkner@gmail.com','+1-852-475-3067','North Nancyshire');
 
 INSERT INTO customers
 (first_name,last_name,email,phone,city)
 VALUES
-('Gail','Austin','melissa61@gmail.com','277-686-7026x11714','Richardsville');
+('Matthew','Forbes','holly92@gmail.com','001-394-214-9506x87335','Victorburgh');
 
 INSERT INTO customers
 (first_name,last_name,email,phone,city)
 VALUES
-('Christina','Kennedy','andrewramirez@gmail.com','(814)706-1560x7899','Brandymouth');
+('Morgan','Sharp','jerry62@gmail.com','630.541.6050','Jordanview');
 
 INSERT INTO customers
 (first_name,last_name,email,phone,city)
 VALUES
-('Barbara','King','amanda52@gmail.com','505.768.7762','Hallville');
+('Patricia','Carter','russellcampbell@gmail.com','964-799-9274','Marshallburgh');
 
 INSERT INTO customers
 (first_name,last_name,email,phone,city)
 VALUES
-('Mark','Ramirez','cooperdaniel@gmail.com','001-942-396-3461x4542','East Haydenport');
+('Sara','Byrd','mwilson@gmail.com','831-455-0076','Stephensburgh');
 
 INSERT INTO customers
 (first_name,last_name,email,phone,city)
 VALUES
-('Vincent','Wilson','nathaniel99@gmail.com','001-384-794-3193x796','Webbfurt');
+('Meghan','Wilson','brendamora@gmail.com','765.643.0082x4265','Danielleburgh');
 
 INSERT INTO customers
 (first_name,last_name,email,phone,city)
 VALUES
-('Luke','Barnes','rlang@gmail.com','(486)237-3773','Cristianmouth');
+('Kelly','Navarro','mschmitt@gmail.com','819-708-5861x49170','Scottborough');
 
 INSERT INTO customers
 (first_name,last_name,email,phone,city)
 VALUES
-('Wayne','Boyer','hudsonnoah@gmail.com','+1-426-431-8389x645','Lake Melissa');
+('Eric','Ross','johnnylambert@gmail.com','+1-255-658-0686x1077','East Brianton');
 
 INSERT INTO customers
 (first_name,last_name,email,phone,city)
 VALUES
-('Stacey','Johnson','cummingsangela@gmail.com','930.626.9307','Tonyland');
+('Andrew','Barnett','michelle27@gmail.com','+1-863-996-2250x1699','New Lanceville');
 
 INSERT INTO customers
 (first_name,last_name,email,phone,city)
 VALUES
-('Katherine','Patterson','hughesstephanie@gmail.com','939.599.7611','East Isaac');
+('Mark','Brown','crodriguez@gmail.com','001-844-981-1840','Patriciachester');
 
 INSERT INTO customers
 (first_name,last_name,email,phone,city)
 VALUES
-('Sheila','Barnes','lweaver@gmail.com','841.431.1996x420','Wallaceport');
+('Douglas','Brown','spencerdenise@gmail.com','7297204573','Janiceburgh');
 
 INSERT INTO customers
 (first_name,last_name,email,phone,city)
 VALUES
-('Cynthia','Hayes','johncannon@gmail.com','(805)935-8469','Ericamouth');
+('Phyllis','Johnson','samantha53@gmail.com','875-819-7376','Tammybury');
 
 INSERT INTO customers
 (first_name,last_name,email,phone,city)
 VALUES
-('Sarah','Cole','kristie48@gmail.com','621.602.8723x52511','Changchester');
+('Brian','Johnson','jennifer73@gmail.com','001-839-520-2495x5312','Whiteport');
 
 INSERT INTO customers
 (first_name,last_name,email,phone,city)
 VALUES
-('Kevin','Stewart','mossscott@gmail.com','660.958.4823x7388','Nancyton');
+('Courtney','Brown','smithkatherine@gmail.com','(374)436-6628x87013','Madisonside');
 
 INSERT INTO customers
 (first_name,last_name,email,phone,city)
 VALUES
-('Billy','Daugherty','hillanna@gmail.com','001-935-682-2058x3880','Stacyshire');
+('Danielle','Rodriguez','pagevictor@gmail.com','491.200.8747','South Sharon');
 
 INSERT INTO customers
 (first_name,last_name,email,phone,city)
 VALUES
-('Hannah','Hall','adamrodriguez@gmail.com','801-327-8101x710','Angelaview');
+('Jennifer','Skinner','richardsoncarla@gmail.com','001-762-474-4108x522','Samanthaside');
 
 INSERT INTO customers
 (first_name,last_name,email,phone,city)
 VALUES
-('Tina','Hernandez','dnewman@gmail.com','(476)345-3693x69226','North Christian');
+('Jill','Parks','rmoody@gmail.com','297.389.2947','Moorebury');
 
 INSERT INTO customers
 (first_name,last_name,email,phone,city)
 VALUES
-('Justin','Smith','parksstephen@gmail.com','9832577816','Port John');
+('Anthony','Stein','beth11@gmail.com','454.858.0388','East Craigtown');
 
 INSERT INTO customers
 (first_name,last_name,email,phone,city)
 VALUES
-('Sean','Acosta','kaitlyn01@gmail.com','001-506-634-7256x99514','Stephanieshire');
+('Christopher','Knapp','scott27@gmail.com','(984)740-9697x36365','Lake Maryside');
 
 INSERT INTO customers
 (first_name,last_name,email,phone,city)
 VALUES
-('Mary','Neal','xhodges@gmail.com','657-667-9926x665','Thomasborough');
+('Melissa','Stanley','darrelljacobs@gmail.com','(530)672-6679x51486','Lake Scott');
 
 INSERT INTO customers
 (first_name,last_name,email,phone,city)
 VALUES
-('Aaron','Duffy','brownjessica@gmail.com','315.744.8723x070','South Rebeccamouth');
+('Brandon','Reed','cameronpeterson@gmail.com','851-215-0245x932','Richardsonbury');
 
 INSERT INTO customers
 (first_name,last_name,email,phone,city)
 VALUES
-('Alan','Jordan','pjuarez@gmail.com','+1-697-306-5770','Rebeccatown');
+('Travis','Flowers','terrykrista@gmail.com','233.575.0481x425','Port Connie');
 
 INSERT INTO customers
 (first_name,last_name,email,phone,city)
 VALUES
-('George','Rodriguez','michellebaker@gmail.com','001-579-552-7228x7883','East Jesus');
+('Larry','Shannon','dylandavis@gmail.com','663-449-9702x566','New Christinaside');
 
 INSERT INTO customers
 (first_name,last_name,email,phone,city)
 VALUES
-('Danielle','Norris','joseph95@gmail.com','+1-876-625-4920','Whitemouth');
+('Chase','Compton','watsonkristin@gmail.com','784-638-8604x4635','Port Carlosshire');
 
 INSERT INTO customers
 (first_name,last_name,email,phone,city)
 VALUES
-('Cynthia','Shepard','rivaswillie@gmail.com','505-412-6450x67811','New Michael');
+('Nathan','Cox','leemartin@gmail.com','979.239.8572x936','South Manuel');
 
 INSERT INTO customers
 (first_name,last_name,email,phone,city)
 VALUES
-('Greg','Brown','uwilkerson@gmail.com','(587)859-8303','Saundersbury');
+('Jonathan','Richmond','catherine10@gmail.com','+1-284-699-9553x040','Williamsshire');
 
 INSERT INTO customers
 (first_name,last_name,email,phone,city)
 VALUES
-('Audrey','Wallace','osantos@gmail.com','+1-384-708-2124x89225','Timothyfurt');
+('Tiffany','Lewis','jason53@gmail.com','001-625-474-4265','South Davidberg');
 
 INSERT INTO customers
 (first_name,last_name,email,phone,city)
 VALUES
-('Donna','Smith','irivera@gmail.com','(331)323-1353','East Rachel');
+('Tyler','King','williamsonanna@gmail.com','(939)658-1552','North Danielle');
 
 INSERT INTO customers
 (first_name,last_name,email,phone,city)
 VALUES
-('Victoria','Parks','earnold@gmail.com','001-658-579-8767x753','Caitlinland');
+('Patty','Huang','danaflores@gmail.com','393.655.5177x22441','North Lawrenceport');
 
 INSERT INTO customers
 (first_name,last_name,email,phone,city)
 VALUES
-('Gilbert','Waters','hollandjohn@gmail.com','+1-682-878-8950x50190','East Amandashire');
+('Aaron','Perez','jennifer34@gmail.com','001-401-669-2638x63482','Port Ryanville');
 
 INSERT INTO customers
 (first_name,last_name,email,phone,city)
 VALUES
-('Alicia','Short','mtran@gmail.com','317-939-3074x796','Mejiatown');
+('Todd','Martin','kimberlyford@gmail.com','001-894-362-8871x1450','North Aaron');
 
 INSERT INTO customers
 (first_name,last_name,email,phone,city)
 VALUES
-('Jeffrey','Brown','christina23@gmail.com','330-441-8171x53537','Lake Nancyshire');
+('Bianca','Lee','levyemily@gmail.com','(203)935-2925','East Debra');
 
 INSERT INTO customers
 (first_name,last_name,email,phone,city)
 VALUES
-('Andrew','Wilson','yanderson@gmail.com','(707)774-0713x21526','Laurenchester');
+('Sue','Thomas','kreyes@gmail.com','990-701-7922x848','Lake Susanfort');
 
 INSERT INTO customers
 (first_name,last_name,email,phone,city)
 VALUES
-('Matthew','Potter','julie58@gmail.com','421-946-2665','Taylorside');
+('Kari','Leach','robert70@gmail.com','+1-577-458-3037x37507','Lake Jonathanview');
 
 INSERT INTO customers
 (first_name,last_name,email,phone,city)
 VALUES
-('Kenneth','Smith','mitchelledwards@gmail.com','873-493-5985x24673','Gallagherhaven');
+('Nicholas','Sanders','amy21@gmail.com','001-292-862-4384x042','Karenberg');
 
 INSERT INTO customers
 (first_name,last_name,email,phone,city)
 VALUES
-('Aaron','Ferguson','brooksjoshua@gmail.com','+1-562-601-8081x731','Taylorhaven');
+('Amanda','Nunez','henryjacob@gmail.com','3968656364','Lake Dana');
 
 INSERT INTO customers
 (first_name,last_name,email,phone,city)
 VALUES
-('Virginia','Rivera','peterherrera@gmail.com','894.938.3617x21657','Lake Matthewchester');
+('Raymond','Prince','michaelmorris@gmail.com','371.651.8323x322','Santanaport');
 
 INSERT INTO customers
 (first_name,last_name,email,phone,city)
 VALUES
-('Cody','Wise','karacontreras@gmail.com','685-271-1292x18079','Port Monica');
+('William','Nixon','melissagarza@gmail.com','560-248-6254x3217','South Amandafurt');
 
 INSERT INTO customers
 (first_name,last_name,email,phone,city)
 VALUES
-('Paul','Mcintyre','erinpena@gmail.com','(659)617-8772','East Linda');
+('Joan','Thompson','scott64@gmail.com','816.360.7990','Markbury');
 
 INSERT INTO customers
 (first_name,last_name,email,phone,city)
 VALUES
-('Rhonda','Gordon','michelle84@gmail.com','367-320-5705x676','West Nicole');
+('Audrey','Newton','shannon55@gmail.com','(980)520-7982','Jonathanfort');
 
 INSERT INTO customers
 (first_name,last_name,email,phone,city)
 VALUES
-('Nathaniel','Myers','craigstewart@gmail.com','9806417727','South Ericfurt');
+('Christopher','Berry','shawn23@gmail.com','338.494.6091','Tiffanyborough');
 
 INSERT INTO customers
 (first_name,last_name,email,phone,city)
 VALUES
-('Virginia','Lucas','gibsonmatthew@gmail.com','(966)208-6208','New Christopherbury');
+('Sean','Caldwell','cbailey@gmail.com','+1-740-254-7660','Beckerland');
 
 INSERT INTO customers
 (first_name,last_name,email,phone,city)
 VALUES
-('April','Colon','josephrichard@gmail.com','001-937-969-1338x73055','East Russellberg');
+('Hannah','Mccann','mckenzieroy@gmail.com','244-447-0406x392','Boonemouth');
 
 INSERT INTO customers
 (first_name,last_name,email,phone,city)
 VALUES
-('Melissa','Kerr','robertmcdonald@gmail.com','(329)559-8789','Haleyhaven');
+('David','Harper','christinapeterson@gmail.com','001-686-355-1057x9264','New Cynthiachester');
 
 INSERT INTO customers
 (first_name,last_name,email,phone,city)
 VALUES
-('Taylor','Myers','tracyroberts@gmail.com','759-955-0347','East Darrell');
+('Emily','Ortega','helen64@gmail.com','7393077693','Port Curtis');
 
 INSERT INTO customers
 (first_name,last_name,email,phone,city)
 VALUES
-('Jessica','Patterson','soniastewart@gmail.com','001-486-958-1380x204','Andersonborough');
+('Dawn','Mercado','kimberlytownsend@gmail.com','759.433.4657x980','Josephberg');
 
 INSERT INTO customers
 (first_name,last_name,email,phone,city)
 VALUES
-('Mary','Patel','joe77@gmail.com','001-962-569-7179x12399','New Shawnshire');
+('Ashley','Brown','emily14@gmail.com','826-687-6043x57495','Lake Mariostad');
 
 INSERT INTO customers
 (first_name,last_name,email,phone,city)
 VALUES
-('Taylor','Martinez','icook@gmail.com','985-414-2088x407','Lake Jamesport');
+('Tiffany','Schwartz','alexa23@gmail.com','663.419.0854','North Denise');
 
 INSERT INTO customers
 (first_name,last_name,email,phone,city)
 VALUES
-('Harold','Wilson','ylang@gmail.com','+1-694-697-9501x92057','Michaelmouth');
+('Hannah','Bell','halleric@gmail.com','(419)860-7762x0779','New Sarahtown');
 
 INSERT INTO customers
 (first_name,last_name,email,phone,city)
 VALUES
-('David','Pearson','omason@gmail.com','(549)921-2255x580','Suzannefurt');
+('Robert','Fuller','jeremy41@gmail.com','(934)625-5953x5767','Boothview');
 
 INSERT INTO customers
 (first_name,last_name,email,phone,city)
 VALUES
-('Elizabeth','Stewart','vickieortiz@gmail.com','001-922-852-9626x2920','Wendystad');
+('Lauren','Bryant','tthompson@gmail.com','616.831.2846x73295','East Carolberg');
 
 INSERT INTO customers
 (first_name,last_name,email,phone,city)
 VALUES
-('Melissa','Miller','rscott@gmail.com','001-429-606-9353x162','West Howard');
+('Pamela','Steele','brittanybrown@gmail.com','697-527-1165','Lake Claudia');
 
 INSERT INTO customers
 (first_name,last_name,email,phone,city)
 VALUES
-('Thomas','Davis','david04@gmail.com','407.583.9457x81356','Vazquezville');
+('Brian','Lawrence','benjaminmclaughlin@gmail.com','+1-953-344-8262x8914','Gailtown');
 
 INSERT INTO customers
 (first_name,last_name,email,phone,city)
 VALUES
-('Michael','Elliott','lisachambers@gmail.com','(760)356-7446','New Jeremymouth');
+('James','Ali','yanderson@gmail.com','001-530-785-0222','East Justinville');
 
 INSERT INTO customers
 (first_name,last_name,email,phone,city)
 VALUES
-('Tonya','Beck','christopher61@gmail.com','238-902-1815','North Arianabury');
+('John','May','qking@gmail.com','430.242.1858x654','New Keithmouth');
 
 INSERT INTO customers
 (first_name,last_name,email,phone,city)
 VALUES
-('Brett','Hogan','golson@gmail.com','001-706-434-0942','Emilyville');
+('Jodi','Johnson','alexisrivera@gmail.com','+1-537-926-0218x582','Vanessamouth');
 
 INSERT INTO customers
 (first_name,last_name,email,phone,city)
 VALUES
-('Anna','Harris','ronald95@gmail.com','(544)776-0643x5215','West Christopher');
+('Gabriel','Hughes','miguel24@gmail.com','+1-591-282-7272x5543','Diazchester');
 
 INSERT INTO customers
 (first_name,last_name,email,phone,city)
 VALUES
-('Marissa','Webb','xsmith@gmail.com','270.533.9419x966','Jefferychester');
+('Ryan','Payne','sandersmichael@gmail.com','517-766-1121x4784','New Kaitlynfurt');
 
 INSERT INTO customers
 (first_name,last_name,email,phone,city)
 VALUES
-('Andrew','Harris','mariethompson@gmail.com','226-604-5515','Darrenland');
+('Christopher','Young','vicki88@gmail.com','971.675.2132','Rogerfurt');
 
 INSERT INTO customers
 (first_name,last_name,email,phone,city)
 VALUES
-('Sharon','Johnston','grayandrew@gmail.com','(203)377-7371x18528','Juliahaven');
+('Parker','Snyder','xparker@gmail.com','728-943-2731x55898','Alexanderhaven');
 
 INSERT INTO customers
 (first_name,last_name,email,phone,city)
 VALUES
-('Michael','Wilson','lewislaura@gmail.com','221.437.3549','Johnview');
+('Kathleen','Hayes','promero@gmail.com','001-454-931-4672x3795','South Curtis');
 
 INSERT INTO customers
 (first_name,last_name,email,phone,city)
 VALUES
-('Angelica','Turner','michellerodriguez@gmail.com','(631)990-8630x8007','Dunnland');
+('Melissa','Martin','kingtony@gmail.com','710.789.2185x775','Bethanyview');
 
 INSERT INTO customers
 (first_name,last_name,email,phone,city)
 VALUES
-('Cynthia','Morris','warnerstephanie@gmail.com','529.652.3511x46059','West Marystad');
+('Laura','Stephenson','wsmith@gmail.com','902-232-1172x7784','West Beverly');
 
 INSERT INTO customers
 (first_name,last_name,email,phone,city)
 VALUES
-('Robert','Reeves','charlesmejia@gmail.com','001-708-809-6924x57066','New Cindyton');
+('Kenneth','Reese','timothyhill@gmail.com','728.632.2084x31695','Reevesborough');
 
 INSERT INTO customers
 (first_name,last_name,email,phone,city)
 VALUES
-('John','Ramirez','williamsmarvin@gmail.com','+1-972-300-9050x32172','Stoutside');
+('Breanna','Payne','daviserik@gmail.com','+1-851-259-7659x153','Port Kathryn');
 
 INSERT INTO customers
 (first_name,last_name,email,phone,city)
 VALUES
-('Jacob','Huber','hoffmanchristopher@gmail.com','854-236-1745x51214','Alisonville');
+('Stephanie','Martinez','shannon15@gmail.com','697.751.0945x04289','Clarkfurt');
 
 INSERT INTO customers
 (first_name,last_name,email,phone,city)
 VALUES
-('Curtis','Smith','gregoryduncan@gmail.com','001-758-468-3280x756','East Michaelside');
+('Ernest','Juarez','keith52@gmail.com','(767)762-5764','Debrachester');
 
 INSERT INTO customers
 (first_name,last_name,email,phone,city)
 VALUES
-('Michelle','Cook','zmays@gmail.com','374.511.4657x1476','East Sheriton');
+('Timothy','Ortiz','laura61@gmail.com','+1-527-250-4308x82300','Port Paul');
 
 INSERT INTO customers
 (first_name,last_name,email,phone,city)
 VALUES
-('Christopher','Higgins','mackenzie72@gmail.com','(428)229-3868','Michaelhaven');
+('Sandra','Powell','jessica15@gmail.com','(493)576-4497x5162','Tiffanyberg');
