@@ -40,7 +40,7 @@ The database was built from scratch and populated with realistic sample data gen
 Add the exported ER diagram inside the `diagrams` folder and display it here:
 
 
-![ER Diagram](diagrams\er_diagram.png)
+![ER Diagram](diagrams/er_diagram.png)
 
 ---
 
