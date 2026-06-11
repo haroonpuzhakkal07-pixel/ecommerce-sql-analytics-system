@@ -198,40 +198,41 @@ ecommerce-sql-analytics-system/
 
 ---
 
-## Sample Analytics Queries
+## Business Analytics Dashboard
 
-### Top 10 Customers by Spending
+### Top Customers by Spending
 
-```sql
-SELECT
-    c.customer_id,
-    c.first_name,
-    c.last_name,
-    SUM(o.total_amount) AS total_spent
-FROM customers c
-JOIN orders o
-ON c.customer_id = o.customer_id
-GROUP BY
-    c.customer_id,
-    c.first_name,
-    c.last_name
-ORDER BY total_spent DESC
-LIMIT 10;
-```
+Identifies the highest-value customers based on total purchase amount.
+
+![Top Customers](images/top_customers.png)
+
+
+### Monthly Revenue Trend
+
+Shows revenue generated each month.
+
+![Monthly Revenue](images/monthly_revenue.png)
+
 
 ### Best Selling Products
 
-```sql
-SELECT
-    p.product_name,
-    SUM(oi.quantity) AS total_sold
-FROM products p
-JOIN order_items oi
-ON p.product_id = oi.product_id
-GROUP BY p.product_name
-ORDER BY total_sold DESC
-LIMIT 10;
-```
+Highlights products with the highest sales volume.
+
+![Best Selling Products](images/best_selling_products.png)
+
+
+### Revenue by Category
+
+Shows which product categories generate the most revenue.
+
+![Revenue by Category](images/revenue_by_category.png)
+
+
+### Seller Performance
+
+Ranks sellers by total revenue generated.
+
+![Seller Performance](images/seller_performance.png)
 
 ---
 
