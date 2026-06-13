@@ -1,5 +1,22 @@
 # E-Commerce SQL Analytics System
 
+## Setup
+
+1. Create a PostgreSQL database.
+2. Execute database/schema.sql.
+3. Run seed files in the following order:
+
+- categories.sql
+- customers.sql
+- sellers.sql
+- products.sql
+- orders.sql
+- order_items.sql
+- payments.sql
+- shipping.sql
+
+4. Execute analytics queries from the queries folder.
+
 ## Overview
 
 The E-Commerce SQL Analytics System is a PostgreSQL-based database project designed to simulate a real-world e-commerce platform.
@@ -235,6 +252,14 @@ Ranks sellers by total revenue generated.
 ![Seller Performance](images/seller_performance.png)
 
 ---
+
+## Key Insights
+
+- Identified the top revenue-generating product categories.
+- Analyzed customer spending behavior across orders.
+- Ranked sellers based on total generated revenue.
+- Evaluated monthly revenue trends.
+- Monitored low-stock inventory items.
 
 ## Query Optimization
 
