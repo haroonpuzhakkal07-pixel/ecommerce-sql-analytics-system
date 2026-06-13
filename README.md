@@ -1,21 +1,9 @@
 # E-Commerce SQL Analytics System
 
-## Setup
-
-1. Create a PostgreSQL database.
-2. Execute database/schema.sql.
-3. Run seed files in the following order:
-
-- categories.sql
-- customers.sql
-- sellers.sql
-- products.sql
-- orders.sql
-- order_items.sql
-- payments.sql
-- shipping.sql
-
-4. Execute analytics queries from the queries folder.
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-Database-blue)
+![SQL](https://img.shields.io/badge/SQL-Analytics-green)
+![Python](https://img.shields.io/badge/Python-Faker-yellow)
+![GitHub](https://img.shields.io/badge/GitHub-Portfolio-black)
 
 ## Overview
 
@@ -39,6 +27,18 @@ The database was built from scratch and populated with realistic sample data gen
 
 ---
 
+## Features
+
+- Normalized relational database design
+- Entity Relationship (ER) modeling
+- Automated sample data generation using Faker
+- CRUD operations
+- Complex joins and subqueries
+- Business analytics queries
+- Query optimization with indexing
+- Stored procedures and functions
+- Transaction management using ACID principles
+
 ## Technologies Used
 
 * PostgreSQL
@@ -49,6 +49,24 @@ The database was built from scratch and populated with realistic sample data gen
 * GitHub
 
 ---
+
+## Setup
+
+1. Create a PostgreSQL database.
+2. Execute database/schema.sql.
+3. Run seed files in the following order:
+
+- categories.sql
+- customers.sql
+- sellers.sql
+- products.sql
+- orders.sql
+- order_items.sql
+- payments.sql
+- shipping.sql
+
+4. Execute analytics queries from the queries folder.
+
 
 ## Database Design
 
@@ -255,11 +273,14 @@ Ranks sellers by total revenue generated.
 
 ## Key Insights
 
-- Identified the top revenue-generating product categories.
-- Analyzed customer spending behavior across orders.
-- Ranked sellers based on total generated revenue.
-- Evaluated monthly revenue trends.
-- Monitored low-stock inventory items.
+The analytics layer of this project enables:
+
+- Identification of top-spending customers
+- Analysis of monthly revenue trends
+- Detection of high-performing sellers
+- Discovery of best-selling products
+- Revenue contribution analysis by category
+- Inventory monitoring through low-stock alerts
 
 ## Query Optimization
 
@@ -326,3 +347,6 @@ Through this project, I gained hands-on experience in:
 Haroon
 
 Machine Learning Student | SQL & Data Analytics Enthusiast
+
+GitHub:
+https://github.com/haroonpuzhakkal07-pixel
